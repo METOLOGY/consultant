@@ -46,19 +46,21 @@ class Consultant:
         index_article = 0
         if isBuildTag == True:
             for article in article_list:
-
+                print article
                 #Each article will only extract 10 tags which are top 10 highest weight
                 #it uses tf-idf to calculte weight. tf is based on this article, idf here is based on jieba database
                 tags = jieba.analyse.extract_tags(article['title'], 10)
                 for tag in tags:
+                    print tag
                     if tag not in black_list:
                         if tag_to_article_ids.has_key(tag):
                             tag_to_article_ids[tag] = tag_to_article_ids[tag] + ","+str(index_article)
                         else:
                             tag_to_article_ids[tag] = str(index_article)
 
-                tags = jieba.analyse.extract_tags(article['content'], 8)
+                tags = jieba.analyse.extract_tags(article['summary'], 8)
                 for tag in tags:
+                    print tag
                     if tag not in black_list:
                         if tag_to_article_ids.has_key(tag):
                             tag_to_article_ids[tag] = tag_to_article_ids[tag] + "," + str(index_article)
@@ -72,7 +74,7 @@ class Consultant:
                     f.write(tag.encode('utf-8')+":".encode('utf-8')+tag_to_article_ids.get(tag).encode('utf-8')+"\n".encode('utf-8'))
 
         else:
-            f=open('tag_to_id.txt','r+')
+            f=open('../data/tag_to_id.txt','r+')
             lines=f.readlines()
             for line in lines:
                 line = line.decode('utf-8')
