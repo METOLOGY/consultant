@@ -1,0 +1,38 @@
+<meta charset='utf-8'>
+<!doctype html>
+<html>
+    <head>
+        <title>Console</title>
+    </head>
+    <body background >
+    <style type="text/css">
+      body{
+
+        background:url("./mysite/templates/sky-976490_960_720.jpg") no-repeat center center fixed;
+        -webkit-background-size:cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+      }
+    </style>
+      <div style="margin-top:50px">
+        <form action="/ask/" method="post" align = "center" valign = "center">
+           <b><label for="question" >Question:</label></b>
+           <input id="question" type="text" name="question">
+           <input type="submit" value="ask" style="background-color:white;">
+            {% if answer %}
+           <h4>Your Question:<h4/>
+           <h4>{{question}}<h4/>
+           <h4>Recommended Articles:</h4>
+            {% endif %}
+           <ul>
+             {% for item in answer %}
+                  <li>{{item}}<li/>
+             {% endfor %}
+           </ul>
+
+       </form>
+     </div>
+    </body>
+</html>
