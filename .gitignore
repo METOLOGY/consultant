@@ -1,7 +1,7 @@
 #debby setting
 healthconsultant/healthconsultant/settings.env
 healthconsultant/data/*.*
-
+healthconsultant/healthconsultant/localtest.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
