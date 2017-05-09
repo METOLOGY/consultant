@@ -1,3 +1,8 @@
+#debby setting
+healthconsultant/healthconsultant/settings.env
+healthconsultant/data/*.*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
