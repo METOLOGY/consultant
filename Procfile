@@ -1,1 +1,1 @@
-web: gunicorn healthconsultant.healthconsultant.wsgi 
+web: gunicorn healthconsultant.wsgi 
