@@ -11,7 +11,7 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-print 'Hello world'
+
 #os.environ.setdefault("DJANGO_SETTINGS_MODULE", "healthconsultant.settings")
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "healthconsultant.settings")
 application = get_wsgi_application()

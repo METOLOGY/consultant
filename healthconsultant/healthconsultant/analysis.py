@@ -4,7 +4,7 @@ import jieba.analyse
 import operator
 from datetime import datetime
 import json
-
+import os
 
 class Consultant:
 
@@ -17,20 +17,25 @@ class Consultant:
         black_list = {"想要","請問","如何","疑問","怎麼","為何","根據","因為","醫生"}
 
         #set dictionary to split sentence into words
-        jieba.set_dictionary('./data/dict.txt.big')
-
+        #os.path.dirname(__file__) => get path of diretory which this file is in
+        #os.path.dirname(os.path.dirname(__file__)) => get path of directory of diretory which this file is in
+        jieba_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/dict.txt.big')
+        jieba.set_dictionary(jieba_path)
+        #jieba.set_dictionary('./data/dict.txt.big')
 
         print "start read article:"+str(datetime.now())
         #parse articles into article list
         article_list = []
 
+        h2sync_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/h2sync.txt')
+        huangrh_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/huangrh.txt')
         # read file
-        with open('./data/h2sync.txt') as data_file:
+        with open(h2sync_path) as data_file:
             data = json.load(data_file)
         for index in range(len(data['data'])):
             article_list.append(data['data'][index])
 
-        with open('./data/huangrh.txt') as data_file:
+        with open(huangrh_path) as data_file:
             data = json.load(data_file)
         for index in range(len(data['data'])):
             article_list.append(data['data'][index])
