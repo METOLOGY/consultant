@@ -28,11 +28,7 @@ class ConsoltantView(APIView):
         question = request.data['question']
         consultant = Consultant()
         answer = consultant.ask(question)
-        count = 0
-        for info in answer:
-            answer[count] = info.decode('utf-8')
-            count+=1
-        #print len(answer)
+
 
         c= template.Context({'answer':answer,'question':question})
         return HttpResponse(t.render(c))

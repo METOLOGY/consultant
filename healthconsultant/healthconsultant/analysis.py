@@ -5,35 +5,32 @@ import operator
 from datetime import datetime
 import json
 
+
 class Consultant:
 
     def ask(self,query):
         #max number of recommended article
-        max_article = 10
+        max_article = 15
         isBuildTag = True  #True: build tag to article_id in real time and write into file
                             #False: get tag to article_id by reading file
         #word which will not be used to query article
         black_list = {"想要","請問","如何","疑問","怎麼","為何","根據","因為","醫生"}
 
         #set dictionary to split sentence into words
-        jieba.set_dictionary('../data/dict.txt.big')
+        jieba.set_dictionary('./data/dict.txt.big')
 
-
-
-
-        # remove whitespace characters like `\n` at the end of each line
 
         print "start read article:"+str(datetime.now())
         #parse articles into article list
         article_list = []
 
         # read file
-        with open('../data/h2sync.txt') as data_file:
+        with open('./data/h2sync.txt') as data_file:
             data = json.load(data_file)
         for index in range(len(data['data'])):
             article_list.append(data['data'][index])
 
-        with open('../data/huangrh.txt') as data_file:
+        with open('./data/huangrh.txt') as data_file:
             data = json.load(data_file)
         for index in range(len(data['data'])):
             article_list.append(data['data'][index])
@@ -51,16 +48,16 @@ class Consultant:
                 #it uses tf-idf to calculte weight. tf is based on this article, idf here is based on jieba database
                 tags = jieba.analyse.extract_tags(article['title'], 10)
                 for tag in tags:
-                    print tag
+
                     if tag not in black_list:
                         if tag_to_article_ids.has_key(tag):
                             tag_to_article_ids[tag] = tag_to_article_ids[tag] + ","+str(index_article)
                         else:
                             tag_to_article_ids[tag] = str(index_article)
 
-                tags = jieba.analyse.extract_tags(article['summary'], 8)
+                tags = jieba.analyse.extract_tags(article['summary'], 10)
                 for tag in tags:
-                    print tag
+
                     if tag not in black_list:
                         if tag_to_article_ids.has_key(tag):
                             tag_to_article_ids[tag] = tag_to_article_ids[tag] + "," + str(index_article)
@@ -69,12 +66,12 @@ class Consultant:
 
                 index_article+=1
 
-                f=open('tag_to_id.txt','w+')
+                f=open('./data/tag_to_id.txt','w+')
                 for tag in tag_to_article_ids.keys():
                     f.write(tag.encode('utf-8')+":".encode('utf-8')+tag_to_article_ids.get(tag).encode('utf-8')+"\n".encode('utf-8'))
 
         else:
-            f=open('../data/tag_to_id.txt','r+')
+            f=open('./data/tag_to_id.txt','r+')
             lines=f.readlines()
             for line in lines:
                 line = line.decode('utf-8')

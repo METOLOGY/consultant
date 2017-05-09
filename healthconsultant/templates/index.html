@@ -26,11 +26,14 @@
            <h4>{{question}}<h4/>
            <h4>Recommended Articles:</h4>
             {% endif %}
-           <ul>
+           <div>
              {% for item in answer %}
-                  <li>{{item}}<li/>
+                <div>
+                  <h4><a href= "{{item.link}}">{{item.title}}<a/><h4/>
+                  <h4>{{item.summary}}<h4/>
+                </div>
              {% endfor %}
-           </ul>
+           </div>
 
        </form>
      </div>
