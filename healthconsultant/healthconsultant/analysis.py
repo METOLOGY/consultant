@@ -11,7 +11,7 @@ class Consultant:
     def ask(self,query):
         #max number of recommended article
         max_article = 15
-        isBuildTag = True  #True: build tag to article_id in real time and write into file
+        isBuildTag = False  #True: build tag to article_id in real time and write into file
                             #False: get tag to article_id by reading file
         #word which will not be used to query article
         black_list = {"想要","請問","如何","疑問","怎麼","為何","根據","因為","醫生"}
