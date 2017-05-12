@@ -29,6 +29,7 @@ class Consultant:
 
         h2sync_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/h2sync.txt')
         huangrh_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/huangrh.txt')
+        selfadd_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/selfadd.txt')
         # read file
         with open(h2sync_path) as data_file:
             data = json.load(data_file)
@@ -40,6 +41,41 @@ class Consultant:
         for index in range(len(data['data'])):
             article_list.append(data['data'][index])
 
+        file_selfadd= open(selfadd_path, 'r+')
+        lines_selfadd = file_selfadd.readlines()
+        temp_title = ""
+        temp_summary = ""
+        type = 0 # 0:title  1:siummay
+        selfadd_index = 0
+        for line in lines_selfadd:
+            #print line
+            if line == "title\n":
+
+                if selfadd_index >0:
+                    #add article
+                    article = {}
+                    article['title'] = temp_title
+                    article['summary'] = temp_summary
+                    article_list.append(article)
+                    temp_title = ""
+                    temp_summary = ""
+
+                type = 0
+            elif line == "summary\n":
+                type = 1
+            elif line == "end":
+
+                # add last article
+                article = {}
+                article['title'] = temp_title
+                article['summary'] = temp_summary
+                article_list.append(article)
+            else:
+                if type == 0:
+                    temp_title = temp_title + line
+                else:
+                    temp_summary = temp_summary + line
+            selfadd_index += 1
 
         print "finish read article:"+str(datetime.now())
 
@@ -48,7 +84,7 @@ class Consultant:
         index_article = 0
         if isBuildTag == True:
             for article in article_list:
-                print article
+                #print article
                 #Each article will only extract 10 tags which are top 10 highest weight
                 #it uses tf-idf to calculte weight. tf is based on this article, idf here is based on jieba database
                 tags = jieba.analyse.extract_tags(article['title'], 10)
@@ -70,13 +106,14 @@ class Consultant:
                             tag_to_article_ids[tag] = str(index_article)
 
                 index_article+=1
-
-                f=open('./data/tag_to_id.txt','w+')
+                tag_to_id_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/tag_to_id.txt')
+                f=open(tag_to_id_path,'w+')
                 for tag in tag_to_article_ids.keys():
                     f.write(tag.encode('utf-8')+":".encode('utf-8')+tag_to_article_ids.get(tag).encode('utf-8')+"\n".encode('utf-8'))
 
         else:
-            f=open('./data/tag_to_id.txt','r+')
+            tag_to_id_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data/tag_to_id.txt')
+            f=open(tag_to_id_path,'r+')
             lines=f.readlines()
             for line in lines:
                 line = line.decode('utf-8')
