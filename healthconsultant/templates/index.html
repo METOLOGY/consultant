@@ -29,8 +29,12 @@
            <div>
              {% for item in answer %}
                 <div>
-                  <h4><a href= "{{item.link}}">{{item.title}}<a/><h4/>
-                  <h4>{{item.summary}}<h4/>
+                  (%if item.link is defined %}
+                     <h4><a href= "{{item.link}}">{{item.title}}<a/><h4/>
+                   {% else %}
+                     <h4>{{item.title}}<h4/>
+                   {% endif %}
+                   <h4>{{item.summary}}<h4/>
                 </div>
              {% endfor %}
            </div>
