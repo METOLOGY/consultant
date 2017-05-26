@@ -1,0 +1,3475 @@
+- !!python/unicode 'post_date': !!python/unicode 'Thu, May 11, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170511/ketogenic-diet-and-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 許多糖尿病患者都有過這樣的想法：「「既然是糖尿病，那我就把飲食中的醣給減少甚至不吃，這樣是不是血糖就不會上升了？」。到底糖尿病患者適不適合採用降低醣類攝取的「生酮飲食」呢？哪一類型的糖尿病患可以嘗試這樣的方式呢？讓我們一起了解生酮飲食的原理，以及採取時應該注意的事項。
+  tag:
+  - 生酮
+  - 糖尿病
+  - 醣類
+  - 飲食
+  - 減少醣類 
+  !!python/unicode 'title': 糖尿病適合生酮飲食嗎？
+- !!python/unicode 'post_date': !!python/unicode 'Fri, Apr 28, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170428/diabetes-and-alcohol-use/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 糖尿病難道不能享受微醺的感覺嗎？聚會應酬時該怎麼喝才安全呢？酒精對血糖值的影響會隨著飲酒時間點、身體狀況、飲酒量而改變。本文將介紹喝酒造成血糖波動的原因、糖尿病患的飲酒原則、何謂適量飲酒、以及如何預防飲酒所帶來的危害。
+  tag:
+  - 應酬
+  - 喝酒
+  - 飲酒
+  - 酒精
+  - 糖尿病
+  !!python/unicode 'title': 糖尿病可以喝酒嗎？當血糖遇上酒精
+- !!python/unicode 'post_date': !!python/unicode 'Wed, Apr 26, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170426/prediabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 在確診為糖尿病之前，大部份的人都經歷過「糖尿病前期」，血糖高於正常值，但還沒達到糖尿病標準，這時身體亮起代謝異常的警示燈，只要把握時機，積極接受治療與日常的血糖監測，搭配健康生活習慣，便可以避免走向糖尿病！
+  tag:
+  - 糖尿病
+  - 前期
+  - 血糖
+  - 糖尿病前期
+  - 糖尿病標準
+  - 避免糖尿病
+  !!python/unicode 'title': 糖尿病前期逆轉勝
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Apr 18, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170418/exercise-column-by-drma/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 智抗糖邀請到馬文雅醫師客座專欄作家，循序漸進地帶領大家開啟運動之門。已有許多研究證實，運動對控制血糖是有幫助的，對許多人來說，了解運動的好處卻知難行易，馬醫師從心理學的角度解析這樣的行為。
+  tag:
+  - 糖尿病
+  - 運動
+  - 心理學
+  - 控制血糖
+  - 血糖
+  - 血糖控制
+  !!python/unicode 'title': 【馬文雅醫師運動專欄】心，“動”了嗎？
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Apr 13, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170413/diabetes-and-macrovascular-complications/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 大血管併發症是最常見的糖尿病併發症，也是約1/5糖尿病患者的死亡原因，但一般人往往對腎病變、是網膜病變、足截肢這些小血管病變的關注高於會致死的心血管疾病，認知不足也會導致日常生活缺乏對危險因子的警覺性，本文簡介大血管併發症如何出現，有什麼症狀，如何在日常生活中預防。
+  tag:
+  - 併發症
+  - 糖尿病
+  - 血管
+  - 症狀
+  - 心血管
+  - 大血管
+  - 大血管併發症
+  - 心血管疾病
+  !!python/unicode 'title': 糖尿病的大血管併發症
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Apr 6, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170406/diabetes-and-sexual-dysfunction/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 許多男性糖友有性方面的困擾，但有勃起功能障礙就不能幸福的嗎？本文簡介糖尿病引起性功能障礙的原因，如何在伴侶的協助下治療與預防。
+  tag:
+  - 糖尿病
+  - 性功能
+  - 性功能障礙
+  - 性方面
+  - 性福
+  - 勃起
+  - 糖尿病
+  - 男性
+  !!python/unicode 'title': 糖尿病可以擁有性福嗎? --男性勃起功能障礙
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Mar 23, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170323/type-2-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 第二型糖尿病是什麼？有什麼主要症狀？哪些危險因子可以分辨自己是不是屬於高危險群？有什麼判斷的血糖指標？智抗糖整理了糖尿病基礎知識-認識第二型糖尿病篇分享給關心健康的你
+  tag:
+  - 糖尿病
+  - 第2型
+  - 第二型
+  - 症狀
+  - 血糖指標
+  - 高危險群
+  !!python/unicode 'title': 認識第二型糖尿病
+- !!python/unicode 'post_date': !!python/unicode 'Fri, Mar 17, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170317/your-testing-schedule/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 你心中有理想的血糖數值但難以達到嗎？不太清楚要怎麼運用量出來的血糖調整飲食、運動、用藥？智抗糖要和大家分享如何設定控糖目標和可行的監測計畫，讓量血糖成為更有意義的事！
+  tag:
+  - 血糖
+  - 控糖
+  - 控制血糖
+  - 控糖目標
+  - 血糖控制
+  - 監測計畫
+  - 血糖量測
+  - 量測計畫
+  - 理想血糖
+  - 目標
+  - 用藥
+  - 量測
+  - 監測
+  - 糖尿病
+  !!python/unicode 'title': 瞄準你的理想血糖數字--為你的控糖目標設定血糖量測計畫
+- !!python/unicode 'post_date': !!python/unicode 'Wed, Mar 1, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170301/fruits-for-a-healthy-diabetes-diet/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 糖尿病水果要怎麼吃？怎麼選擇呢？常見的水果含有幾份糖？低GI的水果又有哪些呢？智抗糖為您整理了適合有血糖問題的朋友吃的水果、吃的時間以及撇步喔！
+  tag:
+  - 水果
+  - !!python/unicode 'GI'
+  - 血糖
+  - 糖尿病
+  - 血糖波動
+  - 避免血糖波動
+  !!python/unicode 'title': 糖尿病水果怎麼吃？聰明選擇水果避免血糖波動
+- !!python/unicode 'post_date': !!python/unicode 'Fri, Feb 10, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170210/h2coach-comes-to-answer-question/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 服用降血糖藥物後，覺得自己越來越容易餓，是因為藥物使得對食物的需求增加嗎？建議先了解自己服用的藥物種類，常見藥物中，會刺激胰臟β細胞分泌胰島素的藥物比較有可能在藥物劑量和飲食上沒有配合好，而可能有對食物需求增加的現象。
+  tag:
+  - 藥物
+  - 降血糖
+  - 降血糖藥物
+  - 易餓
+  - 血糖
+  - 飲食
+  - 劑量
+  - 胰島素
+  - 糖尿病
+  !!python/unicode 'title': 智抗糖健康教練來解答：服用血糖藥物會增加對食物的需求嗎？
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Feb 9, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170209/skin-care-and-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 秋冬季節老是覺得這裡癢、那裡也癢。皮膚搔癢和血糖控制是有關係的！長期高血糖的患者，可能會有局部型或是全身型的皮膚搔癢症。搔癢情形除了根本的血糖控制外，還需透過日常皮膚護理來改善。
+  tag:
+  - 皮膚
+  - 搔癢
+  - 癢
+  - 保養
+  - 血糖控制
+  - 高血糖
+  - 皮膚癢
+  - 糖尿病
+  - 血糖
+  - 皮膚護理
+  - 皮膚日常保養
+  !!python/unicode 'title': 這裡癢、那裡也癢--糖尿病的皮膚日常保養
+- !!python/unicode 'post_date': !!python/unicode 'Wed, Jan 25, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170125/healthy-diets-for-people-with-diabetes-duing-chinese-new-year/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 過年飲食對糖友來說是很大的挑戰，如何在年節期間吃得安心、吃得健康，又不用擔心血糖起伏過大呢？智抗糖健康教練來告訴你圍爐怎麼吃！
+  tag:
+  - 飲食
+  - 過年
+  - 年節
+  - 飲食注意事項
+  - 糖尿病
+  - 圍爐
+  !!python/unicode 'title': 糖尿病的過年飲食注意事項
+- !!python/unicode 'post_date': !!python/unicode 'Mon, Jan 23, 2017'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170123/healthy-snacks-for-people-with-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 點心的選擇是糖友們最常見的飲食問題，肚子餓但因為怕血糖飆高，而不敢吃太多，或是疑惑為什麼有強烈的飢餓感，但血糖測出來卻看到數值偏高的結果。智抗糖健康教練教你吃點心前停看聽，控制血糖不挨餓
+  tag:
+  - 點心
+  - 零食
+  - 糖尿病
+  - 飲食
+  !!python/unicode 'title': 要如何選擇糖尿病點心又不挨餓呢？不同血糖值適合的健康點心
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Dec 29, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161229/how-to-eat-hot-pot-without-hyperglycaemia/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 寒冷的冬天，除了讓人想窩在暖暖的被窩裡外，與家人和朋友聚會，吃個熱呼呼的火鍋也是不可少的。火鍋要如何吃才可以避免血糖飆高呢?
+  tag:
+  - 吃火鍋
+  - 火鍋
+  !!python/unicode 'title': 這樣吃火鍋 不怕血糖飆
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Dec 20, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161220/how-to-eat-sweet-dumplings/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 冬至這天吃熱呼呼的湯圓與冬令進補常見的薑母鴨、麻油雞要怎麼吃血糖才不超標呢？讓智抗糖健康教練來告訴你
+  tag:
+  - 湯圓
+  - 冬至
+  - 冬令
+  - 血糖
+  - 麻油雞
+  - 進補
+  - 薑母鴨
+  !!python/unicode 'title': 冬至湯圓這樣吃，血糖不飆高
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Dec 6, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161206/dawn-phenomenon-and-somogyi-effect/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 為什麼我睡前血糖很正常，早上空腹血糖會偏高？你不可不知的糖尿病知識：黎明現象與梭莫基效應
+  tag:
+  - 睡前
+  - 梭莫基
+  - 空腹
+  - 空腹血糖
+  - 血糖
+  - 偏高
+  - 黎明
+  - 早上
+  - 糖尿病
+  !!python/unicode 'title': 為什麼早上空腹血糖會偏高？淺論黎明現象與梭莫基效應
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Nov 17, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161117/world-diabetes-day-eyes-on-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 2016世界糖尿病日的主題是「Eyes on Diabetes」，糖尿病所引發的高血糖，對微細血管造成的傷害，常會在「眼睛」形成輕重不一的損傷，根據統計，有6成的糖友沒有定期接受眼睛檢查。有哪些關於眼睛的注意事項與日常保健的重點呢？
+  tag:
+  - 護眼
+  - 糖尿病
+  - 眼睛
+  - 高血糖
+  !!python/unicode 'title': 許自己看得見的未來-糖尿病的護眼之道
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Oct 27, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161027/dash-diet-healthy-eating-to-lower-your-blood-pressure/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 得舒飲食(Dietary Approaches to Stop Hypertension, DASH)，中文直譯為
+    「停止高血壓的飲食方法」。臨床研究證實，依照DASH 飲食原則改變飲食內容，高血壓的患者可以有效控制血壓，而對健康成人，也可以維持健康的心血管系統
+  tag:
+  - !!python/unicode 'DASH'
+  - 得舒
+  - 飲食
+  - 降血壓
+  - 高血壓
+  - 血壓
+  !!python/unicode 'title': DASH飲食 降血壓新選擇
+- !!python/unicode 'post_date': !!python/unicode 'Sun, Oct 2, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161002/sugar-and-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 迷思：糖尿病是因為愛吃甜食、喝飲料導致 破除：糖的攝取會增加罹患糖尿病的風險，有研究指出...
+  tag:
+  - 糖尿病
+  - 得糖尿病
+  - 糖尿病成因
+  - 罹患糖尿病
+  - 迷思
+  !!python/unicode 'title': 我不愛吃糖，為什麼我還是會得糖尿病？
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Sep 13, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160913/bbq-diet-tips-for-diabetics/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 中秋節和親朋好友聚會是人生一大樂事，香噴噴的烤肉當前，擔心吃下去影響血糖的波動嗎？跟著營養師的撇步，估算好自己的份量，就不怕烤肉吃下去，飯後血糖狂飆了
+  tag:
+  - 烤肉
+  - 飲食
+  - 中秋
+  - 糖尿病
+  !!python/unicode 'title': 中秋烤肉吃多少？糖尿病的烤肉飲食六大技巧
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Sep 8, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160909/good-starches-for-diabetics/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 糖尿病不能吃澱粉嗎？吃白飯會讓血糖數值升高嗎？其實，糖友還是可以適量攝取澱粉，只要選對優質的澱粉就可以囉！
+  tag:
+  - 澱粉
+  - 糖尿病
+  - 白飯
+  !!python/unicode 'title': 糖尿病可以吃澱粉嗎？四大優質澱粉評比
+- !!python/unicode 'post_date': !!python/unicode 'Sun, Aug 28, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160828/type-1-diabetes-school-pack-for-parents/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': " 新學期即將到來，除了準備好文具與課本外，第一型的小朋友與家人還有哪些事前工作要準備呢?  \n::\
+    \ 家長與小朋友間的事先溝通 ::  胰島素的注射與血糖監測的地點 □在教室 □去保健室\n 胰島素注射與血糖監測由誰來執行 □小朋友自己 □學校護士 □班級老師\n\
+    \ 胰島素的存放地點 □胰島素的保冷袋 □保健室的冰箱\n 是否要告知全班同學 □是 □否 □只想讓一些朋友知道\n  除了以上幾點外，也要與小朋友溝通，當遇到低血糖時，即便是在上課，還是要馬上處理，不要因為不好意思吃東西，而沒有處理。\n\
+    :: 家長與老師的溝通 ::  開學前，家長們需事先與班級老師做溝通，除了讓老師了解糖尿病的病因外，也讓老師知道當小朋友血糖過高或過低時該如何協助處理。如果可以，在課堂上也可以介紹糖尿病正確相關知識給同學認識，讓同學了解糖尿病並不會傳染，即使罹病也可以正常上學，只是每天需要測量血糖和注射胰島素，幫助小朋友適應學校生活。\n\
+    \ 讓老師知道小朋友的胰島素注射與血糖監測時間，如有需要吃點心，或是運動前後需要補點心，也要事先與老師溝通。\n 為了預防或治療低血糖而有需要時，得允許小朋友在任何地方吃點心。並與老師或校護溝通昇糖素的存放地點與使用方法。\n\
+    \ 給予緊急聯絡的家人電話或是醫院聯繫窗口。\n  :: 在學校運動時的注意事項 :: 運動前要先量測血糖，不要獨自運動。 運動前胰島素注射以腹部為宜，避免注射四肢，以免運動時局部血流增加而加速胰島素的吸收。\
+    \ 運動前後胰島素的注射劑量與點心的補充，建議可以事先與醫師討論。\n上學，學習知識與接觸新生活、新環境，是每個小朋友的必經過程，也是踏入社會的第一步，不要讓糖尿病變成阻礙孩童上學的絆腳石，用正確的觀念與積極樂觀的態度，可以讓孩童在學習路上更加快樂!\n\
+    :: 相關單位的協助 ::  台灣兒童糖尿病關懷協會有與教育界合作，到學校做專題演講，以增進學校當局、老師、同學、病童及家屬對第一型糖尿病的瞭解，有需要，也可以提出申請。\n\
+    \ 影片分享 帶針筒上學的小孩\n  "
+  tag:
+  - 上學
+  - 小朋友
+  - 孩童
+  - 女兒
+  - 兒子
+  - 第一型
+  - 第1型
+  !!python/unicode 'title': 第一型小朋友快樂上學去
+- !!python/unicode 'post_date': !!python/unicode 'Fri, Aug 19, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160819/sugary-drinks-and-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 糖飲料會讓血糖快速上升，研究顯示每日喝兩罐含糖飲料會導致罹患第二型糖尿病的風險提高26%，第二型糖尿病高危險群應限制加糖飲料的攝取。
+  tag:
+  - 含糖飲料
+  - 糖飲料
+  - 第二型
+  - 第2型
+  - 飲料
+  - 手搖
+  - 糖尿病
+  !!python/unicode 'title': 人手一杯的手搖杯怎麼喝？你不可忽視的含糖飲料
+- !!python/unicode 'post_date': !!python/unicode 'Mon, Aug 8, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160808/can-vegan-diets-cure-diabetes/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 糖友：素食可以控制血糖嗎？我是不是一定要改吃素？...
+  tag:
+  - 素食
+  - 吃素
+  - 控糖
+  - 糖尿病
+  - 血糖控制
+  - 控制血糖
+  !!python/unicode 'title': 控糖要吃素還吃葷？再論糖尿病健康飲食
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Jun 14, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160614/bust-the-myth-of-having-low-carb-diets/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 你是不是有發現，如果當餐都沒吃到飯只吃青菜和蛋白質，飯後血糖似乎比較好？沒錯，如果你一餐中，都沒有攝取到任何醣類，短期內，血糖可能會看到明顯下降，但隨之而來的，可能會因沒攝取澱粉，而導致注意力不集中、脾氣暴躁、脂肪代謝不易、酮酸中毒等不良的後果，所以，這不是一個長久之計，也不是一個正確的飲食建議。
+  tag:
+  - 醣類
+  - 迷思
+  - 飯後
+  - 血糖
+  - 不吃
+  - 飲食
+  - 脾氣暴躁
+  - 酮酸中毒
+  - 不吃醣類
+  - 迷思
+  !!python/unicode 'title': 迷思：不吃醣類飯後血糖越好？
+- !!python/unicode 'post_date': !!python/unicode 'Fri, May 20, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160520/every-patient-tells-a-diabetes-story-2/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 'Q: 現在台灣糖尿病的問題是什麼？不同層級的醫療院所又各自面臨什麼問題呢？ 現行分級分流制度 醫院基層各有難處
+    國外的糖尿病多由基層提供照護服務，而在台灣現行的分級分流制度之下...'
+  tag:
+  - 照護
+  - 糖尿病
+  - 照護問題
+  !!python/unicode 'title': 台灣糖尿病照護問題--陳宏麟醫師專訪2
+- !!python/unicode 'post_date': !!python/unicode 'Fri, May 13, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160513/Diabetes-and-blood-pressure/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "高血壓的風險 高血壓是國內最常見的慢性病，隨著年齡增長、高血壓風險也隨著增加。而高血壓是讓心血管疾病風險以倍數增加的重要因素。根據研究顯示，當血壓超過140/90\
+    \ mmHg，會造成69%初次心肌梗塞、74%冠狀動脈心臟病、91%臟衰竭、77%初次中風的風險。高血壓造成的長期變化，會造成小動脈的變化，會在腦、眼、心、腎等器官引起併發症，除了損害器官功能，更可能危及性命。\n\
+    糖尿病與高血壓 糖尿病跟高血壓都是造成血管傷害的因子！糖尿病會使腎動脈和全身小動脈硬化，造成周邊血管阻力與收縮壓上升，引起腎臟排水功能不佳，導致水分及鈉離子滯留，造成血壓升高。而高血壓會加速糖尿病患者血管病變，在腦、眼、心、腎等器官引起併發症。糖尿病患罹患高血壓的風險是非糖尿病人的1.5倍，第1型糖尿病人的高血壓大多導致腎病變，而第2型糖尿病人的高血壓大多與其他心血管疾病(如心肌梗塞與中風)的危險因子並存。\n\
+     \n \n高血壓的症狀與建議控制目標 高血壓的常見症狀有：暫時性的頭暈頭痛、耳鳴、肩膀酸痛僵硬、心悸、呼吸急促等。如果你有高血壓，建議血壓控制小於140/90mmHg；同時有高血壓和蛋白尿的情形，建議血壓控制小於130/80mmHg，可延緩腎病變發生與惡化；如果是65歲以上的糖尿病患者，建議血壓控制小於150/90mmHg。\n\
+     \n \n日常生活的降血壓招式  限制鈉的攝取量。每天從4600毫克減至2300毫克(8g鹽減至4g)，收縮壓約下降5mmHg、舒張壓約下降2~3mmHg。\n\
+    \ 減輕體重。減輕1kg，可降低平均動脈壓約1mmHg。即使只減幾公斤，對血壓控制也有幫助喔！\n 中強度的體能活動，如每天快走30~45鐘，可下降血壓。\n\
+    \ 戒菸及適量飲酒(男性不超過2個當量，女性1當量)也有助於血壓的下降。\n  1個酒精當量 =15公克酒精= 2份脂肪= 90大卡   1酒精當量約相當於\
+    \ 啤酒375 cc（酒精濃度4%）/ 水果酒150 cc（酒精濃度10%）/ 白蘭地 40 cc（酒精濃度40%）/ 高梁酒 30 cc（酒精濃度53%）\n\
+    \ 監測  平時沒有高血壓的人應該定期，如一個星期或一個月去量一次血壓。 血壓偏高現象的人，更應天天量，即使有改善也不能中斷，切記不要隨意停藥，更不要自行增加用藥。\n\
+     \n \n糖尿病友血壓控制和血糖控制一樣重要，不能小看高血壓引起的強大殺傷力-腦中風、心肌梗塞、腎衰竭！"
+  tag:
+  - 高血壓
+  - 高血糖
+  - 血壓
+  - 血壓控制
+  - 血壓偏高
+  - 糖尿病
+  !!python/unicode 'title': 高血壓與高血糖的危險關係
+- !!python/unicode 'post_date': !!python/unicode 'Fri, May 6, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160316/managing_diabetes_during_menopause/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "更年期的荷爾蒙變化 四十七歲的美玉最近開始體重明顯增加，容易疲憊和失眠，活動量大大不如前，血糖忽高忽低，情緒也跟著煩躁，有時候不小心就跟老公發脾氣⋯⋯\n\
+    更年期是女性由中年邁向老年的過程。女性停經（連續12個月未再出現月經）的平均年齡是52歲，在停經的前10年左右，身體就會因女性荷爾蒙減少而出現不同的變化，整段受到荷爾蒙分泌影響的期間，稱為「更年期」，時間可長達10-15年。在這個階段，更年期的生理變化需要調適，而因荷爾蒙變化導致的血糖變化甚至有加重併發症的可能，讓女性的糖尿病患者更常常有「雪上加霜」的感覺。\n\
+    妳更年期了嗎？更年期的症狀  熱潮紅：這是停經期最常見的困擾。從胸口到臉好像有熱浪來襲，並伴隨皮膚發紅或流汗。\n 陰道乾燥或發癢：這是由於分泌潤滑液的腺體老化，可局部使用水溶性潤滑劑或動情激素乳膏來改善。\n\
+    \ 泌尿道問題：生殖泌尿道萎縮，伴隨著頻尿、急尿、小便灼熱感等症狀，容易發生感染。\n 情緒困擾：如憂愁、焦慮、失眠等。\n  更年期讓血糖控制變得困難 \
+    \ 雌激素以及黃體素濃度的改變同時會影響細胞對胰島素的敏感度，可能引起血糖值的大幅波動。\n 熱潮紅和盜汗的問題可能會影響睡眠品質，而這也間接的會影響血糖值的控制。\n\
+    \ 停經期的女性常會有體重增加的狀況，因此會增加胰島素阻抗，使得胰島素以及口服糖尿病藥物的需要量增加。\n 雌激素減少造成的陰道乾燥除了可能會有停經後出血症狀、性交疼痛，也會增加泌尿道、生殖道的感染風險，而糖尿病本身即為感染一風險因子。\n\
+    \  更年期可能會使得糖尿病血糖控制變得困難，但好消息是仍然有一些簡單的方法可以改善停經期的症狀，並且減少停經對糖尿病血糖控制的影響！\n\n更年期愛護身體的方法\
+    \  健康的生活習慣改變\n健康均衡的飲食、避免吸菸、減少酒精攝取、增加身體活動等都是可以幫助停經以及糖尿病的健康生活習慣。\n 定時規律的測量血糖值\n\
+    比平時更為頻繁的測量血糖值，偶爾並在夜間測量，可以幫助你理解自己的血糖對於停經症狀例如熱潮紅、情緒改變等所受之影響。做下筆記並告知你的醫師，以提供醫師調整治療計畫的依據。\n\
+    \ 找醫師改善停經期症狀\n如果停經期的症狀影響到日常生活的話，直接尋求醫師的幫助吧，賀爾蒙補充治療（Hormone replacement therapy,\
+    \ HRT）是一個可以考慮的治療，陰道潤滑劑則可以改善陰道乾燥的症狀。\n（編註：對於第二型糖尿病病患而言，停經後賀爾蒙療法利大於弊。）\n 補充鈣質和維生素D\n\
+    長期的糖尿病還可能會導致骨頭以及關節的一些病變，尤其是在女性身上。而停經後雌激素的下降也會造成骨質疏鬆和骨折風險增加，因此必須藉由飲食中增加鈣質以及維生素Ｄ的補充，以及定期骨密度的測量來改善骨質的強度。\n\
+    \     \n跟青春期、懷孕等生命階段一樣，更年期的荷爾蒙會有顯著變化，只要多關心自己身體的變化，定時規律測量血糖，依血糖數據分析即時調整生活步調、藥物使用狀況，就能安適愉悅地度過更年期！\n\
+    家人的同理心，協助度過更年期 無論是「更年期」或是「糖尿病」，家人的支持與理解往往有助於安定情緒，讓身體適應體內激素改變。身為家中的子女或者父親，對更年期的媽媽或老婆須有同理心，理解更年期女性可能的改變，協助親愛的「她」一起度過這個時期。\n\
+     \n延伸閱讀： 經期血糖波動大？淺談女性生理週期與糖尿病的關係\nCoverphoto credit to joseibyoukinavi.com"
+  tag:
+  - 更年期
+  - 荷爾蒙
+  - 停經
+  - 生理
+  - 血糖
+  - 糖尿病
+  - 停經期
+  !!python/unicode 'title': 更年期血糖控制變困難？4招更年期愛惜身體的方法
+- !!python/unicode 'post_date': !!python/unicode 'Fri, Apr 22, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160422/%E7%B3%96%E5%B0%BF%E7%97%85%E3%81%AE%E5%9C%B0%E7%90%83%E4%BF%9D%E8%A1%9B%E6%88%B0--2016%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "用減量、回收、再利用愛地球 4/22是世界地球日，提醒生活在藍星上的地球人們反思自己對地球造成什麼影響，可以做出什麼行動。台灣人平均每天產生0.86公斤的垃圾量，糖尿病相關的廢棄物，像是醫療用品包裝、吃剩的藥物、針頭等等，這些加起來是非常可觀的，而為了更健康有效的治療糖尿病，我們會持續地消費。要怎麼做到對環境更友善呢？智抗糖有一些愛護地球的好點子：\n\
+    \ 採血和打胰島素的廢棄針頭不亂丟。用有蓋的堅固容器蒐集，密封後丟到醫院的「廢棄藥物檢收箱」，以免針扎到清潔人員或是造成環境污染。  Photo credit:\
+    \ 順子\n 回收所有紙類。紙盒、說明書、廣告傳單，只要確認你不再需要它們，就丟進回收箱吧。 過期藥物落實分類回收。可以請社區藥局或是醫院藥局的專業藥師協助處理，避免進入食物鏈危害健康。\
+    \ 吃對時，吃在地，兼顧健康和環保。有機農產品生產過程可能是環境友善、低污染，但如果加上「碳足跡」，從地球遙遠的另一端或是經過長途運輸才上了我們的餐桌，就不見得是環保的了！\
+    \ 多步行和搭乘大眾運輸工具取代開車。 運動很重要啊 ，大家應該聽到耳朵都要長繭了吧，減少製造污染又有益血糖控制，豈不是好棒棒！！！另外記得要定期保養汽車，維持燃油效率。\
+    \   \n One person has the power to make change. You can make change!\n一個人的力量，足以對世界做出改變。\
+    \ 你不需要是專家， 你可以做出改變！\n  \n讓我們在世界地球日\n想一件 讓地球更好的事\n做一件 保護地球的事\n \n註1. 地球日起源於1970年代美國校園興起的環保運動，1990年代這項活動從美國走向世界，成為全世界環保主義者的節日和環境保護宣傳日，在這天不同國籍的人們以各自不同的方式宣傳和實踐環境保護的觀念。"
+  tag:
+  - 地球日
+  - 糖尿病
+  - 地球
+  - 環保
+  - 環境保護
+  !!python/unicode 'title': 糖尿病の地球保衛戰--2016世界地球日
+- !!python/unicode 'post_date': !!python/unicode 'Thu, Apr 21, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160421/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%90%83%E9%AB%98GI%E9%A3%9F%E7%89%A9%E5%AE%B9%E6%98%93%E9%A4%93%EF%BC%9F%E6%8E%8C%E6%8F%A1%E4%BD%8EGI%E9%A3%B2%E9%A3%9F%E7%A9%A9%E7%A9%A9%E6%8E%A7%E5%88%B6%E7%B3%96%E5%B0%BF%E7%97%85/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "GI值是什麼？為什麼同樣份量的醣類食物會對血糖變化有不同的影響？為什麼吃高GI食物容易餓？今天一起來認識升糖指數吧！\
+    \ :: 什麼是GI指數？ 升糖指數（Glycemic index，簡稱GI）用於衡量糖類對血糖量的影響。醣類經身體消化代謝後，成為葡萄糖，也就是血糖。同樣份量的醣類食物，分解代謝成血糖的速度也不同，被代謝的速度就是升糖指數。GI值越低的食物，血糖上升較少，容易維持血糖的穩定性。\n\
+       \n:: 正確掌握低GI飲食，穩穩控糖 高GI食物讓血糖上升和下降都較快速，因此容易覺得餓，又因為餓而吃更多，且胰島素大量分泌，容易形成體脂肪，造成肥胖。攝取低GI食物反之讓血糖變化較穩定。\n\
+       \n:: 影響食物的血糖指數的因素  澱粉類型：直鏈澱粉比支鏈澱粉的升糖指數更低。例如，白米<糯米。\n 纖維量：纖維含量高，GI值較低。\n 酸含量：酸減慢了胃排空，因此減緩了醣類的消化吸收。例如，檸檬<西瓜。\n\
+    \ 食物加工：加工愈細，需要的消化時間愈短，GI值越高。例如，原片燕麥片<1分鐘即熟燕麥。\n 烹調：烹調使得澱粉吸水，軟化食物，消化時間變短，GI值高。例如，意大利麵煮10-15分鐘<意大利麵煮20分鐘。\n\
+    \     \n升糖指數比一比 營養素不同，GI值也會各異。無論是從熱量或GI值考量，蔬菜都是最優的選擇，豆魚肉蛋類及油脂類GI值偏低，但大量攝取會造成熱量、蛋白質、油脂攝取過多。\n\
+    要注意的是，低GI並不完全等於血糖都不會上升，低GI的醣類食物總量吃多了，例如糙米飯一次吃了2-3碗，血糖仍會大幅增加！\n   "
+  tag:
+  - !!python/unicode 'GI'
+  - 飲食
+  - 糖尿病
+  - 控制
+  - 易餓
+  - 醣類
+  - 升糖
+  - 升糖指數
+  !!python/unicode 'title': 為什麼吃高GI食物容易餓？掌握低GI飲食穩穩控制糖尿病
+- !!python/unicode 'post_date': !!python/unicode 'Sat, Apr 9, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160409/%E5%A4%9A%E5%90%83%E5%A4%9A%E5%81%A5%E5%BA%B7%EF%BC%9F%E7%B3%96%E5%B0%BF%E7%97%85%E7%87%9F%E9%A4%8A%E5%93%81%E7%9A%84%E8%BF%B7%E6%80%9D/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "市售有很多糖尿病配方的營養品，穩定配方、加鉻配方、高纖、低GI，五花八門，你真的需要嗎？到底要如何選擇呢？\
+    \ 有些人以為標榜糖尿病配方的奶粉喝了就可以降血糖，買來孝親或者是當養生補品喝。但營養品其實只是讓血糖穩定上升，並降低上升的幅度，喝多了，一樣會讓血糖飆高。\n\
+     \n \n來看看到底糖尿病配方牛奶多加了什麼東西吧!!\n高纖 目的: 添加難消化性麥芽糊精、菊糖纖維等膳食纖維，不但可以延緩血糖上升的速度還可以增加飽足感。\n\
+    \ 建議平常可以多攝取青菜，一天至少3碟，並將白飯改成糙米飯，也可以增加纖維的攝取量。\n 加鉻配方 目的: 胰島素執行功能時的伴隨因子，可以(1)增加胰島素的結合能力(2)增加胰島素的接受體數目(3)增加肝臟，肌肉，脂肪組織的葡萄糖運輸。現在許多產品會特別標榜添加鉻，但糖尿病患者的血糖控制並非只靠補充鉻元素或補充特定成份，還是得作每日整體的飲食規劃。\n\
+    \ 從日常飲食中也可以獲取鉻，如糙米、酵母、乳製品、豆類、香菇、雞肉等。\n 不含乳糖 目的:有乳糖不耐症的人可以喝，降低醣類攝取。  \n乳糖的分子結構很特別，它是由1分子葡萄糖和1分子半乳糖縮合形成。進入胃腸道，乳糖消化分解為葡萄糖和半乳糖，然後吸收進入血液。也就是說，只有一部分成為血糖(葡萄糖)，另一部分(半乳糖)不會增加血糖。\n\
+    低升糖指數(低GI) 目的: 利用添加膳食纖維來使血糖上升幅度下降。\n 一般市售的牛奶屬於低升糖指數也不多，建議可以購買一般的鮮奶並在日常飲食中多攝取青菜和全榖根莖類的食物，一樣能讓血糖穩定的上升（不會上升太快且減少上升幅度）喔！\n\
+       "
+  tag:
+  - 營養品
+  - 迷思
+  - 糖尿病
+  - 血糖
+  - 乳糖
+  - 配方
+  - 牛奶
+  - 奶粉
+  - 醣類
+  !!python/unicode 'title': 多吃多健康？糖尿病營養品的迷思
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Mar 22, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160322/%E7%AE%97%E7%AE%97%E5%90%83%E4%BA%86%E5%A4%9A%E5%B0%91%E9%86%A3--%E8%AA%8D%E8%AD%98%E7%87%9F%E9%A4%8A%E6%A8%99%E7%A4%BA/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "除了了解醣類代換，看懂市售有營養標示的食物，可以幫助糖友在食物的選擇上更多元，讓日常飲食更有變化！ 讓我們一起來認識營養標示吧～\
+    \    \n   \n醣類計算 Q: 糖友最在意的就是自己到底吃了多少「醣」，如果小智今天吃了半包的奶油夾心餅乾，共吃下多少「醣」呢?\n(A) 9g (B)\
+    \ 30g (C) 39g (D) 18g (E) 60g (F) 78g\n解答 營養標示中的碳水化合物物：即醣類，指總碳水化合物(包含多醣、寡糖、單醣、雙醣)，而糖是指單醣與雙醣之總和，所以已經有包含在碳水化合物中了。而營養標示是標示每份餅乾的營養成分，一整包共有４份，小智吃了半包，所以小智共吃了２份，碳水化合物（醣）共攝取：３０ｘ２＝６０(g)\n\
+      延伸閱讀：三分鐘搞清楚「醣」與「糖」\nQ: 如果晚餐營養師建議小智只能吃4份醣類，但小智在晚餐前吃了１份奶油夾心餅乾，請問小智還可以吃多少飯？（碗為標準碗）\n\
+    (A) １／４碗 (B) １／２碗 ©３／４碗 (D)1碗\n解答  １份醣＝１５ｇ的碳水化合物；４份醣＝６０ｇ的碳水化合物\n １份奶油夾心餅乾含有３０ｇ的碳水化合物\n\
+    \ １碗飯含有６０ｇ的碳水化合物\n   因為小智吃了１份餅乾後，晚餐只能再攝取３０ｇ的碳水化合物＝１／２碗飯。\n６０－３０＝３０ｇ　３０／６０＝１／２碗\n\
+         \ncover photo credit to precisionnutrition.com"
+  tag:
+  - 營養
+  - 標示
+  - 碳水化合物
+  - 夾心餅乾
+  - 醣類
+  - 醣類計算
+  - 醣類代換
+  - 代換
+  - 營養標示
+  !!python/unicode 'title': 算算吃了多少醣--認識營養標示
+- !!python/unicode 'post_date': !!python/unicode 'Wed, Mar 16, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160316/%E6%B2%92%E7%9D%A1%E5%A5%BD%E6%9C%83%E8%AE%93%E6%97%A9%E4%B8%8A%E7%9A%84%E7%A9%BA%E8%85%B9%E8%A1%80%E7%B3%96%E5%A2%9E%E5%8A%A0%E5%97%8E%EF%BC%9F%E7%B3%96%E5%B0%BF%E7%97%85%E8%88%87%E7%9D%A1%E7%9C%A0%E7%9A%84%E9%97%9C%E4%BF%82/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': " 病人 :衛教師，我最近晚上都睡不好，早上血糖都特別高，難道睡眠不好也會讓血糖增加嗎？ 衛教師 :沒錯喔！雖然我們平常都一直強調飲食、運動、藥物是主要控制血糖的三要素，但如果以上三點都有按照醫師、衛教師的建議在執行與配合，偶爾早上空腹血糖還是偏高，可以檢視自己的作息與睡眠是否與平常有不同喔!!\
+    \  \n:: 睡眠時數與糖尿病 ::  睡眠時間的長短與糖尿病發生的風險呈現U型分布，睡太多或睡眠不足，會增加糖尿病發生的風險。\n 糖尿病患，睡眠時數越少，其糖化血色素越高。\n\
+    \   \n:: 睡眠品質與糖尿病 ::  一樣的睡眠時間，如果中間有被干擾，會使交感神經被活化，胰島素敏感度下降，導致血糖增加。\n 糖尿病患，睡眠品質越差，其糖化血色素越高。\n\
+    \   機制:睡眠品質不好->交感神經活性上升->腎上腺素分泌增加->葡萄糖 耐受性變差與胰島素敏感度下降(阻抗性上升)->血糖上升。\n  維持良好的睡眠品質與充足的睡眠時間一天6~8小時，是預防和改善糖尿病的一個參考因子!\n\
+     \n參考資料:\n <睡眠醫學> 專刊第三十三卷第六期-內分泌新陳代謝科洪薇雯主治醫師\n <中華民國糖尿病衛教學會104/12會訊>-內分泌新陳代謝科洪晧彰主治醫師\n\
+    \  "
+  tag:
+  - 睡不好
+  - 空腹
+  - 血糖
+  - 睡眠
+  - 糖尿病
+  - 胰島素
+  - 內分泌
+  - 交感神經
+  - 失眠
+  !!python/unicode 'title': 沒睡好會讓早上的空腹血糖增加嗎？糖尿病與睡眠的關係
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Mar 8, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160308/%E7%B6%93%E6%9C%9F%E8%A1%80%E7%B3%96%E6%B3%A2%E5%8B%95%E5%A4%A7%EF%BC%9F%E6%B7%BA%E8%AB%87%E5%A5%B3%E6%80%A7%E7%94%9F%E7%90%86%E9%80%B1%E6%9C%9F%E8%88%87%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E9%97%9C%E4%BF%82/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "月經與血糖濃度 糖友: 教練，為什麼我常常在經期前後，血糖變異特別大呢? 這到底是心理作用，還是真的身體起了不一樣的變化呢?\n\
+    智抗糖健康教練: 其實我們的卵巢會分泌雌激素及黃體素兩種荷爾蒙， 用以調節生殖的循環。當兩種荷爾蒙的濃度在一個月的過程中起伏上下時， 血糖的濃度也隨之改變⋯⋯\n\
+    \n\n在這張圖中，我們可以看到雌激素和黃體素在經期前後的變化：\n 雌激素>>>胰島素敏感度增加>>>血糖降低\n 黃體素>>>胰島素敏感度下降>>>血糖升高\n\
+    \  對於有經前症候群的女性而言，這樣的變動可能比較容易發現。經前症候群大約在女性 月經來潮前大約一週時 發生。\n經前症候群症狀與因應之道 在月經來潮前，可能會有情緒改變、乳房觸痛、胃腸漲氣、嗜睡、嗜食以及缺乏注意力等症狀。由於嗜食而吃進的碳水化合物及脂肪，可能讓血糖濃度的控制更加困難。\n\
+    如何因應？  利用智抗糖，記錄每天血糖的濃度。\n 在日記中，記錄月經週期開始與結束的日期與月經週期前的所有症狀。\n 找出血糖濃度改變的模式，特別是月經來潮前一週。\n\
+    \  如何調整？  月經來潮前，血糖濃度高於平常:詢問醫師是否應該逐漸增加胰島素劑量，以因應血糖濃度提高的日子。\n 月經來潮前，血糖濃度低於平常:詢問醫師是否在月經開始前幾天降低胰島素劑量。\n\
+    \ 其他如飲食與運動的調整，也可以協助血糖維持穩定。\n     \n參考資料: 《Mayo Clinic on Managing Diabetes–糖尿病》"
+  tag:
+  - 經期
+  - 淺談
+  - 週期
+  - 血糖
+  - 糖尿病
+  - 生理
+  - 女性
+  - 月經
+  - 來潮
+  - 胰島素
+  - 黃體素
+  - 症狀
+  - 經前
+  - 症候群
+  - 經前症候群
+  !!python/unicode 'title': 經期血糖波動大？淺談女性生理週期與糖尿病的關係
+- !!python/unicode 'post_date': !!python/unicode 'Sat, Jan 30, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160130/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%97%85%E8%A1%8C%E7%9A%84%E9%98%BB%E7%A4%99%EF%BC%81%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%AB%E5%8F%97%E5%81%87%E6%9C%9F%E5%90%A7/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': '「旅行的目的地並不是一個地點，而是看待事物的新方式。」 年關將至，是不是有很多朋友已經規劃好假期出外旅行了呢？藉由旅行放下一整年的疲勞，是很好的調劑身心活動。糖友外出遊玩前，可以參考此份清單，了解旅行前後的注意事項，讓自己安心，家人放心，只要帶一顆愉悅的心盡情享受旅行！
+       
+
+    旅行前的準備  出國前，先至醫院申請英文版糖尿病治療摘要，以利胰島素、口服藥隨身攜帶並因應旅途中緊急就醫。病歷摘要在海關可證明身上攜帶的藥物不是禁藥。 與衛教師討論旅行中食物及藥物的調整方法、臨時生病時的處理方法、需注射的疫苗。
+    最好依旅行天數準備雙份藥品(尤其是長途旅遊者)以供臨時應變，如果可以的話一份自己隨身攜帶，另一份寄放在同行朋友那裡以免遺失。(其他包括胰島素針頭、空針、酒精棉及糖包也應備足數量。)  旅行中  隨身攜帶糖尿病護照、識別卡或戴上刻有「糖尿病」字樣的項鍊或手鍊，一但有緊急狀況，利於旁人立即且適當的處置。
+    搭飛機時，應將胰島素與口服藥置於隨身行李，不可置放托運的大件行李中，以免溫度過低破壞藥效。 看到餐點在眼前才打針吃藥，以免發生低血糖 長時間搭乘交通工具，要比一般人更注意下肢迴圈不良，以免發生血栓動脈炎的問題，最好每隔1小時起身走動。
+    除了適時做足部運動、按摩、走動，避免交叉雙腿或穿太緊的束褲之外，因機艙內濕度較低，適時補充水份也是很重要的。  旅行小撇步  血糖自我監測：出外旅遊用餐用量不定，加上行走時間長活動量增加，因此血糖變化不定，血糖自我監測的次數要增加，如感到不舒適時，立即的血糖測量是必要的，可以依血糖值，作為調整藥物胰島素劑量和飲食立即處理的準則。
+    預防低血糖發生： 旅行中，當活動量較大、體力消耗比較多、肚子餓或用餐時間延遲時，必須先補充一份的點心餅乾，以預防低血糖發生。如有低血糖症狀發生，要用一份的糖果、糖包、飲料果汁立即處置。（如果有血糖機時再測血糖）
+    皮膚保養：注意旅遊地點的天氣情形，若高溫日曬多，防曬用品不可少，隨時補充水分以預防中暑；若是乾冷地區，則準備潤膚乳液，以免皮膚龜裂。 足部照護：準備兩雙適合走路的鞋子，以供替換，絕對不要穿著剛買的新鞋上路，並要穿白色棉質的襪子；備一支指甲剪，需要時隨時修剪指甲。   
+
+     
+
+    準備好享受你的旅行吧 在計畫旅行的時候，糖尿病患者有許多注意事項，但只要你做好萬全的準備，糖尿病絕對不是你旅行的阻礙！ 動起來，享受旅行帶來的樂趣與驚喜吧！'
+  tag:
+  - 假期
+  - 旅行
+  - 糖尿病
+  - 出國
+  !!python/unicode 'title': 糖尿病不是你旅行的阻礙！準備好享受假期吧
+- !!python/unicode 'post_date': !!python/unicode 'Sat, Jan 23, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160123/%E6%89%93%E8%83%B0%E5%B3%B6%E7%B4%A0%E5%B0%B1%E4%BB%A3%E8%A1%A8%E8%A6%81%E6%B4%97%E8%85%8E%E5%97%8E%EF%BC%9F%E4%B8%89%E7%A8%AE%E5%B8%B8%E8%A6%8B%E8%83%B0%E5%B3%B6%E7%B4%A0%E6%B2%BB%E7%99%82%E7%B3%96%E5%B0%BF%E7%97%85%E8%BF%B7%E6%80%9D/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "糖尿病治療中，控制血糖的目的是要「減少併發症發生」，因此有助調控血糖的胰島素，可說是治療過程裡不可或缺的重要方式。不過，坊間卻流傳胰島素施打的許多迷思，不僅是病人心中最根深蒂固、最難翻越的那一道牆，也是台灣胰島素治療所面臨的最大困境！大家一起來看看，自己對胰島素是不是也有相同的迷思～\n\
+    迷思一：打了胰島素表示我要洗腎了? 破解: 胰島素是所有糖尿病治療中對身體傷害最少的，除了會有低血糖風險外，對於肝、腎功能不好的糖友來說，其實是一大福音。因為胰島素不會在肝、腎代謝，所以就算肝、腎功能不好的糖友也可以使用胰島素。雖然糖尿病的口服藥物近幾年來選擇越來越多，但口服藥仍有其一定限制，特別是本身腎臟代謝功能不好的患者，在很多藥物無法使用的狀況，此時胰島素則為調控血糖的最佳選擇。\n\
+    血糖控制不佳→腎功能惡化→洗腎→必須使用胰島素當救命藥\n很多糖友都是因為血糖控制不佳，而導致併發症的發生，像是傷到腎臟，等到大部分的藥都不能用，或無效時才願意打針。可是一旦腎病變步入晚期，即使血糖控制再好也很難恢復，因此才會有打針沒多久，就要洗腎的錯誤印象。如果在沒有腎病變時或早期就將血糖控制好，這時候腎臟問題還是可逆的，可避免走向洗腎結果，因此建議糖友把握黃金治療時間，勿因迷思而錯失挽救機會！\n\
+     \n \n參考資料:華人健康網\n   \n迷思二:打了胰島素表示我要打一輩子了 破解: 如果您是第一型的糖友，沒錯，胰島素是您唯一的選擇，所以要與它和平共處^^\n\
+    如果您是第二型的糖友，越早施打胰島素，並將糖化血色素控制在7%以下，不但劑量可以越打越少，甚至還可以停用胰島素，只要藉由少量的口服藥物並搭配飲食和運動也可以維持良好的血糖值喔～但前提是你還沒有其他併發症的發生，所以越早將血糖控制下來，越可以遠離併發症！！\n\
+           \n迷思三：胰島素像是毒品打了會上癮，而且劑量會越打越多，體重也一直上升 破解：\L 當發現自己的劑量怎麼會越打越多而且體重一直增加，請先試著回想：是不是每次回診血糖都控制不好？所以醫生才會一直增加你的胰島素劑量呢？血糖控制不好，是不是你的飲食也都沒有做修正呢？還是常常有低血糖讓你不得已一直吃東西，但吃過頭血糖又飆高了。這最根本的原因可能是自己的飲食內容與胰島素劑量沒有做好調整喔！\n\
+    解決辦法： 請先與營養師詢問三餐份量該如何攝取，並搭配血糖監測，如果發現每次飯後2小時與飯前血糖差距都>60mg/dl，表示你飲食吃過量，請先修正飲食；如果發現飯後血糖都偏低，甚至到下一餐前都會有低血糖發生，請將狀況讓你的醫生知道，或許醫生可以在胰島素的劑量上做調整。很多人都在是飲食未修正，就給醫生調藥，常常劑量與飲食內容是不符合的，才會有胰島素越打越多，體重越來越重的情況發生。所以請先修正好自己的飲食習慣，醫生才能對症下藥，給予最大的協助！\n\
+       "
+  tag:
+  - 胰島素
+  - 治療
+  - 迷思
+  - 糖尿病
+  - 血糖
+  - 打針
+  - 併發症
+  !!python/unicode 'title': 打胰島素就代表要洗腎嗎？三種常見胰島素治療糖尿病迷思
+- !!python/unicode 'post_date': !!python/unicode 'Sat, Jan 9, 2016'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160109/%E4%BD%A0%E7%9A%84%E8%A1%80%E7%B3%96%E6%A9%9F%E4%B8%8D%E6%BA%96%E5%97%8E%EF%BC%9F%E9%80%A0%E6%88%90%E8%A1%80%E7%B3%96%E5%80%BC%E8%AA%A4%E5%B7%AE%E7%9A%84%E5%8E%9F%E5%9B%A0/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 是否常覺得自己的血糖機有誤差或不準？你知道其實有許多原因會導致血糖數值不同嗎？讓為教師教您正確量血糖方法、採血小秘訣、比對血糖機準度方式、跟試紙保存方式，讓你量血糖不做白工！
+  tag:
+  - 誤差
+  - 血糖機
+  - 血糖值
+  - 血糖
+  - 試紙
+  !!python/unicode 'title': 你的血糖機不準嗎？造成血糖值誤差的原因
+- !!python/unicode 'post_date': !!python/unicode 'Wed, Dec 30, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151230/%E7%87%95%E9%BA%A5%E5%8F%AF%E4%BB%A5%E9%99%8D%E8%A1%80%E7%B3%96%EF%BC%8C%E5%A4%9A%E5%90%83%E4%B9%9F%E7%84%A1%E5%A6%A8/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 糖尿病可以吃燕麥嗎？燕麥是低GI食物所以完全不會讓血糖上升可以安心大吃嗎？其實不是唷，衛教師告訴我們燕麥會因為烹煮的時間和方式改變GI值！快來看看怎麼吃燕麥最不會影響血糖數值吧！
+  tag:
+  - 燕麥
+  - 降血糖
+  - !!python/unicode 'GI'
+  - 血糖
+  !!python/unicode 'title': 燕麥可以降血糖，多吃也無妨?
+- !!python/unicode 'post_date': !!python/unicode 'Sat, Dec 12, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151212/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9A%B4%E7%98%A6%E6%9C%83%E6%98%AF%E7%B3%96%E5%B0%BF%E7%97%85%E7%97%87%E7%8B%80%E4%B9%8B%E4%B8%80%EF%BC%9F%E5%9C%96%E8%A7%A3%E8%83%B0%E5%B3%B6%E7%B4%A0%E9%98%BB%E6%8A%97/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': '在認識胰島素阻抗前，先來瞭解什麼是胰島素吧!  
+
+     
+
+    胰島素是一種賀爾蒙，由胰臟分泌，幫助我們食物中的糖份進入身體組織細胞，提供細胞正常運作所需要的能量。它的作用就像一根鑰匙，打開葡萄糖進入細胞的大門，讓葡萄糖能夠順利進入肌肉、脂肪細胞被利用，使血糖維持平衡。
+
+       
+
+       
+
+    「胰島素阻抗」，如同大門多了幾道防鎖，阻礙開門，需要其他鑰匙來協助，一剛開始可能靠2把、3把鑰匙就能將大門打開，但因為長期不良的飲食習慣和缺乏運動，使得門鎖越多(胰島素阻抗增加)需要更多的鑰匙(胰島素)才能開啟大門，一旦鑰匙供不應求時，就正式罹患糖尿病了。常在確定罹患該疾病之前，會有
+    10~20 多年的時間，身體是處在「胰島素阻抗」的狀態。
+
+    為什麼暴瘦會是常見的糖尿病症狀之一? 因為胰島素阻抗，使得大門不容易打開，*葡萄糖無法順利進入肌肉、脂肪細胞利用，身體細胞無法獲得所需能量，而在短時間內暴瘦*，但這只是短暫的，只要血糖經由藥物的輔助，使得葡萄糖能順利進入肌肉、脂肪細胞利用，體重很快就會回升。如果本來體重就過重的糖友，建議可以利用這段時間做好飲食與生活習慣的修正，延緩體重回升，甚至進行減重計畫，都可以有效減少胰島素阻抗，達到良好的血糖控制。
+
+    如何減少「胰島素阻抗」？ 1.維持理想的體重
+
+    2.每周運動至少5天，每次至少30分鐘
+
+    3.減少飽和脂肪來源的食物攝取，如豬肉、牛肉、羊肉…等
+
+    4.以菜、肉、飯的順序進食：先吃蔬菜能先讓膳食纖維抵達小腸，這樣能延緩澱粉類食物的消化與吸收，延緩血糖上升的速度
+
+    5.少油、少鹽、少糖的均衡飲食原則'
+  tag:
+  - 胰島素
+  - 胰島素阻抗
+  - 症狀
+  - 阻抗
+  - 糖尿病
+  !!python/unicode 'title': 為什麼暴瘦會是糖尿病症狀之一？圖解胰島素阻抗
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Dec 1, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151201/%E7%89%99%E5%91%A8%E7%97%85%E8%88%87%E7%B3%96%E5%B0%BF%E7%97%85/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "牙周病已經被美國糖尿病學會認為是糖尿病人的重要慢性併發症之一。 口腔出現異味、吃東西的時候發現牙齦出血、牙齦脹痛，這些*你沒有非常在意的症狀*有可能是牙周病喔！\n\
+    ▲ 為什麼糖尿病人容易有牙周病？ 糖尿病人血液內的糖分，進入牙齦溝液內的量比非糖尿病人高，使得細菌容易滋生。此外，糖尿病人唾液分泌較少，黏膜較乾(口腔和舌頭有灼熱感)，是細菌和黴菌的溫床。血糖控制不佳的糖尿病人，尤其容易產生齲齒和牙周病，此兩種口腔疾病都是由牙菌斑內的細菌所引起。而糖尿病人的末梢微血管較不暢通，無法有效發揮血液運輸的功能，降低了口腔組織和牙周組織在受到細菌侵害後的復原能力。\n\
+       \n▲ 牙周病初期常被忽略，血糖不穩定的糖友更需注意！ 若有齲齒可經由充填材料復形，或製作牙套恢復牙齒外形來治療，但牙周病初期常被病人忽略，等到症狀嚴重到牙齒動搖時才就診，此時因牙根周圍的支持骨頭已經被大量破壞，大多無法經由牙周治療來挽救。至終，因牙齒鬆脫或被拔除而成為缺牙，影響咬合和造成咀嚼功能喪失等的不良後果。\
+    \ 流行病學的調查已證實:糖尿病人更容易罹患牙周病。\n1.糖尿病人罹患牙周病的機會為非糖尿病人的2-3倍\n2.年輕的糖尿病人，或罹患糖尿病病史較長者(10年以上)會有較嚴重的牙周破壞，特別是口腔衛生不佳的病人更為常見。\n\
+    3. 糖尿病人的牙周狀況和血糖有關。研究發現血糖控制不佳的糖尿病人，牙周齒槽骨破壞的程度或速率，是血糖控制佳者的4-11倍。\n4. 臨床上有慢性牙周炎病史的糖尿病人，若發生急性牙周膿腫的現象，或於口腔內突然出現多處牙齦膿腫時，血糖常有明顯偏高的反應。\n\
+    ▲ 控制血糖和定期口腔檢查以維持口腔健康 至於治療效果，臨床研究顯示，罹患嚴重牙周炎且血糖控制不佳的病人，在接受了有效的牙周治療後，牙齦發炎和流血情況有顯著的改善，此時血糖與糖化血色素也會降低。\
+    \ 因此，對糖尿病人而言，選擇適當的飲食，妥善控制血糖外，還建議維持良好口腔衛生，定期進行口腔檢查與治療。若能如此，則可保持與非糖尿病人同樣的口腔健康。\n\
+    糖尿病人常見的口腔疾病有：\n 牙周病\n 齲齒 口乾、口角炎、口腔或舌頭有灼熱感 口腔黏膜有黴菌感染或出現扁平苔蘚   ###▲ 那要如何知道自己有口腔疾病呢?\
+    \     \n若發現上述的情形時，請找牙醫師做診斷及治療。並且提供您近期的餐前與餐後血糖數值與糖化血色素值，告知自己的糖尿病病史、進展和目前身體狀況讓醫師參考了解，並根據您個別血糖狀況提供適切治療。若無上述口腔疾病，建議您每年定期口腔檢查。早期預防、早期診斷、早期治療，是避免口腔疾病纏身的最佳方法。\n\
+    ▲如何維持良好口腔衛生與避免罹患牙周病？  務必做好口腔衛生。居家口腔保健的首要方針是做好口腔清潔，以減少細菌滋生、防止齲齒，保護牙周組織。並且協請牙醫師讓您了解正確刷牙方式。特別是針對牙齦附近齒頸部和牙縫的清潔。\
+    \ 每日至少二次(餐後或睡前)，使用牙刷、牙線或用牙間刷在牙面上做徹底地磨擦，清除附著在牙齒咬合面、頰舌側和鄰接面上的牙菌斑。 控制血糖，以增加免疫力避免感染。\
+    \ 發現有輕微的牙齦發炎、蛀牙，就要盡快就醫治療，以免細菌在口腔內不斷滋生，引起慢性發炎。 抽菸較容易罹患牙周病，是重要的危險因子，患者最好戒菸。     \n\
+    ▲抽菸與牙周病的關係 抽菸者不僅易罹患牙周病，且一旦罹病破壞程度會較一般人嚴重，即便接受治療，恢復狀況也較一般人差。根據醫學研究顯示，抽菸者牙周骨破壞程度是不抽菸者的3倍。\
+    \ 抽煙對身體的影響如下：\n 抽菸會產生自由基，對身體組織造成傷害，也會影響免疫系統，並使細菌更容易堆積於牙齒四周的組織 香菸中的尼古丁會抑制細胞生長，使牙周更容易受到牙菌斑攻擊。\
+    \ 尼古丁會使微血管收縮，影響牙周組織的養分供給，和自我修復能力。 尼古丁會削弱人體的免疫系統，導致口腔內的病原菌更容易破壞牙周組織，且尼古丁會降低牙周組織的再生能力、減少血流供給。\
+    \ 抽菸會影響牙齦周邊血流供應，因此牙齦在早期發炎時，往往不易看出紅腫、發炎或牙齦流血等症狀，以致常被忽略。若待牙齦萎縮或牙齒動搖時，牙周病情已非常嚴重。\
+    \ 抽菸為罹患牙周病重要的危險因子，建議糖尿病患者更需要戒菸，若糖尿病人戒菸其罹患牙周病的風險相對會下降。  Source: 1. 《糖尿病臨床照護指引》\
+    \ 2. 《糖尿病疑惑10大名醫解答》"
+  tag:
+  - 牙周病
+  - 糖尿病
+  - 牙齦
+  - 口腔
+  - 治療
+  - 血糖
+  - 罹患
+  - 抽菸
+  - 細菌
+  - 牙周
+  !!python/unicode 'title': 牙周病與糖尿病
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Nov 24, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151124/%E7%84%A1%E3%80%8C%E7%B3%96%E3%80%8D%E9%A4%85%E4%B9%BE%E7%9C%9F%E7%9A%84%E7%84%A1%E3%80%8C%E9%86%A3%E3%80%8D%E5%97%8E/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': '市售有很多標榜無糖的餅乾，對糖友來說真是一大好消息，終於可以大開吃戒，不用忌口了，因為標榜「無糖」，所以吃多了也不會影響血糖？
+    但真的是這樣嗎？
+
+    想一想，製作餅乾的原料，除了糖之外，基本的原料還有麵粉和油，而麵粉本身也是一種醣(澱粉/碳水化合物)，就像白飯一樣，吃多了一樣會讓血糖上升，所以還是要適量攝取。建議如果當點心，一次攝取量不要超過1份的醣量(15g醣)，否則，又會導致下一餐的餐前高血糖喔！
+
+    一起來認識營養標示吧～'
+  tag:
+  - 餅乾
+  - 無糖
+  - 無醣
+  - 血糖
+  - 營養標示
+  !!python/unicode 'title': 無「糖」餅乾真的無「醣」嗎?
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Nov 10, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151110/%E5%8F%AA%E8%A6%81%E5%9D%87%E8%A1%A1%EF%BC%8C%E7%B3%96%E5%B0%BF%E7%97%85%E4%BB%80%E9%BA%BC%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%90%83%EF%BC%9F%E4%BE%86%E8%87%AA%E7%87%9F%E9%A4%8A%E5%AD%B8%E7%9A%84%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%B2%E9%A3%9F%E8%A7%80%E9%BB%9E/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': ' 「營養師，你可以告訴我什麼食物可以吃?什麼食物不可以吃嗎?」這是一般的糖尿病患者最常在診間問的問題，所以糖尿病患者的飲食究竟該怎麼吃呢?不可以吃飯?不可以吃水果?
+
+       
+
+       
+
+    均衡飲食是王道 其實，糖尿病患的飲食原則就跟一般民眾一樣 －「均衡飲食」，只要根據每天的攝取量均衡攝取，再配合醫師用藥，就能有效的控制血糖。那均衡飲食包含哪些呢?根據最新的國民每日飲食指南，均衡的飲食包含六大類食物:水果類、蔬菜類、全榖根莖類、豆魚肉蛋類、低脂乳品類、油脂與堅果種子類，每類食物的營養成分都不同，唯有廣泛攝取各類食物，才能達到截長補短，獲得均衡營養效果，而其中的*全榖根莖類、水果類、低脂乳品類*，是屬於含醣食物，會直接影響血糖上升的3大類食物，所以糖尿病患者要特別注意這3類食物份量的攝取，避免血糖高低起伏太大。
+    糖尿病並非什麼都不能吃，只要給自己機會重新認識所吃的食物，掌握飲食原則和均衡攝取六大類食物，你就能吃的健康，血糖也不會像坐雲霄飛車一樣高低起伏不定了。 如需要詳細了解自己一天的熱量需要量和每類食物應攝取多少份，糖友們可以和營養師討論適合自己的飲食方式，或是參考中研營養資訊網。
+
+    建議飲食攝取原則:  維持理想體重，體重過重者若能減輕體重5~10%以上，將有助於病情改善。 控制每日所吃的食物份量，並養成定時定量飲食習慣。 多選用富含纖維質的食物，如：未加工的豆類、水果、蔬菜、全穀類(燕麥、糙米等)
+    。 減少食用油炸、油煎、油炒和油酥的食物，以及豬皮、雞皮等含油脂高的食物。 儘量少食用富含精緻糖類的食品如：糖果、煉乳、蜂蜜、汽水、罐裝或盒裝的果汁、加糖蜜餞、蛋捲、中西式甜點心、加糖罐頭等。
+    控制鹽分攝取，鈉攝取量應限制在每天 2400 毫克(鹽 6公克)以內，平時應盡量減少含鈉調味料的使用及食用鹽醃、鹽漬、調味重的加工食品。 盡量減少喝酒。 每日必需攝取足夠的白開水1500~2000c.c。
+
+         '
+  tag:
+  - 糖尿病
+  - 飲食
+  - 營養學
+  - 均衡
+  - 均衡飲食
+  !!python/unicode 'title': 只要均衡，糖尿病什麼都可以吃？來自營養學的糖尿病飲食觀點
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Oct 13, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151013/%E5%A4%A7%E7%AC%91%E6%9C%89%E5%8A%A9%E6%96%BC%E8%A1%80%E7%B3%96%E6%8E%A7%E5%88%B6/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 'Photo credit: Help guide. org
+
+    你有過這樣的經驗嗎？看到血糖數據不美麗的時候，因為沒有控制好血糖而感到沮喪、生氣，然後「只好」藉由一些不健康的方式來舒壓，例如大吃或是抽菸，形成惡性循環。
+
+    已有許多研究指出情緒和血糖波動是會相互影響的，像是血糖過高導致注意力無法集中，低血糖時情緒低落。反面來說，負面情緒（如焦慮、害怕）可能也會造成血糖的變異。情緒和血糖波動似乎是雞生蛋、蛋生雞的關係，那麼要如何維持平穩的血糖和心情呢？
+
+    日本的兩位研究者大西淳之和村上和雄進行了一個有趣的研究，發現正面情緒（像是大笑）可以幫助血糖控制。研究將受試者被分為「未使用胰島素的第二型糖尿病患」和「非糖尿病患」兩組，連續兩天，研究者分別在飯後給病患看內容沈悶的衛教手冊，以及觀看搞笑藝人的相聲表演，結果發現看完衛教手冊後的飯後血糖值平均上升123mg/dL，而欣賞相聲表演後則只上升77mg/dL。此外，無論是糖尿病患或是非糖尿病患，血糖值在看完搞笑節目後都明顯下降了。研究者也指出，當臉部的肌肉做出笑的動作時，大腦會釋放出腦內啡，啟動情緒中樞感受快樂的機制，讓人感到放鬆愉悅，而好心情對於血糖與血管健康都有幫助。
+
+    想要維持血糖穩定，必須找到健康的紓壓方式，讓自己養成快樂的習慣。下次看到血糖數據不如期待的時候，不妨試試大笑吧
+
+    參考資料：
+
+    < It’s Official! Laughter Lowers Blood Sugar Levels!> —The Best of Health
+
+    〈 研究：笑能降血糖 啟動好基因〉—台灣醒報'
+  tag:
+  - 血糖
+  - 大笑
+  - 控制
+  - 情緒
+  - 糖尿病
+  !!python/unicode 'title': 大笑有助於血糖控制？
+- !!python/unicode 'post_date': !!python/unicode 'Mon, Oct 5, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151005/%E4%B9%85%E5%9D%90%E6%9C%83%E5%BD%B1%E9%9F%BF%E8%A1%80%E7%B3%96/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': '你一天中有多少時間坐在椅子上呢？想要控糖，必須改善「久坐」的生活型態！
+
+    久坐影響全身 許多醫學研究證實久坐對人體影響是全身性的，像是大腦思緒不清、肩頸痠痛、傷害內臟器官、肌肉退化、影響血液循環、肥胖。長時間久坐，因為活動度減少，會導致罹患代謝症候群的機率，讓體重漸漸增加、血脂血糖血壓也慢慢偏高。此外，大家都知道運動是控糖的關鍵之一，可以增加身體對胰島素的敏感度，但久坐的負面影響是無法透過運動來抵銷的，已有研究（註1）指出：減少坐著的時間，比起進行相同時間的運動對身體健康的效果還顯著。
+
+    上班族抗糖小撇步  中午吃飽飯後適度活動，運動可以幫助熱量代謝，讓血糖控制較穩定。 利用零碎時間增加活動量，能站就不要坐，每小時起身走動幾分鐘，或是在座位上做做伸展運動，可以參考連結中的五個辦公室運動招式。   註1
+    : < Study Bolsters Link Between Heart Disease, Excessive Sitting-Excess sitting
+    associated with coronary artery calcification, an early indicator of heart problems>
+    – American College of Cardiology'
+  tag:
+  - 久坐
+  - 血糖
+  - 屁股
+  - 椅子
+  - 痠痛
+  !!python/unicode 'title': 久坐會影響血糖！？再忙也要把屁股從椅子上移開
+- !!python/unicode 'post_date': !!python/unicode 'Sat, Sep 26, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20150926/%E6%9F%9A%E8%A6%8B%E6%9C%88%E5%9C%93%E4%BA%BA%E5%9C%98%E5%9C%93%E2%80%94%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%90%83%E6%9F%9A%E5%AD%90%E8%88%87%E6%9C%88%E9%A4%85%E7%9A%84%E9%A3%B2%E9%A3%9F%E6%8A%80%E5%B7%A7/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': "   \n但願人長久，千里共嬋娟。中秋節自明代以來被稱為團圓節，與家人共賞天上一輪皎潔明月，品嚐象徵闔家團圓的柚子和月餅，是這天不可或缺的行程。小編今天要跟大家分享柚子和月餅的飲食技巧，健康團圓歡度中秋。\n\
+    : : 吃對時・中秋吃柚子 文旦是名符其實的秋之果，產期正逢中秋，果肉13~15瓣緊密結合，象徵團圓，而「柚」與「佑」諧音，有祝福之意，成為中秋佳節的應景水果。\n\
+    柚子的營養素：\n 柚子含有豐富維生素C，含量為檸檬的3倍、蘋果的8倍 柚子含有柚皮甙，可以降低血液的黏滯度 文旦柚一份：重量195g；蛋白質1.4g；脂肪0.4g；碳水化合物15g；膳食纖維2g\
+    \  *小編提醒：柚子的升糖指數比其他水果低，網路盛傳「吃柚子可以降血糖」，有人因此過量食用，事實上吃過多血糖仍會飆高，糖友須注意。\n: : 吃柚知柚・台灣文旦柚的產銷問題\
+    \ 文旦柚在1701年從漳州引進台灣，清道光年間，麻豆人郭藥將柚苗於自家庭院栽植，經過細心照料與大量栽培，栽種面積漸擴及整個麻豆，文旦成為麻豆名產。日治時期，郭家文旦更被指定為日皇「御用文旦」。台灣文旦的主要產地在台南麻豆、雲林斗六和花蓮瑞穗。每年於四月開花，白露時採收。今年蘇迪勒颱風讓柚農損失2~3成的柚子，而中秋節一過，如往年的經驗，柚子的買氣預期也會大幅降低。因此，「節前天災落果，節後文旦柚的去向」是柚農每年都會遭遇到的難題。颱風的落果往往被當作廢棄物清理，或是留在田裡當肥料，少數社區發展協會協助柚農將落果或是節後滯銷的柚子製成加工產品，如文旦柚茶果醬、防蚊貼、抗菌洗手乳、柚花薰香、精油等，但由於缺乏節省人力、能量產的加工技術，產量過剩問題仍然難以解決。\n\
+    : : 吃健康・月餅柚子怎麼吃 在飲食方面，血糖控制首重「量」的攝取。糖友在品嘗月餅前，可以先查閱攝取點心碳水化合物的含量是多少？\n如圖所示：綠豆椪1顆100g；熱量336大卡；碳水化合物41.6g；蛋白質5.6g；脂肪12.4g。若又品嘗1份的文旦，則相當我們攝取了約一碗飯。所以為了讓我們可以品嘗月餅和柚子，可以將月餅切成4等份，一次品嚐1/3~1/4月餅，而柚子則可以當成下一餐的點心品嘗。讓我們能夠血糖控制穩定，又能夠攝取應節點心。\n\
+    Source:〈中秋前憂颱風 中秋後憂暴跌 文旦柚產業何去何從？〉– 上下游News&Market新聞市集"
+  tag:
+  - 飲食
+  - 中秋節
+  - 柚見
+  - 月餅
+  - 柚子
+  - 文旦
+  - 麻豆
+  - 中秋
+  !!python/unicode 'title': 柚見月圓人團圓—中秋節吃柚子與月餅的飲食技巧
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Sep 22, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20150922/%E6%8E%A7%E7%B3%96%E9%9B%A3%E9%A1%8C%EF%BC%9A%E6%83%B3%E5%90%83%E5%8F%88%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E6%99%82%E5%80%99%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': 'Photo credit: i0.wp.com
+
+    你曾經在吃完最後一塊餅乾的時候，才驚覺自己吃完一整袋零食嗎？有許多糖友提到，控糖最痛苦的就是要改善原本的飲食習慣，腦中知道自己*「必須」*要健康飲食，*「需要」*減重，但偶爾還是會不小心破戒，知行難以合一。
+
+    這是因為食物不只是能量來源，也和我們的情緒有關。打從出生開始，媽媽在你哭的時候餵奶；長大後，當你覺得沮喪時，習慣用喜歡的食物犒賞自己。你因為食物而感到滿足、喜悅，甚至與幸福劃上等號，生活中最快樂的事莫過於和家人朋友共享美味佳餚。臨床心理學家
+    （同時也是Type 1 糖友）Dr. Jen Nash 認為這種被食物控制情緒的飲食模式是可以改變的，只要食物不再是「唯一」處理情緒的方式。他用心理學的角度告訴我們要如何打破既有的習慣：
+
+    ▲注意自己吃的行為 你可以在冰箱、錢包 （也就是任何會引發你吃或是購買食物，只為了達到被食物撫慰效果的地方）貼上便條紙，留下一個誘發不同回應（吃或買食物）的句子，像是：你要的解答在這裡嗎？
+
+    ▲當你產生對食物的欲望時，你有什麼感覺呢？ 這些感覺可能是正面或是負面的，當你有強烈感覺的時候，把這些情緒標示出來，像是興奮、難過、沮喪、無聊、寂寞、害羞、生氣等等。你可以對自己說：我在＿＿＿＿＿（填入情境、人，任何引發情緒的原因）的時候，因為＿＿＿＿＿＿＿（原因），覺得＿＿＿＿＿（情緒）。
+
+    ▲ 當想要吃的時候，可以問問自己以下的問題： ・食物可以改善情緒嗎？或是遭遇的困難導致這種情緒？
+
+    ・有別的方式或不一樣的角度來看我現在的處境嗎？
+
+    ・如果是朋友有同樣的遭遇，我會給什麼建議？
+
+    ・我是不是給自己太多壓力了？給自己過高的期待，造成自我感覺不良好？ 如果實際點會怎樣呢？
+
+    ・如果用習慣的方式回應，結果會是什麼？
+
+    ・有別的方式來處理事情嗎？什麼會是有效的處理方式？
+
+    ・我是不是過度放大其他人好的層面，卻貶低自己？或是我放大了負面的部分，縮小了正面的部分？如果從旁觀的角度來看，會不會有不同呢？
+
+    你也可以用一些方式舒緩情緒，像是和別人*說你的感覺是什麼*、*把感覺寫下來*或是用其他的活動*轉移注意力*。
+
+    如果回答完這些問題，你還是想吃東西的話，也不要譴責自己喔！ 改變需要時間，當你開始思考行為背後的原因，就是好的開始。至少在吃東西的時候，你知道「吃」是自己選擇的。
+
+    Source: < Comfort Eating and Overeating > – Dr. Jen Nash'
+  tag:
+  - 控糖
+  - 控制血糖
+  - 血糖控制
+  - 飲食
+  - 情緒
+  !!python/unicode 'title': 控糖難題：想吃又不能吃的時候該怎麼辦？
+- !!python/unicode 'post_date': !!python/unicode 'Tue, Sep 8, 2015'
+  !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20150908/%E7%A7%8B%E9%AB%98%E6%B0%A3%E7%88%BD%EF%BC%8C%E4%B8%80%E8%B5%B7%E5%8E%BB%E9%81%8B%E5%8B%95%E5%90%A7%EF%BC%81/'
+  !!python/unicode 'source': !!python/unicode 'health2sync'
+  !!python/unicode 'summary': '   
+
+    最近夜裡微風徐徐地吹拂著，沒了夏日的黏膩，涼爽的秋天正適合出門運動呢～
+
+    ▲ 運動對糖友有什麼好處呢？  增加血中葡萄糖利用率 降低糖化血色素 提升胰島素敏感度 適當調整口服降血糖及胰島素的需求量  既然運動對我們好處多多，能夠控糖又能強身，維持曼妙的身材。那就跟著小編一起，彎摩兔摩一起GO!
+
+    ▲ 關於運動的小叮嚀：  運動前與運動後量血糖，更能夠了解運動對我們血糖的變化唷！ 運動前若血糖250mg/dL且有酮酸出現、或無酮酸出現但血糖＞300mg/dL時應避免運動。若血糖＜100mg/dL，建議先補充醣類食物(約1～2份主食)。
+    運動時間若超過30分鐘以上，建議根據血糖值來補充點心如：餅乾、牛奶或水果。 運動時帶個糖果在身邊更安全，預防低血糖。 早上的藥應等運動後再服用，避免空腹或餐前運動。
+    運動時*不要*施打胰島素在運動部位，例如手腳。  ▲ 好忙好忙，沒時間運動怎麼辦？ 國民健康署建議，18歲以上成年人身體活動量：每週至少五天，每天規律運動至少30分鐘或每次運動至少維持10分鐘，每周累積達150分鐘的中等費力身體活動。上班族可以利用零碎的時間達成喔，像是邊看電視邊騎固定式腳踏車、上下班搭乘大眾交通工具、上下樓改成爬樓梯等。'
+  tag:
+  - 運動
+  !!python/unicode 'title': 秋高氣爽，一起去運動吧！
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fiasp-launch-in-canada/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在一月份時，諾和諾德公司新的胰島素：更快作用的胰島素Fiasp（取名自Faster insulin aspart,
+    Fiasp），在加拿大獲准上市。 FIASP的主要成分與現在的諾和諾德已上市的Ins …
+  tag:
+  - 胰島素
+  - !!python/unicode 'Fiasp'
+  - 諾和諾德
+  - !!python/unicode 'aspart'
+  - !!python/unicode 'insulin'
+  !!python/unicode 'title': 更快速的胰島素Fiasp上市
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/frequency-of-retino-screen-in-t1dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 視網膜病變是糖尿病患者的慢性併發症中，常見的併發症。嚴重的視網膜病變會造成視力減退，影響生活品質，甚至失明程度。除了良好的血糖控制外，定期的眼底檢查可以提早發現視網膜病變，提早介入治療。目前美國糖尿病
+    …
+  tag:
+  - 眼底
+  - 糖尿病
+  - 第一型
+  - 第1型
+  - 病變
+  - 視網膜
+  - 併發症
+  - 檢查
+  !!python/unicode 'title': 第一型糖尿病的眼底追蹤時間可調整
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/hight-weight-variable-induced-cvd/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過往的一些研究中，我們知道過重或是肥胖的病人，相較於正常體重者，有較高的心血管疾病風險以及相關慢性病的危險增加。而體重減少，特別是代謝手術（俗稱減重手術），能減少糖尿病風險以及肥胖的相關併發症。但是
+    …
+  tag:
+  - 波動
+  - 體重
+  - 心血管
+  - 疾病
+  - 肥胖
+  - 過重
+  - 併發症
+  - 危險
+  !!python/unicode 'title': 體重波動大可能造成心血管疾病
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intensive-glucose-control-prevent-microvascular-dz/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病的控制，主要是為了避免未來罹患慢性併發症的風險。那麼，糖尿病的血糖，該控制到什麼程度，才能預防慢性併發症呢？最近發表在知名醫學期刊的綜合分析研究指出，將醣化血色素控制在接近6.5%或更低的標準，
+    …
+  tag:
+  - 病變
+  - 血糖
+  - 血管
+  - 控制
+  - 併發症
+  - 糖尿病
+  - 慢性
+  - 小血管
+  - 血糖控制
+  - 控制血糖
+  !!python/unicode 'title': 積極血糖控制可預防小血管病變
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/incidence-of-dm-in-youth-increase/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去，當青少年以及幼童發現有糖尿病時，往往會認為是免疫失常造成胰島素絕對缺乏的第一型糖尿病。然而，隨著飲食習慣的改變，肥胖比例的增加，以胰島素功能缺失為主的第二型糖尿病，也逐漸在幼童及青少年中增加。
+    …
+  tag:
+  - 青少年
+  - 糖尿病
+  - 幼童
+  - 孩童
+  !!python/unicode 'title': 青少年的第一型以及第二型糖尿病發生率增加
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/what-ndr-told-us/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在上一篇在新英格蘭醫學期刊發表的瑞典NDR的糖尿病患者死亡率與心血管事件發生率的文章中，我們了解到在醫學技術進步下，糖尿病患者的整體死亡率和心血管事件有明顯改善。除了這個結論外，我們從這篇文章中還能看
+    …
+  tag:
+  - !!python/unicode 'NDR'
+  - 心血管
+  - 糖尿病
+  - 死亡率
+  !!python/unicode 'title': NDR的研究告訴我們什麼？
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/mortality-and-cvd-in-t1dm-and-t2dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在最新一期，昨天（4月13日）出刊的新英格蘭醫學期刊，刊登了一篇瑞典糖尿病患者的長期治療狀況。這篇研究透過瑞典醫療資料庫的資料，分析在1998年到2012年之間於醫療資料庫登記為糖尿病患者，在長期追蹤
+    …
+  tag:
+  - 死亡率
+  - 心血管
+  - 糖尿病
+  !!python/unicode 'title': 糖尿病患者的死亡率與心血管疾病預後
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/insulin-glp1ra-effect/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在今年美國糖尿病學會與美國臨床內分泌學會的照護指引中，不約而同的將第二型糖尿病患者建議用藥中，GLP1類似物的用藥順序將前移動。針對基礎胰島素治療無法達到目標的糖尿病患者，皆建議使用GLP1類似物與基
+    …
+  tag:
+  - 類似物
+  - 胰島素
+  - !!python/unicode 'GLP1'
+  - 用藥
+  - 藥物
+  - 第二型
+  - 第2型
+  - 糖尿病
+  !!python/unicode 'title': 胰島素與GLP1類似物併用的療效
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2i-reduce-hf-and-dead/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': EMPA-REG研究發現，SGLT2抑制劑的Empagliflozin在已有心血管疾病的糖尿病患者，可降低心血管疾病的發生率和因心血管死亡的風險。然而，這樣的保護心血管好處是Empagliflozin
+    …
+  tag:
+  - !!python/unicode 'SGLT2'
+  - 抑制劑
+  - 死亡率
+  - 衰竭
+  - 心血管
+  - !!python/unicode 'Empagliflozin'
+  - !!python/unicode 'EMPA'
+  - !!python/unicode 'REG'
+  !!python/unicode 'title': SGLT2抑制劑可降低心衰竭和死亡率
+- !!python/unicode 'post_date':
+  - !!python/unicode '2017-04-25'
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/2017%e5%b9%b4%e7%be%8e%e5%9c%8b%e8%87%a8%e5%ba%8a%e5%85%a7%e5%88%86%e6%b3%8c%e5%ad%b8%e6%9c%83%e7%9a%84%e7%94%a8%e8%97%a5%e5%bb%ba%e8%ad%b0-%e7%ac%ac%e4%ba%8c%e5%9e%8b%e7%b3%96%e5%b0%bf%e7%97%85/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary':   在美國，除了糖尿病學會（以下縮寫ADA）針對糖尿病發佈治療的建議指引外，美國臨床內分泌學會/美國內分泌學院（以下縮寫AACE/ACE）和美國臨床內科醫學會（以下縮寫ACP）也會針對糖尿病
+    …
+  tag:
+  - 內分泌
+  - 用藥
+  - 藥物
+  - 糖尿病
+  - 第二型
+  - 第2型
+  !!python/unicode 'title': 2017年美國臨床內分泌學會的用藥建議-第二型糖尿病篇
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fructose-damage-liver/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在市面上吃得到的加工食品的「甜」，譬如果汁，碳酸飲料，手搖飲料等等，他們所使用的糖，多半是使用高果糖玉米糖漿來達到甜度的需求。而高果糖玉米糖漿的主要成分包括了葡萄糖和果糖。許多研究已經指出果糖與高三酸
+    …
+  tag:
+  - 肝臟
+  - 年輕人
+  - 果糖
+  - 糖漿
+  - 飲料
+  - 手搖
+  - 加工食品
+  - 甜度
+  - 果汁
+  - 碳酸飲料
+  !!python/unicode 'title': 果糖危害年輕人的肝臟
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fda-aprove-qtern/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在上個月，2月底的時候，美國食藥局核准了AstraZeneca阿斯特捷利康公司(PS1)新的複方藥Qtern，他包括了SGLT2抑制劑Dapagliflozin（Forxiga,
+    福適佳）以及DPP4 …
+  tag:
+  - 複方
+  - !!python/unicode 'Saxagliptin'
+  - !!python/unicode 'Dapagliflozin'
+  - 捷利
+  - 阿斯特
+  - !!python/unicode 'Qtern'
+  - !!python/unicode 'Forxiga'
+  !!python/unicode 'title': 美國食藥局核准Dapagliflozin/Saxagliptin複方藥
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intervention-prevent-rebound-weight-gain/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 關於減重，其實有各種不同方法（飲食，運動，甚至於藥物等等）可以在3至6個月的時間內達到明顯的減重效果。然而，在之後往往就復胖，而失去了這段時間的減重效果。二月份一篇發表在美國內科醫學誌的研究指出，在完
+    …
+  tag:
+  - 減重
+  - 復胖
+  - 減肥
+  !!python/unicode 'title': 持續性介入可避免減重後的復胖
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/young-t2dm-easy-complications/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病對健康的危害，並不僅僅是高低血糖本身帶來的健康威脅，還包括了長期控制不良之下帶來的併發症：眼底病變，腎病變，神經病變等等問題。在最近一篇發表在美國醫學期刊JAMA的分析研究指出，年輕時就罹病的第
+    …
+  tag:
+  - 年輕人
+  - 併發症
+  - 罹患
+  - 糖尿病
+  - 第二
+  - 第二型
+  - 第2型
+  - 病變
+  - 神經
+  - !!python/unicode 'JAMA'
+  !!python/unicode 'title': 將近3/4的第二型糖尿病年輕人罹患併發症
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fmd-for-health/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 斷食飲食是一個被廣為流傳，但是是否真的有好處卻尚未知道的一種特殊飲食法。最近一篇發表在Science Translational
+    Medicine的論文指出，以一個月選連續五天做減少食物攝取的模擬斷食 …
+  tag:
+  - 斷食
+  - 間歇
+  - 飲食
+  !!python/unicode 'title': 間歇斷食可能對健康有益
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/ebm-lchf-diet/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在2月份的英國運動醫學期刊（屬於BMJ期刊體系）發表了一篇關於低醣高脂的回溯文章。這篇文章針對現有的低醣高脂飲食的科學性研究，從定義，臨床優缺點，可能的疑慮，做系統性的回溯。
+    定義 在飲食的建議中，將 …
+  tag:
+  - 高脂
+  - 低醣
+  - 飲食
+  !!python/unicode 'title': 低醣高脂飲食的臨床醫學證據
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/ema-warning-sglt2i-amputation-risk/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': SGLT2抑制劑是近幾年熱門的血糖藥，除了控制糖尿病之外，這類藥物有減重，不易低血糖，保護心血管，保護腎臟等好處。但是一些新的副作用也在過去這幾年被發現，包括了酮酸中毒，脫水，急性腎衰竭，骨折等風險的
+    …
+  tag:
+  - 藥物
+  - 用藥
+  - !!python/unicode 'SGLT2'
+  - 抑制劑
+  - 截肢
+  - 腎衰竭
+  - 腎臟
+  !!python/unicode 'title': 歐洲醫學機構警示所有SGLT2抑制劑藥物必須標示截肢風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/air-pollution-and-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去，有一些研究暗示空氣污染與肥胖，胰島素功能等等有關聯。最近一篇線上發表在一月份的知名期刊Diabetes的研究指出，過重或是肥胖的青少年暴露在空氣污染的環境中，會增加體重程度，降低胰島素敏感性和
+    …
+  tag:
+  - 空氣污染
+  - 糖尿病
+  - 胰島素
+  - 肥胖
+  - 環境
+  - 過重
+  - 體重
+  !!python/unicode 'title': 空氣污染增加糖尿病風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/good-lifestyle-reduct-cv-risk/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 許多的慢性病，包括糖尿病，高血壓，冠狀動脈疾病等等，都發現是多重因素造成的疾病產生。這些因素包括了基因遺傳（用比較俗語的話叫體質），不健康的生活習慣，肥胖等等。而糖尿病，高血壓，冠狀動脈疾病這些疾病與
+    …
+  tag:
+  - 生活習慣
+  - 遺傳
+  - 基因
+  - 慢性病
+  - 糖尿病
+  - 體質
+  !!python/unicode 'title': 生活習慣的改變可以逆轉基因遺傳的疾病風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/pioglitazone-may-add-bladder-ca-risk/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在去年的時候，部落格提到國際知名期刊JAMA提出論文報告認為Pioglitazone不會造成膀胱癌風險，但是在更後來的一些研究中，又指出Pioglitazone可能會增加膀胱癌風險。因此在上週，12月
+    …
+  tag:
+  - !!python/unicode 'Pioglitazone'
+  - 膀胱癌
+  - !!python/unicode 'JAMA'
+  !!python/unicode 'title': Pioglitazone增加膀胱癌的風險警示
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/pre-dm-up-cv-risk/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在臨床上，我們依血糖值和醣化血色素，區分正常人的血糖(PS1)，糖尿病(PS2)，以及介於兩者之間，叫做「糖尿病前期」。最近的綜合分析研究發現，糖尿病前期的心血管風險就已經明顯增加。
+    前言 血糖的數值 …
+  tag:
+  - 糖尿病前期
+  - 前期
+  - 心血管
+  !!python/unicode 'title': 糖尿病前期增加心血管風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-tx-new-era/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 從美國糖尿病學會ADA，美國內分泌學會AACE，世界糖尿病聯盟IDF，以及台灣的糖尿病學會等指導原則，都暗示著，在積極的血糖控制下，糖尿病患者的小血管併發症會大幅改善，而大血管併發症可能有所改善。
+    但 …
+  tag:
+  - 治療
+  - 血糖
+  - 糖尿病
+  - 併發症
+  - 血糖控制
+  - 控制血糖
+  !!python/unicode 'title': 血糖治療新世代
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/semaglutide-reduced-cv-outcome/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': Semaglutide是諾和諾德公司新研發的一週施打一次的GLP1類似物，是屬於糖尿病藥物中，以腸泌素為基礎的治療藥物。目前正在進行Semaglutide的上市前第三期藥物實驗。在一連串的實驗中，SU
+    …
+  tag:
+  - 類似物
+  - !!python/unicode 'Semaglutide'
+  - 心血管
+  - 糖尿病
+  - !!python/unicode 'GLP1'
+  - 腸泌素
+  !!python/unicode 'title': Semaglutide降低糖尿病患者心血管風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/iit-for-newdm-tw/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在兩週前，我提到了國外關於新診斷糖尿病患者，先給予短時間積極的胰島素注射，再逐步改成口服藥，甚至減少至不需要藥物的早短期積極胰島素治療概念。這樣的治療方法已經證明可以大幅改善患者在一年至兩年之後的控制
+    …
+  tag:
+  - 治療
+  - 胰島素
+  !!python/unicode 'title': 2016年IDF-WPR上課紀錄（下）-短期積極胰島素治療的台灣經驗
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2i-cv-protection-ketone/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在這次的國際糖尿病聯盟西太平洋地區（IDF-WPR）年會上，最後一天10月30日中午的會議中，加州大學的Sunder
+    Mudaliar教授針對Empagliflozin藥物在EMPA-REG研究中，對 …
+  tag:
+  - 腎功能
+  - !!python/unicode 'SGLT2'
+  - 酮體
+  - 抑制劑
+  - 藥物
+  - !!python/unicode 'Empagliflozin'
+  !!python/unicode 'title': 2016年IDF-WPR上課紀錄（中）-SGLT2抑制劑保護心腎功能的酮體理論
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/2016-idf-wpr-record-01/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 第十一屆國際糖尿病聯盟西太平洋地區（IDF-WPR）的年會和第八屆亞洲糖尿病學會（AASD）年會，於10月27日到30日於台北國際會議中心舉辦。在這種大型學術活動中，會有很多將要發表的研究結果會在會議
+    …
+  tag:
+  - !!python/unicode 'GLP1'
+  - !!python/unicode 'SGLT2'
+  !!python/unicode 'title': 2016年IDF-WPR上課紀錄（上）-GLP1和SGLT2相關研究
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sleep-metabolic-rate/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 睡眠是人類生活中最重要的機轉，不僅與每天的精神狀況有關，也和健康狀況有明顯關聯。過往的研究發現，睡眠時間縮短，與肥胖，體重增加，胰島素阻抗性增加有關。然而，這當中的機轉是什麼呢？
+    睡眠長短與熱量攝取關 …
+  tag:
+  - 體重
+  - 睡眠
+  - 體重增加
+  !!python/unicode 'title': 睡越少，體重越重
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/moderate-exercise-prevent-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 運動可以有效的治療和預防糖尿病。在前一篇文章中，提到了運動可以改善糖尿病患者。而運動的預防效果如何呢？根據最新的分析研究顯示，每週150分鐘的中等強度運動(PS1)可以降低26%的糖尿病風險，隨著更高
+    …
+  tag:
+  - 預防
+  - 運動
+  - 糖尿病
+  !!python/unicode 'title': 中等強度運動可有效預防糖尿病
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/%e9%a3%af%e5%be%8c%e9%81%8b%e5%8b%95%ef%bc%8c%e6%9b%b4%e6%9c%89%e5%8a%a9%e6%96%bc%e8%a1%80%e7%b3%96%e6%8e%a7%e5%88%b6/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 美國糖尿病學會和許多專業的糖尿病學會，針對糖尿病患者的運動建議是：每週150分鐘的中等強度運動（PS1），或是每週至少五天，每天30分鐘的中等強度運動。對於許多上班族來說，要每天撥空30分鐘來運動其實
+    …
+  tag:
+  - 飯後
+  - 運動
+  - 血糖
+  - 控制
+  - 血糖控制
+  - 控制血糖
+  - 糖尿病
+  !!python/unicode 'title': 飯後運動，更有助於血糖控制
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/early-iit-for-new-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 越來越多的證據顯示，在診斷為糖尿病的初期時，給予短時間，積極的胰島素治療，有相當大的機會可以改善胰島素的功能，甚至在未來的一到兩年時間，不需要任何藥物，也能將血糖控制達標。但是，何種患者使用這類治療效
+    …
+  tag:
+  - 胰島素
+  - 糖尿病早期
+  - 早期
+  - 治療
+  - 糖尿病
+  - 藥物
+  !!python/unicode 'title': 糖尿病早期給予短期積極胰島素治療，可改善胰島素功能
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/about-usa-treat-trend/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去十年間，有許多新的糖尿病用藥上市，對於糖尿病的治療帶來改變。然而，新的糖尿病用藥能改變整體糖尿病患者控制的好處嗎？從美國最近一份研究報告看來，新的糖尿病用藥，並不能帶來控制血糖的好處，還有很多我
+    …
+  tag:
+  - 美國
+  - 治療
+  - 糖尿病
+  - 用藥
+  !!python/unicode 'title': 美國糖尿病治療現況
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intro-toujeo/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖德仕Toujeo是賽諾菲（Sanofi)公司新出的胰島素，他的化學結構與目前的蘭德仕Lantus（成分為Insulin
+    glargine）相同，但是透過特殊的處理，讓同樣體積下的胰島素有較高的濃度。 …
+  tag:
+  - 糖德仕
+  - !!python/unicode 'Toujeo'
+  - 胰島素
+  - 新型
+  !!python/unicode 'title': 新型胰島素，糖德仕Toujeo介紹
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/how-to-titrate-bbq-for-autumn/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 撰稿：虎尾台全診所黃峻偉副院長，蘇鈺幀營養師 中秋節烤肉，糖尿病病友們常常會苦惱烤肉醬如何使用：市面上的烤肉醬為了達到好吃的口感，一般來說重鹽重糖，但是這兩者對糖友的健康來說，都是很大的負擔。虎尾台全
+    …
+  tag:
+  - 烤肉醬
+  - 烤肉
+  - 中秋烤肉
+  - 中秋
+  !!python/unicode 'title': 中秋烤肉，糖友的烤肉醬如何調理？
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dpp-exercise-prevent-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在預防和治療糖尿病上，生活習慣的改變：飲食，運動，以及減重，是很重要的一環。在上個月美國糖尿病學會年會上，DPP研究小組發佈了追蹤十多年的研究報告：運動本身可以降低罹患糖尿病風險，而且效果是獨立於減重
+    …
+  tag:
+  - 糖尿病
+  - 運動
+  - 預防
+  - 前期
+  - 生活習慣
+  !!python/unicode 'title': 運動可降低糖尿病前期患者惡化成糖尿病的風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/do-not-broadcast-the-error-website/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 這是一篇在網路流傳的文章，宣稱用草藥可以治療糖尿病足。然而，這樣的文章，會害慘很多糖尿病患者！ 糖尿病足是糖尿病中嚴重的併發症，它是因為糖尿病的多重因素造成了糖尿病族的產生，這當中包括了：糖尿病引起的
+    …
+  tag:
+  - 草藥
+  !!python/unicode 'title': 為了你的家人好，請不要傳這種亂七八糟的文章
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/how-empa-protect-cardiorenal/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 去年九月歐洲糖尿病學會的年會上，EMPA-REG的研究結果，顯示Empagliflozin具有保護心血管的好處。這個月美國糖尿病學會的年會上，EMPA-REG的研究發表了進一步的研究成果，根據後續分析
+    …
+  tag:
+  - !!python/unicode 'Empagliflozin'
+  !!python/unicode 'title': Empagliflozin如何改善心腎結果？有各種解釋
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intensive-life-intervention-for-dm-outcome/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 所有糖尿病治療的前提，都是要求做飲食，運動，減重等生活習慣的調整，同時進行藥物治療。通常醫護團隊在進行這些生活習慣的調整，是在每三個月的看診中進行一次至兩次的衛教。如果我們進行更積極的醫護團隊介入，能
+    …
+  tag:
+  - 生活習慣
+  - 生活品質
+  - 糖尿病
+  - 治療
+  !!python/unicode 'title': 積極生活習慣調整可改善糖尿病患者的生活品質
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2-aki-renoprotection/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在前一篇討論SGLT2抑制劑的近期研究時，被問到為什麼Empagliflozin有保護腎臟功能，但是近期美國食藥署又發佈了Canagliflozin和Dapagliflozin的急性腎傷害（AKI）的
+    …
+  tag:
+  - 腎功能
+  - !!python/unicode 'SGLT2'
+  - 抑制劑
+  - 腎傷害
+  - !!python/unicode 'Canagliflozin'
+  - !!python/unicode 'Empagliflozin'
+  - !!python/unicode 'Dapagliflozin'
+  - !!python/unicode 'AKI'
+  !!python/unicode 'title': SGLT2抑制劑與腎功能之間的關聯
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/gut-microbiome-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去幾十年對於為甚麼會發生糖尿病，主要集中在基因，環境，生活習慣等這些因素。然而，這幾年的研究發現，腸胃道的微生物與糖尿病之間也是有關聯的。
+    常見的糖尿病分為第一型糖尿病與第二型糖尿病。第一型糖尿病 …
+  tag:
+  - 腸胃
+  - 微生物
+  - 糖尿病
+  - 生活習慣
+  !!python/unicode 'title': 腸胃道微生物與糖尿病的關聯
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2i-recent-report-summary/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': SGLT2抑制劑是目前最新一類的糖尿病藥物，透過將葡萄糖由尿液中排出的機制，來達到降血糖的治療效果。這篇文章整理近期關於SGLT2抑制劑的研究和FDA警語，提供臨床醫護人員參考。
+    目前已上市的SGLT …
+  tag:
+  - !!python/unicode 'SGLT2'
+  - 抑制劑
+  - 藥物
+  !!python/unicode 'title': SGLT2抑制劑的近期資訊整理
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/metabolic-surgery-for-dm-in-overweight/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 亞洲人種和歐美人種在體型差異並不小，表現在糖尿病患者上也是如此。罹患糖尿病的亞洲人在身體質量指數（BMI,
+    身高除以體重平方）往往低於歐美人種。而在這兩年，開刀治療糖尿病已列為美國糖尿病學會的治療方案 …
+  tag:
+  - 手術
+  - 減重
+  - 糖尿病
+  - !!python/unicode 'BMI'
+  !!python/unicode 'title': 亞洲糖尿病患者在較輕的體重下實施減重手術可改善長期預後
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/empagliflozin-prevent-nephropathy/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 前言 在去年歐洲糖尿病學會的年會上，新藥Empagliflozin在它的EMPA-REG研究中展現了它獨特的好處：可以降低心血管疾病高風險族群的心血管死亡率38%。在後續的分析研究發現，Empagli
+    …
+  tag:
+  - !!python/unicode 'Empagliflozin'
+  - 病變
+  - 糖尿病
+  - 心血管
+  - 腎病變
+  !!python/unicode 'title': Empagliflozin可延緩糖尿病腎病變
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/hope-3-outcome/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去，已經有相當多的研究報告告訴我們，在心血管疾病（註1）的高風險族群中，除了生活習慣改變外，藥物的介入，改善血脂血壓，能降低未來發生心血管疾病的風險。但是，對於中度風險的患者（每年發生率1%的風險
+    …
+  tag:
+  - 血壓
+  - 治療
+  - 血脂
+  - 心血管
+  - 藥物
+  - 發生率
+  - 生活習慣
+  !!python/unicode 'title': HOPE-3研究告訴我們的關於血壓血脂治療觀念的改變
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/metformin-adjust-in-ckd/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在今年的4月8日，美國FDA（相當於台灣的食藥署）調整了糖尿病的第一線用藥，Metformin在腎功能不佳的劑量調整，與過去相比，這次的調整大幅放寬了Metformin在腎功能不佳時的使用條件。以前M
+    …
+  tag:
+  - 腎功能
+  - !!python/unicode 'Metformin'
+  !!python/unicode 'title': 美國FDA修改Metformin在腎功能不佳的劑量調整
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/melatonin-and-insulin-secretion/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 之前有許多研究指出，夜班工作者與糖尿病的風險有關，但是這中間的關聯為何呢？最近有研究指出，褪黑激素的受體產生基因變異的人，對胰島素的分泌會有影響，甚至可能與糖尿病有關聯。
+    褪黑激素是松果體分泌，調整身 …
+  tag:
+  - 胰島素
+  - 激素
+  - 糖尿病
+  - 褪黑激素
+  !!python/unicode 'title': 褪黑激素與胰島素分泌的關聯
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/legacy-effect-of-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病患者在剛開始被診斷有糖尿病時，往往非常排斥任何藥物的介入。希望能先自我飲食和運動控制一段時間，如果沒有達到目標，再來吃藥。但是這樣的觀念正確嗎？越來越多証據証明，這種觀念有錯，長久下來對身體傷害
+    …
+  tag:
+  - 血糖
+  - 控制
+  - 血糖控制
+  - 控制血糖
+  - 糖尿病
+  !!python/unicode 'title': 積極血糖控制，越早做越好
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/new-glp1-semaglutide-for-cv-outcome/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去幾年，治療糖尿病遇到瓶頸，即使我們將患者的血糖控制達到目標，但是仍無法降低病患因為中風，心肌梗塞等心血管疾病死亡的機會。但是從去年開始，不斷有好消息傳出，先是百靈佳的新藥Empagliflozi
+    …
+  tag:
+  - 新藥
+  - 心血管
+  - 百靈
+  - !!python/unicode 'Empagliflozi'
+  !!python/unicode 'title': 又有新的血糖藥可以降心血管風險！
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/more-stand-more-health/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 這幾年來，越來越多的證據顯示，久坐的辦公室工作，對身體的危害極大。那麼，換過來想，如果工作中多走動，是否對身體有幫忙呢？答案是，有的！
+    這項在丹麥和格陵蘭的研究，針對辦公室工作者做研究，研究者針對辦公 …
+  tag:
+  - 辦公室
+  - 久坐
+  !!python/unicode 'title': 辦公室工作者多走少坐對身體有益
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/beer-not-reduction-cholesterol/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 昨天的自由時報有篇國際新聞提到喝啤酒對健康有好處：顛覆傳統？美研究：啤酒能減肥又降低膽固醇。但是這樣的結果實在太超乎我們對於啤酒的了解，我去找了原文來看。
+    在Pubmed的論文系統上可以找到這篇研究， …
+  tag:
+  - 膽固醇
+  - 減肥
+  - 啤酒
+  !!python/unicode 'title': 偽新聞-啤酒可減肥降膽固醇是錯的
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/islet-transplantation-in-t1dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 第一型糖尿病患者因為體質加上不明原因引起的自體免疫反應，破壞了胰臟的胰島細胞功能，導致身體缺乏胰島素，需要終身使用胰島素來維持血糖的穩定。然而，靠著體外的胰島素注射，終究不如身體自身分泌的胰島素來的精
+    …
+  tag:
+  - 治療
+  - 糖尿病
+  - 第一型
+  - 第1型
+  - 細胞
+  - 細胞移植
+  - 移植
+  - 體質
+  !!python/unicode 'title': 第一型糖尿病治療新曙光-胰島細胞移植
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dmq02-is-insulin-means-hd/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 胰島素是糖尿病治療當中很有效的一種治療方式，特別是在第一型糖尿病患者，沒有胰島素的話，他們會在很短的時間內就有生命危險甚至死亡。但是胰島素在目前來說，仍然以皮下注射為主。一般人對於針頭注射，多少會抱持
+    …
+  tag:
+  - 糖尿病
+  - 胰島素
+  - 洗腎
+  !!python/unicode 'title': 糖尿病大哉問02-打胰島素表示糖尿病很嚴重，而且打了會洗腎？
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dmq01-can-dm-be-cured/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病，有人稱之為文明病。據估計，目前台灣已經有超過200萬的糖尿病人口，對於國人的健康造成很大的衝擊。但是關於糖尿病，有很多不正確的知識在民間流傳。透過新推出的「糖尿病大哉問」這個系列，解決大家的疑
+    …
+  tag:
+  - 糖尿病
+  - 治好
+  !!python/unicode 'title': 糖尿病大哉問01-糖尿病可以治好嗎？
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/medical-information-about-995/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 關於葡眾995的相關資訊，葡萄王公司的經銷商提供他們通過醫學研究的報告，我也閱讀並查證。所以接下來進一步討論這些醫療上的問題。
+    關於葡眾995的相關醫學研究，根據我拿到的資料以及網路上公開查到的資料， …
+  tag:
+  - !!python/unicode '995'
+  - 葡眾
+  !!python/unicode 'title': 關於葡眾995的醫學資訊
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/long-term-outcome-of-metabolic-surgery-for-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在過去十多年間，開刀治療糖尿病，已經成為糖尿病治療的一個選項。許多研究已經指出，透過胃繞道手術或是胃切除，可以改變身體內分泌的狀況，而大幅改善血糖，並且同時達到減重的效果，改善患者的生活品質，而且血糖
+    …
+  tag:
+  - 開刀
+  - 治療
+  - 肥胖
+  - 不佳
+  - 糖尿病
+  !!python/unicode 'title': 控制不佳的肥胖糖尿病患者，開刀治療會是好選項
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/diet-could-not-complete-treat-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 安素，葡勝納這類的管灌食物，它是一種代餐類的食物。一罐熱量250卡接近一碗飯（280卡）熱量。這類食物是針對使用管灌，或因為其他疾病造成食慾下降，吃不了太多食物的替代食物。安素類的管灌食品，升糖指數比
+    …
+  tag:
+  - 治療
+  - 葡勝納
+  - 糖尿病
+  - 管灌
+  - 安素
+  - 代餐
+  !!python/unicode 'title': 那些代言葡勝納可治療糖尿病的真該下地獄！
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/no-eat-which-can-treat-everything/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 我沒有想到關於葡勝納的貼文會被許多直銷的入侵，特別是葡眾995。我直接說說對於直銷的營養食品看法吧。 糖尿病患者，在不同的腎臟病階段，給予的蛋白質量不一樣。在正常腎功能約可以接近每天每公斤1克的蛋白質
+    …
+  tag:
+  - 直銷
+  - 營養食品
+  - 葡勝納
+  !!python/unicode 'title': 如果直銷的營養食品告訴你可以治百病，就別吃了
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/very-low-calorie-to-cure-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 有許多病友常常會問，有甚麼方法可以治好糖尿病。答案其實是：有，但是必須在特定條件下才存在。 糖尿病界著名期刊，Diabetes
+    care，於3月21日的一篇線上發表論文指出，使用非常低熱量的飲食進行8 …
+  tag:
+  - 飲食
+  - 低熱量
+  - 糖尿病
+  !!python/unicode 'title': 非常低熱量的飲食可以治好糖尿病，但是….
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fresh-fruit-prevent-cvd/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 西方有句諺語：一天一蘋果，可遠離醫師。越來越多的證據發現，水果的確有預防疾病的效果。在這週出刊的知名醫學期刊新英格蘭醫學期刊，再次證明這個道理。
+    這項中國所做的研究，收集了10個地方，總數512,89 …
+  tag:
+  - 預防
+  - 心血管
+  - 水果
+  !!python/unicode 'title': 新鮮水果可以預防心血管疾病
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/verapamil-lower-glucose/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': Verapamil是一顆很古老的血壓藥，屬於血壓藥中的鈣離子阻斷劑類別。除了作為降血壓藥物外，他也被拿來治療心律不整，心絞痛，頭痛等用途。Verapamil同時也被世界衛生組織列為健康體系中必要的藥品
+    …
+  tag:
+  - !!python/unicode 'Verapamil'
+  - 血壓
+  - 降血糖
+  - 阻斷劑
+  - 藥物
+  - 藥品
+  - 心絞痛
+  - 頭痛
+  - 降血壓
+  - 心律不整
+  !!python/unicode 'title': 血壓藥Verapamil可降血糖
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/liraglutide-lower-cv-risk/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病患者，會產生大血管病變和小血管病變。小血管病變（腎病變，眼睛病變，神經病變）會造成生活品質的下降，而大血管病變（缺血性中風，心肌梗塞，周邊血管阻塞）的病變則會造成病患整體功能下降，甚至死亡。
+    在 …
+  tag:
+  - !!python/unicode 'Liraglutide'
+  - 大血管
+  - 心血管
+  - 病變
+  - 血管
+  - 中風
+  !!python/unicode 'title': Liraglutide能降低心血管疾病的風險！
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-with-common-cold-early-2016/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 這篇是2015年的「糖尿病患者有感冒時該怎麼辦？」的2016年修改版。 定義 感冒（common cold）
+    泛指上呼吸道因病毒感染造成的症狀，會引發咳嗽，喉嚨痛，噴嚏，流鼻水，頭痛，發燒等症狀。一般 …
+  tag:
+  - 預防
+  - 注意事項
+  - 感冒
+  - 糖尿病
+  - 鼻水
+  - 頭痛
+  - 發燒
+  - 咳嗽
+  - 喉嚨痛
+  - !!python/unicode '2015'
+  !!python/unicode 'title': 糖尿病患者的感冒預防，治療及日常生活注意事項-2016年版
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/pioglitazone-secondary-prevention-2/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 著名的醫學期刊，新英格蘭醫學期刊（New England Journal of Medicine）在2月17日的線上發表論文中，討論了糖尿病用藥，Pioglitazone（Actos），使用在已發生過
+    …
+  tag:
+  - !!python/unicode 'Pioglitazone'
+  - 中風
+  - 心肌梗塞
+  !!python/unicode 'title': Pioglitazone可預防再次發生心肌梗塞或是中風的風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/diet-high-sugar-insulin-htn/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 我們都知道，高糖份和高脂肪的飲食對身體不好。但是，它是如何影響到身體呢？ 以中風為目地的研究（Reasons
+    for Geographic and Racial Differences in Stro …
+  tag:
+  - 高脂
+  - 飲食
+  - 高糖
+  - 中風
+  !!python/unicode 'title': 高糖高脂飲食 對身體不利！！
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/triple-therapy-for-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病的口服藥治療原則，在目前有兩大派的用法。一個是糖尿病大師DeFronzo醫師，他提出了糖尿病的八大致病機轉(Ominous
+    octet)的理論，認為應該在糖尿病的診斷一開始，就使用多重藥物介入。 …
+  tag:
+  - 口服藥
+  - 口服
+  - 血糖
+  - 糖尿病
+  - 藥物
+  - 治療
+  !!python/unicode 'title': 血糖藥怎麼開比較好
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/diabetes-screen/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病是盛行率很高的慢性病，在台灣，預估至少超過150萬人罹患糖尿病。糖尿病的初期往往不會有明顯的症狀，但是身體已經飽受高血糖的危害。許多患者往往因為此時症狀不明顯，而忽略了要去注意有糖尿病的可能。據
+    …
+  tag:
+  - 篩選
+  - 糖尿病
+  !!python/unicode 'title': 何時該做糖尿病篩選？美國這麼說….
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/gdm-diagnosis/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 最近跑去書店看書，結果看到那位賴宇凡的新書，「瘦孕，順產」。本來我是對小兒科和婦產科不熟，但是就翻翻看有無寫到糖尿病。結果不翻則已，一翻就又氣到腦充血：這種錯誤連篇的理論怎麼敢直接寫成暢銷書來賣，真的
+    …
+  tag:
+  - 妊娠
+  - 糖尿病
+  !!python/unicode 'title': 為什麼錯誤的資訊總是可以寫成暢銷書呢？兼談妊娠糖尿病的診斷
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/empa-reg-cv-outcome/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 歐洲糖尿病學會目前正在瑞典斯德哥爾摩舉辦年會，小黃醫師與現場連線報導最新糖尿病消息。 先講結論：Empagliflozin可以降低死亡率和心血管風險
+    糖尿病的長期併發症包括了大血管病變（中風，心肌梗塞 …
+  tag:
+  - !!python/unicode 'Empagliflozin'
+  - 心血管
+  !!python/unicode 'title': Empagliflozin降低心血管疾病風險！
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/about-obesity-reduction/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 這是整理之前寫的關於節食減重的醫學資訊。
+  tag:
+  - 節食
+  - 減肥
+  - 減重
+  !!python/unicode 'title': 關於減重的資訊
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt-2-adverse-effect/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在之前的文章中提到了SGLT2抑制劑與酮酸中毒之間的風險（小心！SGLT-2抑制劑沒有我們想像中的安全），台灣食藥署也在6月25日發佈SGLT-2抑制劑的安全資訊風險溝通表，提到這方面的風險。
+    先講結 …
+  tag:
+  - 抑制劑
+  - !!python/unicode 'SGLT2'
+  - 酮酸
+  - 酸中毒
+  - 中毒
+  - 骨折
+  - !!python/unicode 'SGLT'
+  !!python/unicode 'title': SGLT2抑制劑與糖尿病酮酸中毒進一步資料以及骨折的風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/glucose-variability/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 很多人，包括醫學系畢業的醫學生，對於血糖的波動並不了解，因此常常被「血糖震盪」這種錯誤名詞給騙了，以為真的有「血糖震盪」這種東西。當然，身為科學人，要打臉就一定得拿出科學資料出來佐證。
+    在測量血糖時， …
+  tag:
+  - 波動
+  - 血糖
+  - 震盪
+  !!python/unicode 'title': 正常健康者的血糖波動
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/what-you-should-know-about-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': '前陣子度蜜月時，有網路媒體詢問關於血糖，減重，和糖尿病的部分。我將當中的問題整理一下答案。 Q1: 為什麼網路上只能找到自然醫學在解釋血糖震盪，而醫學書不會講這東西呢？
+    先講答案：沒有存在的東西（血糖 …'
+  tag:
+  - 血糖
+  - 震盪
+  !!python/unicode 'title': 沒有血糖震盪，別追求糖尿病痊癒….
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/actos-no-bladder-cancer-tzd-hx/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在最近七月份的著名醫學期刊，JAMA，發表了10年的觀察性研究，發現Pioglitazone與膀胱癌沒有關聯。這大概可以洗清Pioglitazone這顆藥在過去幾年間，被牽扯到膀胱癌的風光。TZD(T
+    …
+  tag:
+  - !!python/unicode 'Pioglitazone'
+  - !!python/unicode 'TZD'
+  - 類藥物
+  - 膀胱癌
+  - !!python/unicode 'JAMA'
+  !!python/unicode 'title': Pioglitazone與膀胱癌無關-兼談TZD類藥物的血淚心酸史
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/liraglutide-obesity/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 靠著飲食減重，常常會發生溜溜球效應：體重先急速下降，然後又上升。在2011年，著名的醫學期刊，新英格蘭醫學期刊NEJM，發現到靠著節食減重後，身體會有回饋機制，刺激食慾的賀爾蒙會升高，導致食慾會增加，
+    …
+  tag:
+  - 荷爾蒙
+  - 藥物
+  - 減重
+  - 減肥
+  - 節食
+  !!python/unicode 'title': 減重，荷爾蒙的變化，以及藥物的新契機
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/choice-of-glucse-meter/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 身為專業的糖尿病照護人員，最常被同行問的問題就是，市面上這麼多血糖機，怎麼買？ 血糖機的學理部分，以及血糖機的品管部分，我們就不要花太多時間去了解，以目前台灣在藥局或是醫療機構可以合法販售的血糖機，都
+    …
+  tag:
+  - 血糖機
+  - 血糖
+  !!python/unicode 'title': 血糖機這麼多種，怎麼買？
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2-not-so-safe/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 先講結論 在上市後的報告指出，SGLT-2抑制劑”可能“會增加第二型糖尿病患者的酮酸中毒風險，應小心觀察，若有懷疑酮酸中毒的症狀產生，應該盡早做這方面的檢查。而第一型糖尿病患者
+    …
+  tag:
+  - !!python/unicode 'SGLT'
+  - 第二型
+  - 第2型
+  - 抑制劑
+  - 酸中毒
+  - 糖尿病
+  !!python/unicode 'title': 小心！SGLT-2抑制劑沒有我們想像中的安全
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/paired-test-in-dm-pt/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在之前的文章「自我血糖監控」中提到了配對測量的模式。但是許多病友還是會困惑，甚麼是配對測量。簡單的說，配對測量是種以事件為單位的測量方式，每次測量血糖就是測量會造成血糖改變的事件發生前和發生後的血糖值
+    …
+  tag:
+  - 紀錄
+  - 測量
+  - 血糖
+  - 糖尿病
+  - 監控
+  !!python/unicode 'title': 糖尿病患者的血糖如何測量與紀錄?小黃醫師來教你
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/drug-for-dm-and-dyslipidemia/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病病患常常同時有高血脂的問題，而兩者都會導致中風，心肌梗塞等風險上升，甚至死亡。因此病患常常得服用兩種以上的藥物來控制疾病。在前幾天美國臨床內分泌學會的年會上，印度藥廠Zydus
+    Cadila介紹 …
+  tag:
+  - 降血糖
+  - 高血脂
+  - !!python/unicode 'Cadila'
+  !!python/unicode 'title': 治療高血脂又可以降血糖？真的有這種藥
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-pt-in-rain-season/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 在眾人盼望之下，大雨終於來到台灣，旱象有機會解除，未來一週的天氣都可能持續下雨。患有糖尿病的朋友，以下三點要注意：
+    1. 運動安全：梅雨季節到來，地面濕滑，會影響到快走，慢跑的舒適度，甚至可能會跌倒。 …
+  tag:
+  - 梅雨季
+  !!python/unicode 'title': 梅雨季到了，以下三點，糖尿病患者該注意！
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/exercise-prevent-dm-htn-dyslipidemia/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 高血壓，高血脂，糖尿病（高血糖）合稱三高，是現代文明社會下的慢性疾病。許多人罹患到三高，不斷尋求偏方來根治三高。事實上，透過飲食，運動，減重等生活習慣的改變，一樣可以將三高控制好。目前的研究皆指出，適
+    …
+  tag:
+  - 運動
+  !!python/unicode 'title': 運動可預防和治療三高
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/how-to-smbg/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 台灣糖尿病人口在這幾年不斷增加，目前推估已達150萬人。隨著年齡增加，罹患糖尿病的比例也增加。成年人中，罹患糖尿病的比例是8%，但60歲以上的成年人，每5個就有一位患有糖尿病。
+    控制不佳的糖尿病，將使 …
+  tag:
+  - 監控
+  - 血糖
+  !!python/unicode 'title': 自我血糖監控
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/possible-for-t1dm-vaccine/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 目前已知，第一型糖尿病是種自體免疫疾病。在帶有HLA特殊基因表現的孩童身上，因不明的原因產生抗體，破壞胰島細胞，最終導致糖尿病。過往的研究，在已經出現抗體的孩童身上使用免疫製劑，可以延緩發病的時間，但
+    …
+  tag:
+  - 糖尿病
+  - 疫苗
+  - 第一型
+  - 第1型
+  !!python/unicode 'title': 第一型糖尿病疫苗的新曙光
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-pt-when-common-cold/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 一位53歲男性糖尿病患者求診，醣化血色素7.1%，空腹血糖101mg/dL，飯後一個半小時血糖190mg/dL。經過討論發現，在最近三個月吃火鍋湯類等等比較多，因此建議先做飲食調整，若三個月回診時糖化
+    …
+  tag:
+  - 感冒
+  !!python/unicode 'title': 糖尿病患者有感冒時該怎麼辦？
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/glyburide-in-gdm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 妊娠糖尿病是在懷孕時出現的糖尿病，多半在生產後會改善，但是若沒有控制良好，妊娠糖尿病會對小孩和孕婦本身造成傷害。生活習慣調整和飲食調整後，妊娠糖尿病若控制不佳，就需要藥物介入。目前可使用於妊娠糖尿病的
+    …
+  tag:
+  - !!python/unicode 'Glyburide'
+  - 妊娠
+  - 懷孕
+  !!python/unicode 'title': Glyburide使用在妊辰糖尿病的安全性？
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/close-tv-for-dm-prevention/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 父母經常告訴小孩，別坐在電視前面，這樣對健康不好。在美國的一項最新研究指出，多看一小時的電視，將增加未來3年3.4%的糖尿病風險。
+    這項成果發表在今年四月的著名糖尿病期刊Diabetologia線上。 …
+  tag:
+  - 電視
+  !!python/unicode 'title': 關掉電視吧，那會減少你的糖尿病風險
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/koala-stress-syndrome/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 腎上腺分泌的糖皮質激素是人體重要的壓力賀爾蒙，可以經由複雜的路徑作用到心血管反應，並且提供腦部和骨骼肌系統能量來源，同時可以保護人類避免產生創傷後壓力症候群（Post-traumatic
+    stress …
+  tag:
+  - 壓力
+  - 腎上腺
+  - 無尾熊
+  !!python/unicode 'title': 無尾熊壓力症候群，兼談重症的腎上腺不足
+- !!python/unicode 'post_date': []
+  !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/triple-therapy-in-dm/'
+  !!python/unicode 'source': !!python/unicode 'huangrh'
+  !!python/unicode 'summary': 糖尿病界的大師，Ralph A. DeFronzo，在前幾年提出了糖尿病的致病機轉，認為糖尿病並不只是傳統認為的三個致病原因，而是由八個不同的機轉所導致，因此要治療糖尿病，需從各種致病機轉下手。而至今
+    …
+  tag:
+  - 治療
+  - 三合一
+  !!python/unicode 'title': 糖尿病的新治療典範？談三合一治療法
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '糖尿病友貼心小叮嚀
+
+    1.外出時，應隨身攜帶葡萄糖粉(漿)、糖果、餅乾
+
+    2.每次血糖測量結果應詳加記錄，回診時拿給醫師看，以作為醫師調整用藥劑量或營養師飲食調整的參考
+
+    3.生病時，要切記多測血糖及尿酮或血酮！藥物治療(口服藥、胰島素注射)不要隨意中斷！仍需攝取含醣的飲料及食物！
+
+    4.建議與您的醫師討論適合您的運動處方
+
+    5.發生高血糖急症時，應立即求醫
+
+    6.護牙333:3餐飯後刷牙每次3分鐘，每3個月更換牙刷，飯後及睡前一定要刷牙！
+
+    '
+  tag:
+  - 叮嚀
+  - 糖尿病
+  - 注意事項
+  title: !!python/str '糖尿病友貼心小叮嚀
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '糖尿病的分類
+
+    1.第1型糖尿病(胰島細胞遭破壞，造成絕對胰島素缺乏)
+
+    2.第2型糖尿病(胰島素阻抗，及合併相對胰島素缺乏)
+
+    3.妊娠性糖尿病
+
+    4.其它型糖尿病
+
+    '
+  tag:
+  - 分類
+  - 糖尿病
+  title: !!python/str '糖尿病的分類
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '正常情況下，身體會將吃進去的含醣類食物經消化吸收後變成葡萄糖,做為身體的能源。
+
+    胰臟所分泌的胰島素可以幫助葡萄糖進入細胞內,提供身體代謝等作用。
+
+    若體內無法充分利用葡萄糖，導致血液中葡萄糖的濃度超過正常，則可能發生糖尿病。
+
+    糖尿病的診斷標準有以下4項，非懷孕狀況下只要符合其中1項即可診斷糖尿病 (前3項標準必須要重覆驗證2次以上)。
+
+    1.糖化血色素(HbA1c)≧6.5%
+
+    2.空腹血漿血糖≧126mg/dL
+
+    3.口服葡萄糖耐受試驗第2小時血漿血糖≧200mg/dL
+
+    4.典型的高血糖症狀(多吃、多喝、多尿與體重減輕)且隨機血漿血糖≧200mg/dL
+
+    '
+  tag:
+  - 診斷
+  - 糖尿病
+  - 標準
+  title: !!python/str '糖尿病的診斷
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '第2型糖尿病的發生與遺傳有關，但肥胖、飲食不當、情緒壓力、懷孕、藥物,也可能促使糖尿病的發生。
+
+    糖尿病不是傳染病，不會傳染給別人，也不會受別人的感染。
+
+    '
+  tag:
+  - 糖尿病
+  - 原因
+  title: !!python/str '糖尿病發生的原因
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '發病初期，多數的病人是沒有症狀，除非做健康檢查，否則不易發現。
+
+    若沒有控制好，病情會隨時間加重，血糖可能逐漸升高，則可能會有三多(多吃、多喝、多尿)、疲勞、體重減輕、視力模糊、陰部搔癢或傷口不易癒合等症狀出現。
+
+    '
+  tag:
+  - 症狀
+  - 糖尿病
+  title: !!python/str '糖尿病的症狀
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.體重與飲食控制、運動、正確服藥、自我血糖監測
+
+    2.定期檢查，病人和糖尿病醫療照護團隊（醫師、護理師、營養師等）間的密切合作與討論
+
+    3.透過醫護人員的指導與加強自我控制和調適，力行健康的生活方式，來有效避免糖尿病併發症的發生
+
+    '
+  tag:
+  - 糖尿病
+  - 控制
+  title: !!python/str '控制糖尿病的原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.低密度脂蛋白膽固醇低於100mg/dL
+
+    2.糖化血色素低於7%以下
+
+    3.血壓控制在140/90mmHG以下
+
+    4.遵醫囑規律服藥
+
+    5.每年至少檢查1次微量白蛋白尿
+
+    6.眼底檢查每年至少1次
+
+    7.足部檢查每年至少1次
+
+    '
+  tag:
+  - 控制目標
+  - 糖尿病
+  - 控制
+  title: !!python/str '糖尿病的控制目標
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.均衡攝取各類食物
+
+    2.定時定量攝取含醣食物(須學習醣類計算)
+
+    3.儘量避免攝取精緻醣類或加糖食物(因容易讓人血糖上升與飲食過量)
+
+    4.多選擇高纖食物(因可增加飽足感、預防便秘，以及減緩醣類的吸收):
+
+    (1)全穀類如糙米、燕麥、薏仁等，或未加工的乾豆類如綠豆、紅豆等，取代精緻主食類如白飯、白麵條、糕餅
+
+    (2)以新鮮水果取代果汁
+
+    (3)增加低油或無油蔬菜的食用量
+
+    5.選擇低脂食物並採用優質植物油烹調方式
+
+    (1)低脂食物如:脫脂奶或低脂奶、瘦肉或魚肉等
+
+    (2)低油烹調方式如：清蒸、水煮、清燉、燒、烤、涼拌
+
+    (3)優質植物油，例如：橄欖油、葵花油、苦茶油低溫略炒、油拌
+
+    (4)可使用堅果種子類取代部分烹調用油，適量食用堅果種子類食物
+
+    6.避免或適量飲酒
+
+    (1)男性一天不超過2個酒精當量，女性一天不超過1個酒精當量)，
+
+    1個酒精當量為15公克酒精，相當於啤酒(酒精濃度4%)360cc、葡萄酒(酒精濃度12%)120cc、威士忌(酒精濃度40%)40cc、高粱酒(酒精濃度53%)30cc
+
+    (2)接受胰島素注射治療的病人，喝酒時應與食物一起搭配，以減少低血糖發生
+
+    '
+  tag:
+  - 原則
+  - 飲食
+  - 糖尿病
+  - 注意事項
+  title: !!python/str '糖尿病友的飲食原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '固定三餐及點心的醣類份量可以穩定血糖，食物中須計算或代換的含醣類食物有：全穀根莖類、水果類和奶類。
+
+    應依個別的飲食、身體活動、代謝等情況，設計量身訂作的飲食，平日飲食可用相同醣量的食物互換，來增加食物的變化與選擇
+
+    '
+  tag:
+  - 代換
+  - 原則
+  - 醣類
+  - 飲食
+  - 食物
+  - 計算
+  title: !!python/str '醣類代換的原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '全穀根莖類 (主食類)、奶類、水果類和蔬菜類，其中蔬菜類所含的醣量少，可以省略不計。
+
+    '
+  tag:
+  - 醣類
+  - 食物
+  title: !!python/str '含有醣類的食物
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.男性一天不超過2個酒精當量，女性一天不超過1個酒精當量。1個酒精當量為15公克酒精，相當於啤酒(酒精濃度4%)360cc、葡萄酒(酒精濃度12%)120cc、威士忌(酒精濃度40%)40cc、高粱酒(酒精濃度53%)30cc。
+
+    2.接受胰島素注射治療的病人，喝酒時應與食物一起搭配，以減少低血糖發生
+
+    '
+  tag:
+  - 注意事項
+  - 飲酒
+  - 糖尿病
+  - 酒精
+  - !!python/unicode '40cc'
+  - !!python/unicode '30cc'
+  - !!python/unicode '40'
+  title: !!python/str '糖尿病飲酒注意事項
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '採用低油或優質植物油之烹調方式。低油烹調方式如：清蒸、水煮、清燉、燒、烤、涼拌或者以優質植物油，例如：橄欖油、葵花油、苦茶油低溫略炒、油拌等；也可以堅果種子類取代部分烹調用油，適量食用堅果種子類食物
+
+    '
+  tag:
+  - 烹調
+  - 糖尿病
+  - 飲食
+  title: !!python/str '糖尿病應選擇的烹調方式
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.降低血糖:增進胰島素的功能
+
+    2.降低血脂:降低三酸甘油酯、低密度脂蛋白膽固醇(俗稱壞的膽固醇)，增加高密度脂蛋白膽固醇(俗稱好的膽固醇)
+
+    3.降低血壓
+
+    4.促進血液循環
+
+    5.減輕體重，維持理想體重及腰圍
+
+    6.增強心肺耐力
+
+    7.增強自信心
+
+    '
+  tag:
+  - 運動
+  title: !!python/str '運動的好處
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.開始執行運動計畫時，可與醫師或醫療團隊討論，選擇適合病情的運動，應考慮運動種類、時間、次數及強度等，並配合生活作息，找出適合自己的運動，漸進式地開始執行，將其融入生活中。
+
+    2.種類
+
+    (1)以有氧運動最佳，可選擇中等強度耐力的運動，如健走、慢跑、有氧舞蹈、游泳、騎腳踏車、太極拳、外丹功、體操等，可增加胰島素敏感度。
+
+    (2)每星期再配合1-3次的阻力運動，如舉啞鈴、仰臥起坐、阻力棒等，以增加肌耐力。
+
+    3.時間及次數
+
+    (1)最好在餐後1-2小時。
+
+    (2)對控制糖尿病及維持體能有幫助，以每週至少運動5次，每次達30分鐘尤佳。
+
+    (3)若要達到減重及維持體重不回升，則需每星期達到300分鐘的中等強度運動(感覺有些吃力，能說話但不能唱歌)。
+
+    4.強度
+
+    (1)以心臟能夠負荷的程度為原則。
+
+    5.將運動生活化，以少量多次累計的方式，達到運動的目標
+
+    '
+  tag:
+  - 原則
+  - 運動
+  - 糖尿病
+  - 強度
+  title: !!python/str '糖尿病友運動的原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.運動須穿著適當的服裝與鞋襪和其它保護物，絕對不可赤腳運動。
+
+    2.隨身攜帶「糖尿病識別證件」，避免單獨一個人運動。
+
+    3.運動前和運動後應做適當的暖身和徐緩的運動；運動強度要慢慢地增加
+
+    4.晨起運動者，即使習慣空腹運動者，仍建議先進食部分食物，運動後再補充另一部份的早餐；並應監測血糖，注意起床後是否有低血糖的現象。
+
+    5.隨身攜帶葡萄糖粉(漿)、含糖果汁、餅乾等，萬一發生低血糖時，可以立即食用。
+
+    7.血糖控制不良者，如第1型糖尿病人血糖值超過250mg/dL且有尿酮或血糖超過300mg/dL；第2型糖尿病人血糖值超過300mg/dL，或常發生低血糖或生病時，皆不宜運動。
+
+    8.在極端溫度(高溫、極冷)、天候不良和視線不佳時，不宜做室外運動。
+
+    9.糖尿病友的運動有視力模糊、眼睛玻璃體出血、神經系統知覺損害、或曾有高血壓、中風、心臟病、肝、腎功能不良者，不適合做劇烈運動；應先接受醫師的評估，再決定運動的種類與強度。
+
+    '
+  tag:
+  - 注意事項
+  - 運動
+  - 糖尿病
+  title: !!python/str '糖尿病友運動的注意事項
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '良好的體重管理，能有效控制血糖、血脂、血壓等相關代謝。
+
+    體重過重者，應減少熱量攝取，增加運動量，研究顯示體重過重者減重5-10%的體重，可有效改善血糖、血壓與血脂等。
+
+    '
+  tag:
+  - 體重
+  - 糖尿病
+  - 代謝
+  - 減重
+  title: !!python/str '糖尿病友體重管理的好處
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.第2型糖尿病的治療包括飲食、運動、藥物。藥物的選擇會依個別狀況而定，但不論使用何種藥物，飲食與運動扮演不可或缺的角色。
+
+    2.很多病友誤以為長期使用抗糖尿病藥物，會造成藥物的依賴性，甚至使腎功能受損，因此不願意規律使用藥物，這是不正確的想法。
+
+    3.正確的觀念是應該積極的配合藥物治療，儘快的將血糖控制至理想範圍
+
+    4.請確實依照醫師的處方，按時使用藥物，除非特殊情況，切勿自行調整劑量。
+
+    5.抗糖尿病藥物，包括口服抗糖尿病藥物及注射型藥物(腸泌素、胰島素)。
+
+    '
+  tag:
+  - 藥物
+  - 治療
+  - 糖尿病
+  - 第2型
+  - 第二型
+  title: !!python/str '第2型糖尿病的藥物治療
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '目前分為五大類，可單獨使用，或與其它種類合併使用
+
+    1.雙胍類(Biguanide)
+
+    2.促胰島素分泌劑(Insulin secretagogues):磺醯脲素(sulfonylureas)與非磺醯脲素(Glinides)
+
+    3.阿爾發葡萄糖苷酶抑制劑(α-glucosidase inhibitor)
+
+    4.胰島素增敏劑(Insulin sensitizers)
+
+    5.二肽基酶-4抑制劑(ipeptidyl peptidase-4 inhibitor)
+
+    '
+  tag:
+  - 藥物
+  - 分類
+  - 口服
+  - 糖尿病
+  title: !!python/str '口服抗糖尿病藥物的分類
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '雙胍類Biguanide
+
+    1.作用機轉:減少肝臟葡萄糖的新生
+
+    2.服用方式:
+
+    3.不良反應、副作用:食慾不振、腹部不適、腹瀉、乳酸中毒
+
+    4.禁忌:
+
+    (1)對本類藥物過敏者。
+
+    (2)接受含碘顯影劑檢查前後48小時
+
+    (3)腎功能不全：腎絲球過濾率≦30mL/min。
+
+    5.注意事項:
+
+    (1)腸胃道副作用往往只是暫時的 (1~2星期)，從小劑量開始，並且與餐飲一起服用，可減少發生的機會與程度。
+
+    (2)腎絲球過濾率在30~45mL/min，建議減量使用。
+
+    '
+  tag:
+  - !!python/unicode 'Biguanide'
+  - 雙胍類
+  title: !!python/str '雙胍類Biguanide
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '磺醯脲素sulfonylureas
+
+    1.作用機轉:增加胰島素的分泌
+
+    2.服用方式:餐前 30 分鐘服用
+
+    3.不良反應、副作用:體重增加、皮疹、可能持續數天的低血糖
+
+    4.禁忌:對磺胺製劑過敏者
+
+    5.注意事項:
+
+    (1)肝、腎功能不全者，部分種類的藥物劑量須調降。
+
+    (2)術後尚未正常進食者，不建議使用。
+
+    '
+  tag:
+  - 磺醯脲素
+  - !!python/unicode 'sulfonylureas'
+  title: !!python/str '促胰島素分泌劑Insulin secretagogues之磺醯脲素sulfonylureas
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '非磺醯脲素Glinides
+
+    1.作用機轉:增加胰島素的分泌
+
+    2.服用方式:餐前 15 分鐘服用
+
+    3.不良反應、副作用:體重增加、低血糖
+
+    4.禁忌:對本類藥物過敏者。
+
+    5.注意事項:
+
+    (1)肝、腎功能不全者，部分種類的藥物劑量須調降。
+
+    (2)不宜和磺醯脲素同時使用。
+
+    '
+  tag:
+  - 胰島素
+  - !!python/unicode 'Glinides'
+  - 磺醯脲素
+  title: !!python/str '促胰島素分泌劑Insulin secretagogues之非磺醯脲素Glinides
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '阿爾發葡萄糖苷酶抑制劑α-glucosidase inhibitor
+
+    1.作用機轉:抑制澱粉及雙醣類之分解，延緩葡萄糖的吸收。
+
+    2.服用方式:隨餐於第一口進食時服用。
+
+    3.不良反應、副作用:脹氣、腹瀉。
+
+    4.禁忌:
+
+    (1)腸道疾患者。
+
+    (2)對本類藥物過敏者。
+
+    5.注意事項:
+
+    合併促胰島素分泌劑使用如發生低血糖時，必需使用葡萄糖或牛奶來治療。
+
+    '
+  tag:
+  - 糖苷酶
+  - 阿爾發
+  - !!python/unicode 'glucosidase'
+  - !!python/unicode 'inhibitor'
+  - 抑制劑
+  title: !!python/str '阿爾發葡萄糖苷酶抑制劑α-glucosidase inhibitor
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '胰島素增敏劑Insulin sensitizers
+
+    1.作用機轉:增加肌肉、脂肪和肝臟對胰島素的敏感度。
+
+    2.服用方式:餐後30分鐘服用。
+
+    3.不良反應、副作用:體重增加、水腫、頭痛、心臟衰竭、肝功能不全。
+
+    4.禁忌:中重度心臟衰竭患者(符合紐約心臟學會分類第 III 級及第 IV級心臟衰竭)。
+
+    5.注意事項:
+
+    (1)合併使用胰島素，可能會增加水腫和鬱血性心臟衰竭的危險。
+
+    (2)血清轉胺酶超過正常上限的2.5 倍，應該停藥。
+
+    '
+  tag:
+  - !!python/unicode 'sensitizers'
+  - 增敏劑
+  - !!python/unicode 'Insulin'
+  title: !!python/str '胰島素增敏劑Insulin sensitizers
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '二肽基酶-4抑制劑Dipeptidyl peptidase-4 inhibitor
+
+    1.作用機轉:抑制腸泌素被酵素分解，可促進胰島素釋出和抑制昇糖素的分泌。
+
+    2.服用方式:可與食物併用，亦可不與食物併用。
+
+    3.不良反應、副作用:鼻咽炎、上呼吸道感染。
+
+    4.禁忌:對本類藥物過敏者。
+
+    5.注意事項:
+
+    腎功能不全者，部分種類的藥物劑量須調降。和促胰島素分泌劑併用時，可能發生低血糖反應。
+
+    '
+  tag:
+  - !!python/unicode 'inhibitor'
+  - !!python/unicode 'peptidase'
+  - 抑制劑
+  - !!python/unicode 'Dipeptidyl'
+  title: !!python/str '二肽基酶-4抑制劑Dipeptidyl peptidase-4 inhibitor
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.腸泌素類似物
+
+    (1)作用機轉：根據血糖高低刺激胰島素分泌、降低昇糖素分泌、延遲胃排空、抑制食慾。
+
+    (2)注射方式：皮下注射方式注射在腹部、大腿或上臂。
+
+    (3)不良反應與副作用：噁心、嘔吐、腹瀉、頭痛、消化不良、皮下結節。
+
+    2.胰島素
+
+    (1)注射胰島素的原因:胰島素是人體胰臟所分泌的一種荷爾蒙，當糖尿病人缺乏胰島素時，可直接補充胰島素治療糖尿病。
+
+    (2)下列情況通常以胰島素治療為主
+
+    a.第1型糖尿病人。
+
+    b.孕婦或哺乳婦。
+
+    c.接受重大手術的病人。
+
+    d.處於重大壓力，如受重傷或嚴重感染症的病人。
+
+    e.對口服抗糖尿病藥物，有不良反應、過敏或療效不佳現象的病人。
+
+    f.有明顯的心臟衰竭或肝、腎功能障礙的病人。
+
+    g.第2型糖尿病人，持續性空腹血糖超過300mg/dL，且有多吃、多尿、多喝及體重減輕的症狀，或合併酮酸血症的病人。
+
+    '
+  tag:
+  - 藥物
+  - 注射
+  - 糖尿病
+  - 治療
+  title: !!python/str '糖尿病注射型藥物
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '常見胰島素的介紹
+
+    分類、藥物學名稱、外觀、藥效開始作用、尖峰時間、作用時間
+
+    1.速效、Humalog、透明清澈、小於15-30分、0.5-2.5小時、3-6.5小時
+
+    2.速效、NovoRapid、10-20分鐘、1-3小時、3-5小時
+
+    3.短效、Humulin R、透明清澈、30-60分鐘、2-3小時、3-6小時
+
+    4.短效、Actrapid、透明清澈、30分鐘、4-6小時、8小時
+
+    5.中效、Humulin N、白色懸液、2-4小時、4-10小時、10-16小時
+
+    6.中效、Insulatard、白色懸液、1.5小時、4-12小時、24小時
+
+    7.長效、Levemir、透明清澈、1.5小時、6-8小時、24小時
+
+    8.長效、Lantus、透明清澈、1-2小時、無高峰、24小時
+
+    9.預混型、Humulin 70/30、白色懸液、30-60分鐘、雙重尖峰、10-16小時
+
+    10.預混型、Humalog Mix25、白色懸液、0-15分鐘、雙重尖峰、10-16小時
+
+    11.預混型、Humalog Mix50、白色懸液、0-15分鐘、雙重尖峰、10-16小時
+
+    12.預混型、NovoMix30、白色懸液、10-20分鐘、雙重尖峰、24小時
+
+    '
+  tag:
+  - 胰島素
+  title: !!python/str '常見胰島素的介紹
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.學習注射型藥物的技術，並且每天確實執行。
+
+    2.使用中的注射型藥物在常溫中可保存一個月，避免暴露於過熱、日光直射或過冷。
+
+    3.未開封的注射型藥物應儲存於2~8℃冷藏，可保存至其有效期限，但不可冷凍。
+
+    4.注射型藥物治療與用餐時間配合須依照醫師處方指示。
+
+    5.注射型藥物一般採取皮下注射，可選取腹部、大腿上中段外側、手臂外側或臀部外側等脂肪豐富的部位輪流注射。
+
+    6.注射型藥物注射可能發生紅腫、凹陷或硬塊等現象，可藉由正確執行注射技巧、規則檢查及輪替注射部位而降低發生率。
+
+    若發生上述狀況，應立即請醫護人員衛教師做評估。請勿按摩或熱敷，以免影響藥效導致血糖值起伏過大。
+
+    7.熟悉低血糖的症狀，並且隨身攜帶葡萄糖粉(漿)或糖果備用。
+
+    8.注射型藥物(如：胰島素、腸泌素)不可以口服。
+
+    '
+  tag:
+  - 注意事項
+  - 藥物
+  - 注射
+  title: !!python/str '糖尿病注射型藥物的注意事項
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '通常血糖濃度低於70mg/dL時，會產生一些低血糖的症狀。
+
+    可能原因:
+
+    1.抗糖尿病藥物使用過量。
+
+    2.使用抗糖尿病藥物後未進食、醣類食物吃得太少，或延遲用餐。
+
+    3.運動過度，卻未適當補充醣類食物。
+
+    '
+  tag:
+  - 低血糖
+  - 糖尿病
+  title: !!python/str '糖尿病低血糖的原因
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.身體：虛弱、嗜睡、饑餓、頭暈或頭痛、皮膚蒼白、冒冷汗、心跳加速、發冷、抽筋等；
+
+    有些患者的血糖當由高濃度急速下降時，雖然血糖仍未過低，也可能會產生類似低血糖的症狀。
+
+    2.有些病人發生低血糖時，也可能會呈現突然間的情緒改變或行為改變，如激動、無故哭泣、笨拙或痙攣性動作、注意力無法集中、嘴部周圍麻刺感等。
+
+    3.有些病人，由於身體對低血糖反應的機制受損，無法反應低血糖的警覺性症狀，呈現無察覺低血糖的情況，造成危險，應特別注意。
+
+    '
+  tag:
+  - 症狀
+  - 低血糖
+  - 糖尿病
+  - 虛弱
+  - 嗜睡
+  - 饑餓
+  - 頭暈
+  - 頭痛
+  - 冒冷汗
+  - 心跳
+  - 發冷
+  - 抽筋
+  - 麻刺感
+  - 情緒
+  title: !!python/str '糖尿病低血糖的症狀
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.若病人意識清楚，應立即進食15公克的含醣食物，如120cc含糖飲料、果汁、3~4包的葡萄糖粉、一湯匙蜂蜜等。
+
+    (1)15分鐘若症狀未解除，應再吃一次。
+
+    (2)15分鐘後若症狀仍未改善，則應立刻送醫。
+
+    (3)若症狀改善，但離下餐進食時間還有一小時以上，則宜補充1份的醣類食物，如：薄土司一片、餅乾3片等。
+
+    2.若病人無法合作或昏迷，可將病人頭部側放，把一湯匙的蜂蜜、楓糖漿，擠(灌)入病人牙齒與臉頰間中，並按摩臉頰，以利其吸收，並立刻送醫治療，途中每15分鐘給一次。
+
+    亦可施以肌肉注射昇糖素(兒童約0.5毫克、成人約1毫克)，並立即送醫治療。
+
+    '
+  tag:
+  - 應對
+  - 處理
+  - 低血糖
+  - 糖尿病
+  - 送醫
+  title: !!python/str '糖尿病低血糖的處理/應對
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.依照醫師指示的劑量，注射胰島素和服用抗糖尿病藥物，且於使用後15~30分鐘內進食(若注射速效胰島素，15分鐘內要進食)。
+
+    2.從事額外運動前，須先吃些點心。劇烈運動時，每半小時吃含15公克的含醣食物，如：一片薄土司或一份水果。
+
+    3.外出時應隨身攜帶葡萄糖粉(漿)、含糖飲料、餅乾等，以備不時之需。
+
+    4.隨身攜帶外出識別卡或糖尿病護照，並記載聯絡辦法(醫院、家人等電話)，萬一發生低血糖昏迷時，可爭取急救時間。
+
+    5.對於低血糖的症狀，提高警覺。
+
+    6.發生低血糖時，立即處理，事後應檢討原因，預防再次發生
+
+    '
+  tag:
+  - 預防
+  - 低血糖
+  - 避免
+  - 糖尿病
+  title: !!python/str '低血糖的預防/避免
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '當體內缺乏足夠的胰島素時，會導致身體的醣類無法被有效的利用，可能會造成高血糖急症。
+
+    常見高血糖急症的原因:
+
+    1.不知道罹患糖尿病，或未能適當治療。
+
+    2.合併其他疾病，如感染、中風等
+
+    3.自行停止（或減少）使用抗糖尿病藥物。
+
+    '
+  tag:
+  - 急症
+  - 高血糖
+  - 糖尿病
+  title: !!python/str '糖尿病高血糖急症的原因
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.高滲透壓高血糖症:
+
+    (1)多發生於第2型糖尿病人，年紀較大者，也經常伴有一些誘發因素，例如感染、中風、急性心肌梗塞、或是使用類固醇、利尿劑等藥物，有些病例則是糖尿病的初發症狀。
+
+    (2)臨床表現最主要是意識狀態逐漸變差，嚴重時會導致昏迷及休克。
+
+    (3)臨床表徵包含：
+
+    a.高血糖：血糖濃度常高於600mg/dL，甚至高達1000mg/dL以上。
+
+    b.高滲透壓：有效滲透壓高於320mOsm/kg。
+
+    c.酮酸反應：血液與尿液不會有明顯的酮酸反應。
+
+    d. 血中酸鹼值和碳酸氫鹽濃度通常正常。
+
+    2.糖尿病酮酸中毒:
+
+    (1)主要是發生於年輕的第1型糖尿病人，但第2型糖尿病人也會發生。
+
+    (2)臨床上糖尿病酮酸中毒包括高血糖、血中出現酮體和酸血症等三項要素，其發作經常伴有一些誘發因素，較常見的包括感染及中斷胰島素注射等。
+
+    (3)酮酸產生的原因主要是當胰島素分泌不足或是功能無法發揮時，脂肪組織的三酸甘油酯會分解成游離脂肪酸，然後隨著血液循環進入肝臟，再逐步的代謝成為酮酸
+
+    '
+  tag:
+  - 常見
+  - 種類
+  - 急症
+  - 高血糖
+  - 糖尿病
+  - 酮酸
+  title: !!python/str '常見糖尿病高血糖急症的種類
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.口渴、多尿、疲倦、虛弱無力、噁心、嘔吐、腹痛、皮膚乾燥、脫水、眼眶凹陷、呼吸快速、姿勢性低血壓、意識不清、昏迷、甚至休克。
+
+    2.酮酸血症者，呼吸深而快、呼氣有水果味
+
+    '
+  tag:
+  - 症狀
+  - 急症
+  - 高血糖
+  - 口渴
+  - 多尿
+  - 疲倦
+  - 虛弱無力
+  - 噁心
+  - 嘔吐
+  - 腹痛
+  - 皮膚乾燥
+  - 脫水
+  - 眼眶凹陷
+  - 呼吸快速
+  - 姿勢性低血壓
+  - 意識不清
+  - 昏迷
+  - 休克
+  - 酮酸
+  - 皮膚
+  - 嘔吐
+  - 乾燥
+  - 低血壓
+  - 意識
+  - 噁心
+  - 無力
+  title: !!python/str '高血糖急症的症狀
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.立即就醫!
+
+    2.若能進食，請多喝開水
+
+    3.檢測血糖
+
+    '
+  tag:
+  - 急症
+  - 高血糖
+  - 口渴
+  - 多尿
+  - 疲倦
+  - 虛弱無力
+  - 噁心
+  - 嘔吐
+  - 腹痛
+  - 皮膚乾燥
+  - 脫水
+  - 眼眶凹陷
+  - 呼吸快速
+  - 姿勢性低血壓
+  - 意識不清
+  - 昏迷
+  - 休克
+  - 酮酸
+  - 皮膚
+  - 嘔吐
+  - 乾燥
+  - 低血壓
+  - 意識
+  - 噁心
+  - 無力
+  title: !!python/str '高血糖急症時的處理
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.遵從醫囑按時、按量口服抗糖尿病藥物或注射胰島素。
+
+    2.遵守飲食計畫，規律的運動可協助穩定血糖。
+
+    3.定期檢測血糖，若有感染者應增加血糖檢測次數。
+
+    4.對於高血糖的症狀，應提高警覺，並針對可能造成的原因，採取適當行動。
+
+    '
+  tag:
+  - 預防
+  - 急症
+  - 高血糖
+  - 避免
+  title: !!python/str '高血糖急症的預防/避免
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '糖尿病人的血糖未控制好，猶如器官浸泡在含糖水的血液裡，容易產生併發症，且併發症的早期症狀並不明顯，容易被忽略。
+
+    長期血糖控制不良及疾病的進展，全身大、小血管及神經系統等，會逐漸產生病變，而這些病變，往往是不可逆的(即無法恢復原來的狀態)
+
+    '
+  tag:
+  - 併發症
+  - 慢性
+  - 病變
+  - 血糖
+  title: !!python/str '慢性併發症
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.大血管病變
+
+    (1)腦、心臟、足部等部位的動脈硬化，會造成腦中風、心肌梗塞、和足部病變。
+
+    2.小血管病變
+
+    (1)眼睛病變:常見的病變有視網膜病變、黃斑部水腫等，會加重白內障、青光眼，甚至導致失明。糖尿病視網膜病變是造成失明最重要的原因。
+
+    (2)腎臟病變:近1/2洗腎的病人是血糖控制不好導致腎臟病變，引起蛋白尿、血壓升高、慢性腎衰竭，最後形成尿毒症，需要終生洗腎(血液透析或腹膜透析)。
+
+    (3)神經病變:包括自主神經或週邊神經病變，會引起心悸、腹脹、便秘、腹瀉、小便困難、失禁、姿勢性低血壓、性功能障礙、手腳發麻、刺痛和感覺遲鈍等。
+
+    '
+  tag:
+  - 併發症
+  - 種類
+  - 慢性
+  - 病變
+  - 神經
+  - 腎臟
+  - 視網膜
+  - 足部
+  - 失明
+  - 血管
+  title: !!python/str '慢性併發症的種類
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '預防慢性併發症應定期檢查，早期發現，早期治療。
+
+    平時作好自我篩檢，建議的篩檢項目及控制目標值如下表:
+
+    1.餐前血糖（mg/dL）:80-130
+
+    2.餐後2小時血糖（mg/dL）:＜160(高峰)
+
+    3.糖化血色素（％）:＜7.0 (需個別化考量)
+
+    4.血壓（mmHg）:＜140/90
+
+    5.總膽固醇（mg/dL）:＜160
+
+    6.三酸甘油酯（mg/dL）:＜150
+
+    7.低密度脂蛋白膽固醇（mg/dL）:＜100
+
+    8.高密度脂蛋白膽固醇（mg/dL）:男＞40 ,女＞50
+
+    source
+
+    糖尿病照護指引2015(中華民國糖尿病學會)
+
+    '
+  tag:
+  - 預防
+  - 併發症
+  - 慢性
+  - 避免
+  - 膽固醇
+  - 篩檢
+  - 脂蛋白
+  title: !!python/str '慢性併發症的預防/避免
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.血糖
+
+    (1)經常檢查較好
+
+    (2)瞭解血糖控制情形及學習調整方法
+
+    1.糖化血色素
+
+    (1)至少3個月測量一次
+
+    (2)3個月的血糖平均值，瞭解血糖的控制。
+
+    2.血脂
+
+    (1)每年1次,檢測異常或使用降血脂藥物時,每3~6個月再追蹤。
+
+    (2)總膽固醇、三酸甘油酯、低密度脂蛋白膽固醇和高密度脂蛋白膽固醇等，是動脈硬化的主因，會增加罹患冠心病的機率。
+
+    3.眼底鏡
+
+    (1)每年1次,有病變時，需加強檢查的次數
+
+    (2)及早發現視網膜病變即早治療， 預防失明。
+
+    4.白蛋白尿、腎絲球濾過率:
+
+    (1)每年1次；檢查異常，每3~6個月再追蹤
+
+    (2)及早發現腎病變，即早治療， 預防尿毒症。
+
+    5.足部
+
+    (1)每年至少1次；平時由自己或家人檢查。
+
+    (2)評估足部神經及血管功能，保護足部。
+
+    6.口腔
+
+    (1)每半年至少1次。
+
+    (2)及早發現牙周病變，即早治療與預防。
+
+    7.癌症篩檢
+
+    (1)定期檢查(可配合健康署癌篩政策)。
+
+    (2)糖尿病人罹患癌症風險較正常人高。
+
+    8.糖尿病人居家自我檢查
+
+    (1)體重、血壓、血糖、足部,經常檢查較好
+
+    source
+
+    糖尿病照護指引2015(中華民國糖尿病學會)
+
+    '
+  tag:
+  - 篩檢
+  - 併發症
+  - 檢查
+  - 病變
+  - 血糖
+  - 足部
+  - 預防
+  - 治療
+  - 膽固醇
+  title: !!python/str '併發症篩檢的建議與目的
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.糖尿病是與生活習慣息息相關的疾病，在醫療及照護過程中，重要的是糖尿病人「須與疾病共存，
+
+    學習及控制血糖相關的自我照護行為」，並早期發現異常，早期治療，延緩併發症的發生。
+
+    2.自我照護的項目除了前面介紹的飲食、運動、體重控制、藥物治療外，還包括自我血糖、血壓監測、足部照護、不吸菸等。
+
+    '
+  tag:
+  - 照護
+  - 自我
+  - 治療
+  - 血糖
+  - 疾病
+  - 早期
+  - 藥物
+  - 生活習慣
+  - 延緩
+  title: !!python/str '糖尿病人的自我照護
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.血糖值會隨著飲食、生活而有所變化，因此糖尿病人若僅靠一至三個月回診時所測定的血糖，
+
+    來作為了解自己糖尿病控制的情形，這樣是不足以判斷控制的真實狀況，亦無法與照護人員討論控制糖尿病的具體方法
+
+    2.糖尿病人除了定期回診檢查外，更應接受醫療團隊人員所建議之方式監測血糖。
+
+    目前市面上的血糖機可以協助病人自我測量血糖，更可以藉血糖監測瞭解不同的食物、體能活動與抗糖尿病藥物等之間的相互關係；
+
+    也能依此檢測結果與照護人員討論，更有助於自己的管控方式。
+
+    '
+  tag:
+  - 監測
+  - 血糖
+  - 照護
+  - 回診
+  - 糖尿病
+  - 控制
+  - 自我
+  title: !!python/str '自我血糖監測
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.因病情、藥物及生活型態的差異，監測血糖的時間點及次數也會有所調整；不過次數愈多愈能瞭解自己的血糖變化情形。糖化血色素是反映過去3~4個月平均血糖的控制狀況。
+
+    2.血糖控制之目標以空腹血糖為優先。當糖化血色素小於8%時，建議需增加餐後血糖的監測與控制。
+
+    3.採用胰島素積極療法的患者（一天注射三次以上胰島素和使用胰島素幫浦患者）建議一天至少三次以上的血糖監測。
+
+    4.使用其他治療方式者，其監測計畫由病人與醫療團隊共同訂定，應考量監測的目的、個別意願和可行性。為了餐後血糖控制，建議監測時段除了餐前血糖外也應包括餐後兩小時血糖。
+
+    '
+  tag:
+  - 原則
+  - 頻率
+  - 監測
+  - 血糖
+  - 自我
+  - 建議
+  - 胰島素
+  - 血色素
+  - 次數
+  - 糖化
+  - 控制
+  title: !!python/str '自我血糖監測的頻率與原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.血糖機檢測是採取微血管血，而醫院抽血測血糖是採取靜脈血，兩者之間的數據可能因血糖機的不同而有差異，應定期比對，比對時一定要空腹。
+
+    2.檢測血糖時應依照血糖機所附之說明書，依其步驟正確操作。
+
+    3.每次使用前應檢查試紙的有效日期，若使用過期之試紙會導致得到的數值不正確。開罐後應於三個月內用完，切勿分裝；試紙取出後，立即將瓶蓋蓋緊，以免受潮，並將試紙存放於陰涼的地方適當保存。
+
+    4.定期校對血糖機。每年應至少一次將血糖機帶到醫院同步做抽血與扎手指血糖數據比對，若血糖值≧10mg/dL，差異在±15%以內；<100mg/dL，差異在±15mg/dL以內最理想。
+
+    '
+  tag:
+  - 注意事項
+  - 監測
+  - 血糖
+  - 自我
+  - 試紙
+  - 檢測
+  title: !!python/str '自我血糖監測的注意事項
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.試紙過期或潮解。
+
+    2.血量不足或過多。
+
+    3.過度擠壓採血部位。
+
+    4.採血時採血部位酒精未乾。
+
+    5.血糖機髒污。
+
+    6.血糖機顯示的試紙號碼與試紙瓶上所標示的試紙號碼不一致。
+
+    '
+  tag:
+  - 誤差
+  - 血糖值
+  - 血糖機
+  - 試紙
+  - 採血
+  - 血糖
+  - 潮解
+  title: !!python/str '血糖值誤差的因素
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '當身體缺乏胰島素時，糖份無法進入細胞提供熱能，只好分解脂肪做為燃料。
+
+    在脂肪分解燃燒代謝的過程中，會產生酮體，由尿中排出即為尿酮，所以當出現尿酮時即表示醣類攝取不足或胰島素相對不足
+
+    '
+  tag:
+  - 酮體
+  - 尿酮
+  title: !!python/str '尿酮產生原因
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.第1型糖尿病人，當血糖持續升高（＞250mg/dL）時。
+
+    2.生病時，例如：普通感冒或流行性感冒。
+
+    3.其他，有疑似酮酸中毒其中之ㄧ的症狀，例如：噁心、腹痛、疲倦感、口乾渴、暈眩、或是呼氣有水果味。
+
+    4.有糖尿病的懷孕婦女（包括妊娠性糖尿病）建議每天早上起床後未進食前檢測。
+
+    5.積極嘗試藉由限制熱量減重的糖尿病人。
+
+    '
+  tag:
+  - 檢測
+  - 感冒
+  - 糖尿病
+  - 血酮
+  - 懷孕
+  - 暈眩
+  - 尿酮
+  title: !!python/str '檢測尿酮或血酮的時機
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '疾病、感染和受傷都會對身體造成壓力。壓力荷爾蒙會因此分泌，促使肝臟送出額外的葡萄糖進入血液，給身體多一些能量來對抗病魔，
+
+    導致血糖升高，就算不吃東西血糖或許也會升高。因此，仍然需要口服抗糖尿病藥或胰島素注射。
+
+    '
+  tag:
+  - 受傷
+  - 血糖
+  - 升高
+  - 感染
+  - 疾病
+  title: !!python/str '疾病、感染和受傷可能導致血糖升高
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '生病，如感冒發燒、感染或其他疾病時，身體產生發炎反應導致胰島素阻抗，血糖升高。
+
+    '
+  tag:
+  - 血糖
+  - 生病
+  - 升高
+  - 發燒
+  title: !!python/str '生病時血糖升高的原因
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.生病期間，切勿自行停藥或減低劑量。
+
+    2.增加自我血糖監測次數(當血糖升高時，最好每2~3小時檢測血糖一次，若血糖高於250mg/dL，則要檢測尿酮或血酮)。
+
+    3.若發生嘔吐、腹瀉或無法進食時，必須加強血糖監測。若血糖持續升高、出現尿酮或血酮，或持續低血糖，應至醫院尋求協助。
+
+    4.大量補充水份，每小時至少喝240cc 的水份。
+
+    5.生病期間，儘可能維持正常的飲食。食慾較差但尚能進食時，可採流質飲食，例如米湯、稀飯…，或考慮補充營養品。
+
+    6.不要自行購買藥物(如感冒糖漿)或靜脈注射葡萄糖點滴。
+
+    7.發生下列情況須儘快求醫
+
+    (1)持續嘔吐、腹瀉。
+
+    (2)體重急速減輕。
+
+    (3)呼吸困難。
+
+    (4)頭暈、全身無力。
+
+    (5)嚴重或不尋常的腹絞痛。
+
+    (6)出現嗜睡、混亂、意識不清或胡言亂語。
+
+    (7)尿酮或血酮持續增加時。
+
+    (8)年齡小於2歲或大於80歲者更須密切觀察，必要時儘速就醫。
+
+    '
+  tag:
+  - 發燒
+  - 應對
+  - 處理
+  - 生病
+  - 感冒
+  - 糖尿病
+  - 感染
+  - 疾病
+  - 血糖
+  - 腹瀉
+  - 嘔吐
+  - 頭暈
+  - 呼吸困難
+  - 腹絞痛
+  - 腹痛
+  - 胡言亂語
+  title: !!python/str '糖尿病友生病(感冒發燒、感染或其他疾病)期間的處理/應對
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '糖尿病人常併發血管及神經病變，造成感覺變遲鈍、血液循環變差，所以容易感染，傷口不易癒合，嚴重者甚至需截肢，因此若能早期做好足部自我照護，可將傷害降至最低。
+
+    '
+  tag:
+  - 照護
+  - 足部
+  - 糖尿病
+  - 自我
+  - 神經
+  - 血液循環
+  title: !!python/str '糖尿病友足部自我照護的重要性
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.每天以溫水和肥皂清洗雙腳並仔細檢查，包括腳趾縫、腳側、腳底等，也可利用調整角度的鏡子或請家人幫忙檢查。
+
+    2.若是有厚皮或厚繭，可在洗澡或
+
+    溫水泡腳軟化後，用浮石輕輕磨
+
+    掉厚皮，然後塗上潤膚乳液或乳
+
+    霜來保持厚皮或厚繭的柔軟。
+
+    3.為預防皮膚乾燥，可抹上不含酒精的乳液使皮膚滋潤並去皮屑，但不宜抹在腳趾之間，以免吸收不良，引發濕疹或香港腳；並穿柔軟吸汗的襪子，以保護雙腳。
+
+    4.冬天可以穿著毛襪、或事先以電毯溫被子、電熱器提高室溫或做足部運動，促進雙腳溫暖；但不可直接將腳放在加熱墊(或電熱毯)、熱水袋保暖雙腳，以防燙傷。
+
+    5.避免雙腳交叉或盤腿過久，以免影響甚至阻礙下肢血液循環。
+
+    6.修剪腳趾甲應採平剪方式，勿剪成弧形或尖形，修剪後以挫刀磨平，趾甲長度不可短於趾頭末端，若視力不佳或摸不到腳，可請家人協助修剪。
+
+    7.潮濕的鞋不要穿；避免穿高跟鞋、長筒靴、雨鞋，以減少腳部壓力。
+
+    8.應盡量避免赤腳走路或活動，例如下田工作、走健康步道或散步，以免足部受傷；即使在室內、廚房、浴室等地方，亦應穿上包頭的拖鞋。
+
+    9.多做足部的運動(可利用各種零散時間，如看電視…等)，包括甩腿、屈膝、轉足踝關節、提腳跟、踮腳尖、腳趾的收縮及放鬆等，不僅可增進足部的柔軟度，也可加強下肢血液循環。
+
+    10.對於小於1公分以下，表淺性乾淨的傷口，無分泌物，可以生理食鹽水清洗患部，每天仔細觀察其變化，自我檢測血糖，維持血糖在理想範圍內，以利傷口的修復。
+
+    11.夜間、冬天、下雨(濕氣重)時，下肢血液循環易變差，更須特別注意足部照護。
+
+    12.足部或硬繭有雞眼勿自行處理，坊間的雞眼貼布大都含有腐蝕性水楊酸化學藥劑，容易造成足部潰瘍，應至醫療院所處理治療。
+
+    '
+  tag:
+  - 照護
+  - 原則
+  - 足部
+  - 糖尿病
+  - 自我
+  - 雙腳
+  - 腳趾
+  - 血液循環
+  - 硬繭
+  - 下肢
+  - 厚繭
+  - 皮膚
+  - 雞眼
+  title: !!python/str '糖尿病友足部自我照護的原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.選購鞋子盡量在傍晚以後，因下午的腳比早上大。
+
+    2.選擇寬楦頭，可以容納整個腳掌的鞋子，且鞋
+
+    子的深度，足以讓腳趾頭自由伸展。
+
+    3.鞋底要厚，以船形底為佳，綁鞋帶的鞋較能穩固雙腳，比直接套入的鞋要好，也可選擇魔鬼氈的固定帶，方便穿脫。
+
+    4.若有雞眼或過度磨擦產生的厚皮，可選擇鞋墊來減輕足部壓力。
+
+    5.鞋子的材料，最好是透氣而且防水，且至少要準備兩雙以上的鞋子，方便每天替換，維持鞋子內部乾燥。
+
+    6.新鞋第一天建議只穿一小時，之後每天逐漸增加。
+
+    7.穿鞋前應先檢查鞋內是否有小石子等異物、鞋墊是否有移位。
+
+    8.選擇棉質、透氣、吸汗、淡色的襪子，鬆緊帶
+
+    9.避免過緊，襪頭縫線不可太粗以免磨擦
+
+    '
+  tag:
+  - 鞋襪
+  - 鞋子
+  - 襪子
+  - 鞋墊
+  title: !!python/str '選擇鞋襪的方法
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.皮膚或傷口呈現紅、腫、熱、痛(表示發炎現象)。
+
+    2.傷口癒合太慢、變黑或化膿。
+
+    3.指甲向內長(嵌入性趾甲)、甲溝炎。
+
+    4.長出雞眼、硬繭或發生香港腳、灰指甲等皮膚問題
+
+    '
+  tag:
+  - 紅腫
+  - 皮膚
+  - 傷口
+  - 化膿
+  - 就醫
+  - 足部
+  - 皮膚
+  - 傷口
+  - 灰指甲
+  - 硬繭
+  - 甲溝炎
+  title: !!python/str '足部有下列問題時應就醫尋求醫師檢查及治療
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.檢查腳部外觀
+
+    2.檢查足部脈動
+
+    3.檢查足背動脈
+
+    4.檢查脛後動脈
+
+    5.使用單股尼龍絲檢查疼痛與輕觸/壓覺
+
+    6.使用半定量音叉檢查足部振動感
+
+    '
+  tag:
+  - 檢查
+  - 足部
+  - 糖尿病
+  - 腳部
+  title: !!python/str '糖尿病友足部檢查
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '糖尿病友較一般人容易口腔細菌的滋生及牙齦和黏膜發炎，產生口腔病變及牙周疾病等，並造成血糖不易控制。
+
+    相對地養成良好口腔衛生保健習慣，可以減少口腔疾病的發生，也有助於糖尿病的有效控制。
+
+    '
+  tag:
+  - 口腔
+  - 保健
+  - 糖尿病
+  - 口腔疾病
+  - 口腔衛生
+  - 牙齦
+  - 牙周
+  title: !!python/str '糖尿病友口腔保健的重要性
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.口水減少、口乾、口角炎、口腔灼熱感。
+
+    2.口腔傷口不容易癒合、容易黴菌感染。
+
+    3.牙齦出血、牙齦腫大、牙周化膿、牙齒動搖。
+
+    4.味覺差、扁平苔癬(口腔黏膜)。
+
+    5.容易蛀牙
+
+    '
+  tag:
+  - 口腔
+  - 糖尿病
+  - 牙齦
+  - 味覺
+  - 口角炎
+  - 蛀牙
+  - 傷口
+  - 苔癬
+  - 灼熱感
+  - 口乾
+  - 牙齒
+  title: !!python/str '糖尿病友常見的口腔問題
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.使用含氟牙膏正確刷牙，養成餐後及睡前刷牙習慣，做好口腔清潔，減少細菌滋生、防蛀牙、保護牙齦。
+
+    2.牙刷宜選擇軟毛，為防細菌滋生，至少每3個月(或刷毛已開叉時)就要更換牙刷。
+
+    3.每天至少1次使用不同大小的牙間刷，沾含氟牙膏，清潔牙縫，再用牙刷刷舌頭表面，清除細菌及污垢(舌苔)，防止口臭。
+
+    4.每半年定期口腔檢查及洗牙，必要時增加頻率(就醫時，應向牙醫師告知有糖尿病史)。
+
+    5.各類潔牙工具：
+
+    (1)電動牙刷、牙刷、牙間刷、牙線、含氟牙膏、漱口水。
+
+    (2)好的牙刷：軟毛圓頭牙刷、刷頭長度一次刷2-3顆牙、刷毛至少3-4列、不要太密、刷毛直立、刷柄易握。
+
+    (3)牙線的使用：牙線成ｃ字型。
+
+    (4)牙間刷的使用：大小選擇的標準是「放進去牙縫有點緊又不能太緊」、「比縫大一點」，若發現牙縫太小，不能硬塞，否則會傷害到牙齦。
+
+    6.基本刷牙法
+
+    (1)牙刷與牙面成45度，涵蓋一點點牙齦，每次2~3顆來回刷，且原地做牙齦按摩約10次。
+
+    (2)再順著牙齒面旋轉刷下。
+
+    (3)接著刷咬合面。
+
+    (4)依內、外、上、下側。每次只刷2~3顆牙，將牙齒所有的面都刷乾淨。
+
+    (5)最後再刷舌頭表面。
+
+    (6)若有牙周病跡象時，必須應用各式刷牙法及各類潔牙工具，將每顆牙齒、牙面、咬合面及接縫處都刷乾淨
+
+    '
+  tag:
+  - 原則
+  - 口腔
+  - 保健
+  - 牙刷
+  - 刷牙
+  - 刷毛
+  - 牙線
+  - 牙間
+  - 牙齒
+  - 潔牙
+  - 含氟
+  title: !!python/str '口腔保健原則
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.吃冰、熱飲或甜食時，牙齒會感到酸痛。
+
+    2.刷牙時常會流血。
+
+    3.常口臭。
+
+    4.牙齦紅腫、牙齦與牙齒間有膿、牙齒變長或鬆動、牙縫變大。
+
+    5.牙齒用手指頭摸時會搖動。
+
+    6.假牙鬆動不合適。
+
+    7.口腔內常有破皮、潰瘍或疼痛。
+
+    '
+  tag:
+  - 就醫
+  - 症狀
+  - 口臭
+  - 口腔
+  - 牙齒
+  - 牙齦
+  - 鬆動
+  - 搖動
+  - 紅腫
+  - 酸痛
+  title: !!python/str '口腔有下列症狀應儘速就醫
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.請醫師提供一份中英文診斷書及處方影本。
+
+    2.依旅遊日數準備兩倍的藥量或胰島素，分裝在不同的旅行袋或交由同行的朋友保管，隨身攜帶。
+
+    3.測量血糖的物品。
+
+    4.準備點心以供延誤用餐時食用，攜帶預防低血糖的食物，如葡萄糖粉(漿)、含糖飲料、餅乾等。
+
+    5.兩雙方便走路的鞋，供長期步行時替換。
+
+    6.足部護理所需的東西，如乳液、指甲剪(需放於托運行李內)、棉襪或毛襪。
+
+    '
+  tag:
+  - 準備
+  - 旅行
+  - 糖尿病
+  - 低血糖
+  - 注意事項
+  - 隨身攜帶
+  - 隨身
+  - 出國
+  - 出遊
+  title: !!python/str '糖尿病友旅行前需準備的物品
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.隨身攜帶外出識別卡或糖尿病護照。
+
+    2.使用胰島素治療者，務必記得旅程中都必須隨身攜帶「胰島素」及「葡萄糖粉(漿)3~4包或含糖飲料」，同時不能將胰島素隨行李託運或放置於車內。若室外的溫度過低時，需將胰島素和筆針放在內層衣服的口袋中。
+
+    3.最好每天都能多次自我檢測血糖，因為旅途中的興奮、壓力、作息的改變以及所吃的食物都會影響血糖。
+
+    4.必要時，須在他國購買胰島素，需注意該國所使用的胰島素單位。
+
+    5.旅行時仍需依據餐點醣量調整胰島素劑量，或可事先預訂飛機上的糖尿病餐。
+
+    6.有關出國時差等問題，請與醫師或衛教師討論。
+
+    '
+  tag:
+  - 注意事項
+  - 旅行
+  - 糖尿病
+  - 胰島素
+  - 隨身攜帶
+  - 隨身
+  - 血糖
+  title: !!python/str '糖尿病友旅行的注意事項
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.糖尿病友因免疫能力、防禦功能較差，很容易感染病菌，在糖尿病引起各種感染疾病中，有四分之一與肺炎有關。
+
+    所以除了每年應注射流感疫苗外，最好也要注射肺炎鏈球菌疫苗，才能達到好的預防效果。
+
+    2.由於每年流行的流感病毒不一定相同，且保護效果約可持續一年，因此，每年均需注射一次。
+
+    肺炎鏈球菌疫苗所產生的抵抗力自注射後會逐漸減低，是否需要再次注射，請與醫師討論。
+
+    3.流感疫苗及肺炎鏈球菌疫苗副作用很少，有時會發生注射部位輕微疼痛、紅腫，或稍微發燒，一般在48小時內會消失；
+
+    且兩者可以分開不同部位同時施打，能有效預防肺炎等嚴重併發症的發生。
+
+    完成疫苗注射後，雖可有效降低感染流感病毒的機率，但仍可能罹患其他病毒所引起的感冒，應注意個人衛生保健及各種預防措施，維護健康。
+
+    '
+  tag:
+  - 注射
+  - 糖尿病
+  - 重要性
+  - 疫苗
+  - 肺炎
+  - 鏈球菌
+  - 預防
+  - 感染
+  - 流感病毒
+  - 流感疫苗
+  - 流感
+  title: !!python/str '糖尿病友疫苗注射的重要性
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.糖尿病會降低身體免疫力，而且長期高血糖會減弱免疫細胞的殺菌能力，再加上高血糖環境也有利細菌生長繁殖，所以糖尿病人得到結核病機率比正常人高2至3倍，而且有較高的治療失敗率與死亡率。
+
+    2.因此糖尿病人，若咳嗽超過2週時，應至胸腔科或感染科，進一步篩檢有無結核菌感染，以早期診斷早期治療。
+
+    '
+  tag:
+  - 篩檢
+  - 肺結核
+  - 糖尿病
+  - 治療
+  - 高血糖
+  - 感染
+  - 咳嗽
+  title: !!python/str '糖尿病友肺結核篩檢的重要性
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.糖尿病不只會影響生理，也會影響心理、家庭生活、甚至社會角色；
+
+    若心理無法調適也會影響血糖的控制。當被診斷糖尿病時，大多數的人會經歷焦慮、否認、憤怒、悲傷、接受等階段，
+
+    有的人很快就達到接受的階段，積極面對長期慢性疾病的挑戰；但也有人在這些階段中徘徊，就是難以接受罹患慢性疾病的事實。
+
+    2.糖尿病的控制主要決定於病人的自我照顧能力、人格特質、家人支持度及社會資源的應用。其中，病人對疾病的
+
+    感受及心理是否能調適，是病人自我照顧能力很重要的影
+
+    響因素。糖尿病人若能接納並瞭解自己的感受、
+
+    肯定自我的價值、學習壓力的調適、遇事能冷靜
+
+    處理、遇到困難勇於尋求家人、朋友及社會的協
+
+    助和支持、建立正向的健康信念、態度及健康行
+
+    為，都會提升對疾病的調適能力，即使面對不能
+
+    改變的事實也能做適當的處理，進而降低疾病對自己的衝擊。
+
+    '
+  tag:
+  - 調適
+  - 糖尿病
+  - 心理
+  - 處理
+  - 照顧
+  - 面對
+  title: !!python/str '糖尿病的心理調適
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.維持血糖在理想範圍。
+
+    2.養成規律的運動習慣，運動除能增加胰島素的敏感度外，更能刺激大腦，讓人感到快樂。
+
+    3.面對問題、學習管理疾病，才能掌握病情的變化。
+
+    4.多參加社交活動，建立良好人際關係。
+
+    5.建立正向的態度和積極的人生觀，雖然許多食物不適合多吃，但仍有許多食物可供選擇；雖然有糖尿病，還是能就學、就業，也能旅遊。
+
+    6.勇於尋求家人、朋友及醫護人員的協助或支持。
+
+    7.參加糖尿病支持團體。
+
+    '
+  tag:
+  - 調適
+  - 心理
+  - 運動
+  - 快樂
+  - 態度
+  - 支持團體
+  title: !!python/str '提升心理調適的能力的方法
+
+    '
+- source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
+  summary: !!python/str '1.糖尿病共同照護網:
+
+    (1)整合各層級醫療院所(醫院、診所)、糖尿病照護相關專科(新陳代謝科、家醫科、心臟科、腎臟科、神經內科、眼科、牙科…)及相關專業人員(醫師、護理、營養、藥師…)共同合作，訂定診療規範、轉診辦法、品質準則所建構的照護體系。
+
+    2.糖尿病健康促進機構
+
+    (1)經由國民健康署所認證的糖尿病照護機構
+
+    (2)提供醫師、護理師、營養師及其他醫療專業人員的團隊醫療照護外，更以積
+
+    極預防的角度為每位病人量身打造不同的長期醫療照護計畫，包括用藥、飲食、運動…等細節，讓糖尿病人的病情可以全方位受到控制，
+
+    同時也提供糖尿病高危險群及代謝症候群健康促進的生活方式，如健康飲食、規律運動、體重控制等指導，及早預防及延緩糖尿病的發生。
+
+    3.糖尿病支持團體
+
+    (1)由一群患有糖尿病的病友及其家屬、高危險群所組成的團體。
+
+    (2)透過經驗分享、情感交流、彼此支持以及相互合作來滿足共同的需要，達成自助互助的目的。
+
+    換言之，它是一種自願性參與的團體，藉由親身的經驗與他人分享，透過團體互助的方式，彼此提供情緒的支持，學習解決問題的方式，進而改善個人的健康行為及控制好糖尿病。
+
+    '
+  tag:
+  - 資源
+  - 糖尿病
+  - 防治
+  - 照護
+  - 醫療
+  - 團體
+  - 支持團體
+  - 機構
+  title: !!python/str '糖尿病防治的相關資源
+
+    '

@@ -27,4 +27,4 @@ jupyter-console==5.1.0
 jupyter-core==4.3.0
 kombu==4.0.2
 line-bot-sdk==1.1.0
-
+pyyaml==3.12
