@@ -172,8 +172,8 @@ class Consultant:
         jieba.set_dictionary(jieba_dict_path)
 
 
-        articles_without_tags = []
-        articles_without_tags = self.read_articles()
+        #articles_without_tags = []
+        #articles_without_tags = self.read_articles()
 
         #establish mapping of tag and article_id (many to many relationship)
         #build_articles_with_tags(articles_without_tags)
@@ -181,7 +181,7 @@ class Consultant:
 
         articles_with_tags = []
         articles_with_tags = self.read_articles_with_tags()
-        self.build_tag_to_article_ids(articles_with_tags)
+        #self.build_tag_to_article_ids(articles_with_tags)
         tag_to_article_ids = self.read_tag_to_article_ids()
 
         #split sentence of question into words with weight
