@@ -7,6 +7,7 @@ import json
 import os
 import yaml
 import io
+import codecs
 
 class Consultant:
 
@@ -112,7 +113,7 @@ class Consultant:
         return articles_with_tags
 
     def read_articles_with_tags(self):
-        with open(article_with_tags_path, 'r') as file_tag_to_article_info:
+        with codecs.open(article_with_tags_path, 'r',encoding = 'utf-8') as file_tag_to_article_info:
             try:
                 articles_with_tags = yaml.load(file_tag_to_article_info)
             except yaml.YAMLError as exc:
@@ -148,7 +149,7 @@ class Consultant:
 
         print "finish building tag to article id:" + str(datetime.now())
 
-        f=open(tag_to_article_ids_path,'w+')
+        f = open(tag_to_article_ids_path,'w+')
         for tag in tag_to_article_ids.keys():
             f.write(tag.encode('utf-8')+":".encode('utf-8')+tag_to_article_ids.get(tag).encode('utf-8')+"\n".encode('utf-8'))
         print "finish writing file of tag_to_article_ids:" + str(datetime.now())
@@ -156,7 +157,7 @@ class Consultant:
     def read_tag_to_article_ids(self):
 
         tag_to_article_ids = {}
-        file_tag_to_article_ids = open(tag_to_article_ids_path, 'r+')
+        file_tag_to_article_ids = codecs.open(tag_to_article_ids_path, 'r+',encoding = 'utf-8')
         lines_tag_to_article_ids = file_tag_to_article_ids.readlines()
 
         for line in lines_tag_to_article_ids:
@@ -186,7 +187,7 @@ class Consultant:
         #split sentence of question into words with weight
         #higher weight means more important in this sentence(query)
         #it uses tf-idf . tf is based on this sentence, idf here is based on jieba database
-        keywords_with_weight = jieba.analyse.extract_tags(query, 10,withWeight=True)
+        keywords_with_weight = jieba.analyse.extract_tags(query, 10, withWeight=True)
 
         article_id_to_score = {}
 
@@ -199,7 +200,7 @@ class Consultant:
             #2.word in black_list will not be used to query article
             if (len(keyword) >1) and (keyword not in black_list):
                 print "key:",keyword,":",weight
-                keyword = keyword.encode('utf-8')
+            #    keyword = keyword.encode('utf-8')
                 if tag_to_article_ids.has_key(keyword):
                     print "has_key:",keyword,":",weight
                     id_string = tag_to_article_ids.get(keyword).split(',')
