@@ -195,14 +195,14 @@ class Consultant:
         for keyword_with_weight in keywords_with_weight:
             keyword = keyword_with_weight[0]
             weight = keyword_with_weight[1]
-            print keyword,":",weight
+            #print keyword,":",weight
             #1.single word will not be used to query article
             #2.word in black_list will not be used to query article
             if (len(keyword) >1) and (keyword not in black_list):
-                print "key:",keyword,":",weight
+                #print "key:",keyword,":",weight
             #    keyword = keyword.encode('utf-8')
                 if tag_to_article_ids.has_key(keyword):
-                    print "has_key:",keyword,":",weight
+                    #print "has_key:",keyword,":",weight
                     id_string = tag_to_article_ids.get(keyword).split(',')
                     for id in id_string:
                         if id not in article_id_to_score.keys():
