@@ -18,7 +18,7 @@ class HomeView(APIView):
         return HttpResponse(t.render(c))
 
 class ConsoltantView(APIView):
-    #for debug use: get all users
+
     def get(self, request, format=None):
         response_data = {}
         response_data["message"] = "home page"
@@ -43,3 +43,15 @@ class ConsoltantView(APIView):
 
         c= template.Context({'answer':answer,'question':question})
         return HttpResponse(t.render(c))
+
+
+class ConsoltantAPIView(APIView):
+
+    def post(self, request, format=None):
+        response_data = {}
+
+        question = request.data['question']
+        consultant = Consultant()
+        answer = consultant.ask(question)
+        response_data['data'] = answer
+        return JsonResponse(response_data)

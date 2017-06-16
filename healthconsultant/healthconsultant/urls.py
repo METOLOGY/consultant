@@ -21,5 +21,6 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     #ask
     url(r'^ask/$', views.ConsoltantView.as_view()),
+    url(r'^api/v1/ask/$', views.ConsoltantAPIView.as_view()),
     url(r'^$', views.HomeView.as_view()),
 ]
