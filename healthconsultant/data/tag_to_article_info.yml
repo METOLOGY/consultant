@@ -7,8 +7,9 @@
   - 糖尿病
   - 醣類
   - 飲食
-  - 減少醣類 
+  - 減少醣類
   !!python/unicode 'title': 糖尿病適合生酮飲食嗎？
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170511.png
 - !!python/unicode 'post_date': !!python/unicode 'Fri, Apr 28, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170428/diabetes-and-alcohol-use/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -20,6 +21,7 @@
   - 酒精
   - 糖尿病
   !!python/unicode 'title': 糖尿病可以喝酒嗎？當血糖遇上酒精
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170428.png
 - !!python/unicode 'post_date': !!python/unicode 'Wed, Apr 26, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170426/prediabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -32,6 +34,7 @@
   - 糖尿病標準
   - 避免糖尿病
   !!python/unicode 'title': 糖尿病前期逆轉勝
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170426.png
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Apr 18, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170418/exercise-column-by-drma/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -44,6 +47,7 @@
   - 血糖
   - 血糖控制
   !!python/unicode 'title': 【馬文雅醫師運動專欄】心，“動”了嗎？
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170418.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Apr 13, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170413/diabetes-and-macrovascular-complications/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -58,6 +62,7 @@
   - 大血管併發症
   - 心血管疾病
   !!python/unicode 'title': 糖尿病的大血管併發症
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170413.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Apr 6, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170406/diabetes-and-sexual-dysfunction/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -72,6 +77,7 @@
   - 糖尿病
   - 男性
   !!python/unicode 'title': 糖尿病可以擁有性福嗎? --男性勃起功能障礙
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170406.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Mar 23, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170323/type-2-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -84,6 +90,7 @@
   - 血糖指標
   - 高危險群
   !!python/unicode 'title': 認識第二型糖尿病
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170323.png
 - !!python/unicode 'post_date': !!python/unicode 'Fri, Mar 17, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170317/your-testing-schedule/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -104,6 +111,7 @@
   - 監測
   - 糖尿病
   !!python/unicode 'title': 瞄準你的理想血糖數字--為你的控糖目標設定血糖量測計畫
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170317.png
 - !!python/unicode 'post_date': !!python/unicode 'Wed, Mar 1, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170301/fruits-for-a-healthy-diabetes-diet/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -116,6 +124,7 @@
   - 血糖波動
   - 避免血糖波動
   !!python/unicode 'title': 糖尿病水果怎麼吃？聰明選擇水果避免血糖波動
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170301.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Fri, Feb 10, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170210/h2coach-comes-to-answer-question/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -131,6 +140,7 @@
   - 胰島素
   - 糖尿病
   !!python/unicode 'title': 智抗糖健康教練來解答：服用血糖藥物會增加對食物的需求嗎？
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170210.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Feb 9, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170209/skin-care-and-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -148,6 +158,7 @@
   - 皮膚護理
   - 皮膚日常保養
   !!python/unicode 'title': 這裡癢、那裡也癢--糖尿病的皮膚日常保養
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170209.png
 - !!python/unicode 'post_date': !!python/unicode 'Wed, Jan 25, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170125/healthy-diets-for-people-with-diabetes-duing-chinese-new-year/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -160,6 +171,7 @@
   - 糖尿病
   - 圍爐
   !!python/unicode 'title': 糖尿病的過年飲食注意事項
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170125.png?v2
 - !!python/unicode 'post_date': !!python/unicode 'Mon, Jan 23, 2017'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20170123/healthy-snacks-for-people-with-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -170,6 +182,7 @@
   - 糖尿病
   - 飲食
   !!python/unicode 'title': 要如何選擇糖尿病點心又不挨餓呢？不同血糖值適合的健康點心
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20170123.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Dec 29, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161229/how-to-eat-hot-pot-without-hyperglycaemia/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -178,6 +191,7 @@
   - 吃火鍋
   - 火鍋
   !!python/unicode 'title': 這樣吃火鍋 不怕血糖飆
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20161229.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Dec 20, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161220/how-to-eat-sweet-dumplings/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -191,6 +205,7 @@
   - 進補
   - 薑母鴨
   !!python/unicode 'title': 冬至湯圓這樣吃，血糖不飆高
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20161220.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Dec 6, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161206/dawn-phenomenon-and-somogyi-effect/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -206,6 +221,7 @@
   - 早上
   - 糖尿病
   !!python/unicode 'title': 為什麼早上空腹血糖會偏高？淺論黎明現象與梭莫基效應
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20161206.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Nov 17, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161117/world-diabetes-day-eyes-on-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -216,6 +232,7 @@
   - 眼睛
   - 高血糖
   !!python/unicode 'title': 許自己看得見的未來-糖尿病的護眼之道
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20161117.png
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Oct 27, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161027/dash-diet-healthy-eating-to-lower-your-blood-pressure/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -229,6 +246,7 @@
   - 高血壓
   - 血壓
   !!python/unicode 'title': DASH飲食 降血壓新選擇
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20161027.png
 - !!python/unicode 'post_date': !!python/unicode 'Sun, Oct 2, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20161002/sugar-and-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -240,6 +258,7 @@
   - 罹患糖尿病
   - 迷思
   !!python/unicode 'title': 我不愛吃糖，為什麼我還是會得糖尿病？
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20161002.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Sep 13, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160913/bbq-diet-tips-for-diabetics/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -250,6 +269,7 @@
   - 中秋
   - 糖尿病
   !!python/unicode 'title': 中秋烤肉吃多少？糖尿病的烤肉飲食六大技巧
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160913.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Sep 8, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160909/good-starches-for-diabetics/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -259,6 +279,7 @@
   - 糖尿病
   - 白飯
   !!python/unicode 'title': 糖尿病可以吃澱粉嗎？四大優質澱粉評比
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160908.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sun, Aug 28, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160828/type-1-diabetes-school-pack-for-parents/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -280,6 +301,7 @@
   - 第一型
   - 第1型
   !!python/unicode 'title': 第一型小朋友快樂上學去
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160828.png
 - !!python/unicode 'post_date': !!python/unicode 'Fri, Aug 19, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160819/sugary-drinks-and-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -293,6 +315,7 @@
   - 手搖
   - 糖尿病
   !!python/unicode 'title': 人手一杯的手搖杯怎麼喝？你不可忽視的含糖飲料
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160819.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Mon, Aug 8, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160808/can-vegan-diets-cure-diabetes/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -305,6 +328,7 @@
   - 血糖控制
   - 控制血糖
   !!python/unicode 'title': 控糖要吃素還吃葷？再論糖尿病健康飲食
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160808.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Jun 14, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160614/bust-the-myth-of-having-low-carb-diets/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -321,6 +345,7 @@
   - 不吃醣類
   - 迷思
   !!python/unicode 'title': 迷思：不吃醣類飯後血糖越好？
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160614.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Fri, May 20, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160520/every-patient-tells-a-diabetes-story-2/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -331,6 +356,7 @@
   - 糖尿病
   - 照護問題
   !!python/unicode 'title': 台灣糖尿病照護問題--陳宏麟醫師專訪2
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20151217.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Fri, May 13, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160513/Diabetes-and-blood-pressure/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -352,6 +378,7 @@
   - 血壓偏高
   - 糖尿病
   !!python/unicode 'title': 高血壓與高血糖的危險關係
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160513.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Fri, May 6, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160316/managing_diabetes_during_menopause/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -379,6 +406,7 @@
   - 糖尿病
   - 停經期
   !!python/unicode 'title': 更年期血糖控制變困難？4招更年期愛惜身體的方法
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160506.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Fri, Apr 22, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160422/%E7%B3%96%E5%B0%BF%E7%97%85%E3%81%AE%E5%9C%B0%E7%90%83%E4%BF%9D%E8%A1%9B%E6%88%B0--2016%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -396,6 +424,7 @@
   - 環保
   - 環境保護
   !!python/unicode 'title': 糖尿病の地球保衛戰--2016世界地球日
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160422.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Thu, Apr 21, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160421/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%90%83%E9%AB%98GI%E9%A3%9F%E7%89%A9%E5%AE%B9%E6%98%93%E9%A4%93%EF%BC%9F%E6%8E%8C%E6%8F%A1%E4%BD%8EGI%E9%A3%B2%E9%A3%9F%E7%A9%A9%E7%A9%A9%E6%8E%A7%E5%88%B6%E7%B3%96%E5%B0%BF%E7%97%85/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -416,6 +445,7 @@
   - 升糖
   - 升糖指數
   !!python/unicode 'title': 為什麼吃高GI食物容易餓？掌握低GI飲食穩穩控制糖尿病
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160421.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sat, Apr 9, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160409/%E5%A4%9A%E5%90%83%E5%A4%9A%E5%81%A5%E5%BA%B7%EF%BC%9F%E7%B3%96%E5%B0%BF%E7%97%85%E7%87%9F%E9%A4%8A%E5%93%81%E7%9A%84%E8%BF%B7%E6%80%9D/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -437,6 +467,7 @@
   - 奶粉
   - 醣類
   !!python/unicode 'title': 多吃多健康？糖尿病營養品的迷思
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160409.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Mar 22, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160322/%E7%AE%97%E7%AE%97%E5%90%83%E4%BA%86%E5%A4%9A%E5%B0%91%E9%86%A3--%E8%AA%8D%E8%AD%98%E7%87%9F%E9%A4%8A%E6%A8%99%E7%A4%BA/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -458,6 +489,7 @@
   - 代換
   - 營養標示
   !!python/unicode 'title': 算算吃了多少醣--認識營養標示
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160322.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Wed, Mar 16, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160316/%E6%B2%92%E7%9D%A1%E5%A5%BD%E6%9C%83%E8%AE%93%E6%97%A9%E4%B8%8A%E7%9A%84%E7%A9%BA%E8%85%B9%E8%A1%80%E7%B3%96%E5%A2%9E%E5%8A%A0%E5%97%8E%EF%BC%9F%E7%B3%96%E5%B0%BF%E7%97%85%E8%88%87%E7%9D%A1%E7%9C%A0%E7%9A%84%E9%97%9C%E4%BF%82/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -478,6 +510,7 @@
   - 交感神經
   - 失眠
   !!python/unicode 'title': 沒睡好會讓早上的空腹血糖增加嗎？糖尿病與睡眠的關係
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160316.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Mar 8, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160308/%E7%B6%93%E6%9C%9F%E8%A1%80%E7%B3%96%E6%B3%A2%E5%8B%95%E5%A4%A7%EF%BC%9F%E6%B7%BA%E8%AB%87%E5%A5%B3%E6%80%A7%E7%94%9F%E7%90%86%E9%80%B1%E6%9C%9F%E8%88%87%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E9%97%9C%E4%BF%82/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -505,6 +538,7 @@
   - 症候群
   - 經前症候群
   !!python/unicode 'title': 經期血糖波動大？淺談女性生理週期與糖尿病的關係
+  url_og_image: https://www.health2sync.com/blog/images/cover/cover_20160308.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sat, Jan 30, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160130/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%97%85%E8%A1%8C%E7%9A%84%E9%98%BB%E7%A4%99%EF%BC%81%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%AB%E5%8F%97%E5%81%87%E6%9C%9F%E5%90%A7/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -527,6 +561,7 @@
   - 糖尿病
   - 出國
   !!python/unicode 'title': 糖尿病不是你旅行的阻礙！準備好享受假期吧
+  url_og_image: https://www.health2sync.com/blog/images/life_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sat, Jan 23, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160123/%E6%89%93%E8%83%B0%E5%B3%B6%E7%B4%A0%E5%B0%B1%E4%BB%A3%E8%A1%A8%E8%A6%81%E6%B4%97%E8%85%8E%E5%97%8E%EF%BC%9F%E4%B8%89%E7%A8%AE%E5%B8%B8%E8%A6%8B%E8%83%B0%E5%B3%B6%E7%B4%A0%E6%B2%BB%E7%99%82%E7%B3%96%E5%B0%BF%E7%97%85%E8%BF%B7%E6%80%9D/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -547,6 +582,7 @@
   - 打針
   - 併發症
   !!python/unicode 'title': 打胰島素就代表要洗腎嗎？三種常見胰島素治療糖尿病迷思
+  url_og_image: https://www.health2sync.com/blog/images/myth_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sat, Jan 9, 2016'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20160109/%E4%BD%A0%E7%9A%84%E8%A1%80%E7%B3%96%E6%A9%9F%E4%B8%8D%E6%BA%96%E5%97%8E%EF%BC%9F%E9%80%A0%E6%88%90%E8%A1%80%E7%B3%96%E5%80%BC%E8%AA%A4%E5%B7%AE%E7%9A%84%E5%8E%9F%E5%9B%A0/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -558,6 +594,7 @@
   - 血糖
   - 試紙
   !!python/unicode 'title': 你的血糖機不準嗎？造成血糖值誤差的原因
+  url_og_image: https://www.health2sync.com/blog/images/news_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Wed, Dec 30, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151230/%E7%87%95%E9%BA%A5%E5%8F%AF%E4%BB%A5%E9%99%8D%E8%A1%80%E7%B3%96%EF%BC%8C%E5%A4%9A%E5%90%83%E4%B9%9F%E7%84%A1%E5%A6%A8/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -568,6 +605,7 @@
   - !!python/unicode 'GI'
   - 血糖
   !!python/unicode 'title': 燕麥可以降血糖，多吃也無妨?
+  url_og_image: https://www.health2sync.com/blog/images/myth_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sat, Dec 12, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151212/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9A%B4%E7%98%A6%E6%9C%83%E6%98%AF%E7%B3%96%E5%B0%BF%E7%97%85%E7%97%87%E7%8B%80%E4%B9%8B%E4%B8%80%EF%BC%9F%E5%9C%96%E8%A7%A3%E8%83%B0%E5%B3%B6%E7%B4%A0%E9%98%BB%E6%8A%97/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -602,6 +640,7 @@
   - 阻抗
   - 糖尿病
   !!python/unicode 'title': 為什麼暴瘦會是糖尿病症狀之一？圖解胰島素阻抗
+  url_og_image: https://www.health2sync.com/blog/images/news_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Dec 1, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151201/%E7%89%99%E5%91%A8%E7%97%85%E8%88%87%E7%B3%96%E5%B0%BF%E7%97%85/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -635,6 +674,7 @@
   - 細菌
   - 牙周
   !!python/unicode 'title': 牙周病與糖尿病
+  url_og_image: https://www.health2sync.com/blog/images/life_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Nov 24, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151124/%E7%84%A1%E3%80%8C%E7%B3%96%E3%80%8D%E9%A4%85%E4%B9%BE%E7%9C%9F%E7%9A%84%E7%84%A1%E3%80%8C%E9%86%A3%E3%80%8D%E5%97%8E/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -651,6 +691,7 @@
   - 血糖
   - 營養標示
   !!python/unicode 'title': 無「糖」餅乾真的無「醣」嗎?
+  url_og_image: https://www.health2sync.com/blog/images/myth_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Nov 10, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151110/%E5%8F%AA%E8%A6%81%E5%9D%87%E8%A1%A1%EF%BC%8C%E7%B3%96%E5%B0%BF%E7%97%85%E4%BB%80%E9%BA%BC%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%90%83%EF%BC%9F%E4%BE%86%E8%87%AA%E7%87%9F%E9%A4%8A%E5%AD%B8%E7%9A%84%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%B2%E9%A3%9F%E8%A7%80%E9%BB%9E/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -675,6 +716,7 @@
   - 均衡
   - 均衡飲食
   !!python/unicode 'title': 只要均衡，糖尿病什麼都可以吃？來自營養學的糖尿病飲食觀點
+  url_og_image: https://www.health2sync.com/blog/images/meal_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Oct 13, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151013/%E5%A4%A7%E7%AC%91%E6%9C%89%E5%8A%A9%E6%96%BC%E8%A1%80%E7%B3%96%E6%8E%A7%E5%88%B6/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -700,6 +742,7 @@
   - 情緒
   - 糖尿病
   !!python/unicode 'title': 大笑有助於血糖控制？
+  url_og_image: https://www.health2sync.com/blog/images/share_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Mon, Oct 5, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20151005/%E4%B9%85%E5%9D%90%E6%9C%83%E5%BD%B1%E9%9F%BF%E8%A1%80%E7%B3%96/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -718,6 +761,7 @@
   - 椅子
   - 痠痛
   !!python/unicode 'title': 久坐會影響血糖！？再忙也要把屁股從椅子上移開
+  url_og_image: https://www.health2sync.com/blog/images/life_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Sat, Sep 26, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20150926/%E6%9F%9A%E8%A6%8B%E6%9C%88%E5%9C%93%E4%BA%BA%E5%9C%98%E5%9C%93%E2%80%94%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%90%83%E6%9F%9A%E5%AD%90%E8%88%87%E6%9C%88%E9%A4%85%E7%9A%84%E9%A3%B2%E9%A3%9F%E6%8A%80%E5%B7%A7/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -738,6 +782,7 @@
   - 麻豆
   - 中秋
   !!python/unicode 'title': 柚見月圓人團圓—中秋節吃柚子與月餅的飲食技巧
+  url_og_image: https://www.health2sync.com/blog/images/meal_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Sep 22, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20150922/%E6%8E%A7%E7%B3%96%E9%9B%A3%E9%A1%8C%EF%BC%9A%E6%83%B3%E5%90%83%E5%8F%88%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E6%99%82%E5%80%99%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -778,6 +823,7 @@
   - 飲食
   - 情緒
   !!python/unicode 'title': 控糖難題：想吃又不能吃的時候該怎麼辦？
+  url_og_image: https://www.health2sync.com/blog/images/share_cover.jpg
 - !!python/unicode 'post_date': !!python/unicode 'Tue, Sep 8, 2015'
   !!python/unicode 'read_more_link': !!python/unicode 'https://www.health2sync.com/blog/post/20150908/%E7%A7%8B%E9%AB%98%E6%B0%A3%E7%88%BD%EF%BC%8C%E4%B8%80%E8%B5%B7%E5%8E%BB%E9%81%8B%E5%8B%95%E5%90%A7%EF%BC%81/'
   !!python/unicode 'source': !!python/unicode 'health2sync'
@@ -793,6 +839,7 @@
   tag:
   - 運動
   !!python/unicode 'title': 秋高氣爽，一起去運動吧！
+  url_og_image: https://www.health2sync.com/blog/images/life_cover.jpg
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fiasp-launch-in-canada/'
@@ -806,6 +853,7 @@
   - !!python/unicode 'aspart'
   - !!python/unicode 'insulin'
   !!python/unicode 'title': 更快速的胰島素Fiasp上市
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/更快速的胰島素Fiasp上市.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/frequency-of-retino-screen-in-t1dm/'
@@ -822,6 +870,7 @@
   - 併發症
   - 檢查
   !!python/unicode 'title': 第一型糖尿病的眼底追蹤時間可調整
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/第一型糖尿病的眼底追蹤時間可調整.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/hight-weight-variable-induced-cvd/'
@@ -838,6 +887,7 @@
   - 併發症
   - 危險
   !!python/unicode 'title': 體重波動大可能造成心血管疾病
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/體重波動大可能造成心血管疾病.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intensive-glucose-control-prevent-microvascular-dz/'
@@ -856,6 +906,7 @@
   - 血糖控制
   - 控制血糖
   !!python/unicode 'title': 積極血糖控制可預防小血管病變
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/積極血糖控制可預防小血管病變.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/incidence-of-dm-in-youth-increase/'
@@ -868,6 +919,7 @@
   - 幼童
   - 孩童
   !!python/unicode 'title': 青少年的第一型以及第二型糖尿病發生率增加
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/青少年的第一型以及第二型糖尿病發生率增加.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/what-ndr-told-us/'
@@ -880,6 +932,7 @@
   - 糖尿病
   - 死亡率
   !!python/unicode 'title': NDR的研究告訴我們什麼？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/NDR的研究告訴我們什麼.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/mortality-and-cvd-in-t1dm-and-t2dm/'
@@ -891,6 +944,7 @@
   - 心血管
   - 糖尿病
   !!python/unicode 'title': 糖尿病患者的死亡率與心血管疾病預後
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/糖尿病患者的死亡率與心血管疾病預後.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/insulin-glp1ra-effect/'
@@ -907,6 +961,7 @@
   - 第2型
   - 糖尿病
   !!python/unicode 'title': 胰島素與GLP1類似物併用的療效
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/04/胰島素與GLP1類似物併用療效.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2i-reduce-hf-and-dead/'
@@ -923,6 +978,7 @@
   - !!python/unicode 'EMPA'
   - !!python/unicode 'REG'
   !!python/unicode 'title': SGLT2抑制劑可降低心衰竭和死亡率
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/03/SGLT2抑制劑可降低心衰竭和死亡率.001.png
 - !!python/unicode 'post_date':
   - !!python/unicode '2017-04-25'
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/2017%e5%b9%b4%e7%be%8e%e5%9c%8b%e8%87%a8%e5%ba%8a%e5%85%a7%e5%88%86%e6%b3%8c%e5%ad%b8%e6%9c%83%e7%9a%84%e7%94%a8%e8%97%a5%e5%bb%ba%e8%ad%b0-%e7%ac%ac%e4%ba%8c%e5%9e%8b%e7%b3%96%e5%b0%bf%e7%97%85/'
@@ -937,6 +993,7 @@
   - 第二型
   - 第2型
   !!python/unicode 'title': 2017年美國臨床內分泌學會的用藥建議-第二型糖尿病篇
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/03/2017年美國臨床內分泌學會的用藥建議.001.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fructose-damage-liver/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -954,6 +1011,7 @@
   - 果汁
   - 碳酸飲料
   !!python/unicode 'title': 果糖危害年輕人的肝臟
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/03/果糖危害年輕人的肝臟.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fda-aprove-qtern/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -968,6 +1026,7 @@
   - !!python/unicode 'Qtern'
   - !!python/unicode 'Forxiga'
   !!python/unicode 'title': 美國食藥局核准Dapagliflozin/Saxagliptin複方藥
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/03/美國食藥局核准DapagliflozinSaxagliptin複方藥.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intervention-prevent-rebound-weight-gain/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -978,6 +1037,7 @@
   - 復胖
   - 減肥
   !!python/unicode 'title': 持續性介入可避免減重後的復胖
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/03/持續性介入可避免減重後的復胖.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/young-t2dm-easy-complications/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -995,6 +1055,7 @@
   - 神經
   - !!python/unicode 'JAMA'
   !!python/unicode 'title': 將近3/4的第二型糖尿病年輕人罹患併發症
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/03/年輕第二型糖尿病易得併發症.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fmd-for-health/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1005,6 +1066,7 @@
   - 間歇
   - 飲食
   !!python/unicode 'title': 間歇斷食可能對健康有益
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/02/斷食療法臨床研究.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/ebm-lchf-diet/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1015,6 +1077,7 @@
   - 低醣
   - 飲食
   !!python/unicode 'title': 低醣高脂飲食的臨床醫學證據
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/02/低醣高脂飲食臨床研究回顧.001.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/ema-warning-sglt2i-amputation-risk/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1029,6 +1092,7 @@
   - 腎衰竭
   - 腎臟
   !!python/unicode 'title': 歐洲醫學機構警示所有SGLT2抑制劑藥物必須標示截肢風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/02/歐洲醫學機構警示所有SGLT2抑制劑藥物必須標示截肢風險.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/air-pollution-and-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1043,6 +1107,7 @@
   - 過重
   - 體重
   !!python/unicode 'title': 空氣污染增加糖尿病風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/02/空氣污染增加糖尿病風險.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/good-lifestyle-reduct-cv-risk/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1056,6 +1121,7 @@
   - 糖尿病
   - 體質
   !!python/unicode 'title': 生活習慣的改變可以逆轉基因遺傳的疾病風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2017/01/生活習慣的改變可以逆轉基因遺傳的疾病風險.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/pioglitazone-may-add-bladder-ca-risk/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1066,6 +1132,7 @@
   - 膀胱癌
   - !!python/unicode 'JAMA'
   !!python/unicode 'title': Pioglitazone增加膀胱癌的風險警示
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/12/部落格文章圖片wp版.001-1.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/pre-dm-up-cv-risk/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1076,6 +1143,7 @@
   - 前期
   - 心血管
   !!python/unicode 'title': 糖尿病前期增加心血管風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/12/部落格文章圖片wp版.001.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-tx-new-era/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1089,6 +1157,7 @@
   - 血糖控制
   - 控制血糖
   !!python/unicode 'title': 血糖治療新世代
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/11/部落格文章圖片wp版.001-4.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/semaglutide-reduced-cv-outcome/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1102,6 +1171,7 @@
   - !!python/unicode 'GLP1'
   - 腸泌素
   !!python/unicode 'title': Semaglutide降低糖尿病患者心血管風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/11/部落格文章圖片wp版.001-3.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/iit-for-newdm-tw/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1111,6 +1181,7 @@
   - 治療
   - 胰島素
   !!python/unicode 'title': 2016年IDF-WPR上課紀錄（下）-短期積極胰島素治療的台灣經驗
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/11/部落格文章圖片wp版.001.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2i-cv-protection-ketone/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1124,6 +1195,7 @@
   - 藥物
   - !!python/unicode 'Empagliflozin'
   !!python/unicode 'title': 2016年IDF-WPR上課紀錄（中）-SGLT2抑制劑保護心腎功能的酮體理論
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/11/部落格文章圖片wp版.001.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/2016-idf-wpr-record-01/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1133,6 +1205,7 @@
   - !!python/unicode 'GLP1'
   - !!python/unicode 'SGLT2'
   !!python/unicode 'title': 2016年IDF-WPR上課紀錄（上）-GLP1和SGLT2相關研究
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/11/部落格文章圖片wp版.001-5.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sleep-metabolic-rate/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1143,6 +1216,7 @@
   - 睡眠
   - 體重增加
   !!python/unicode 'title': 睡越少，體重越重
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/10/睡越少體重越重.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/moderate-exercise-prevent-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1153,6 +1227,7 @@
   - 運動
   - 糖尿病
   !!python/unicode 'title': 中等強度運動可有效預防糖尿病
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/10/中等強度運動可預防糖尿病.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/%e9%a3%af%e5%be%8c%e9%81%8b%e5%8b%95%ef%bc%8c%e6%9b%b4%e6%9c%89%e5%8a%a9%e6%96%bc%e8%a1%80%e7%b3%96%e6%8e%a7%e5%88%b6/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1167,6 +1242,7 @@
   - 控制血糖
   - 糖尿病
   !!python/unicode 'title': 飯後運動，更有助於血糖控制
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/10/飯後運動有助於血糖控制.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/early-iit-for-new-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1180,6 +1256,7 @@
   - 糖尿病
   - 藥物
   !!python/unicode 'title': 糖尿病早期給予短期積極胰島素治療，可改善胰島素功能
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/10/早期積極胰島素治療改善患者預後.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/about-usa-treat-trend/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1191,6 +1268,7 @@
   - 糖尿病
   - 用藥
   !!python/unicode 'title': 美國糖尿病治療現況
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/10/美國糖尿病治療現況.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intro-toujeo/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1202,6 +1280,7 @@
   - 胰島素
   - 新型
   !!python/unicode 'title': 新型胰島素，糖德仕Toujeo介紹
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/10/新型胰島素糖德仕Toujeo.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/how-to-titrate-bbq-for-autumn/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1213,6 +1292,7 @@
   - 中秋烤肉
   - 中秋
   !!python/unicode 'title': 中秋烤肉，糖友的烤肉醬如何調理？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/09/烤肉醬調理.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dpp-exercise-prevent-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1225,6 +1305,7 @@
   - 前期
   - 生活習慣
   !!python/unicode 'title': 運動可降低糖尿病前期患者惡化成糖尿病的風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/07/運動可降低糖尿病前期患者惡化成糖尿病的風險.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/do-not-broadcast-the-error-website/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1233,6 +1314,7 @@
   tag:
   - 草藥
   !!python/unicode 'title': 為了你的家人好，請不要傳這種亂七八糟的文章
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/07/請不要傳會害人的文章.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/how-empa-protect-cardiorenal/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1241,6 +1323,7 @@
   tag:
   - !!python/unicode 'Empagliflozin'
   !!python/unicode 'title': Empagliflozin如何改善心腎結果？有各種解釋
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/SGLT2抑制劑如何改善糖尿病患者心腎功能.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/intensive-life-intervention-for-dm-outcome/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1252,6 +1335,7 @@
   - 糖尿病
   - 治療
   !!python/unicode 'title': 積極生活習慣調整可改善糖尿病患者的生活品質
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/積極運動可改善糖尿病患者生活品質.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2-aki-renoprotection/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1267,6 +1351,7 @@
   - !!python/unicode 'Dapagliflozin'
   - !!python/unicode 'AKI'
   !!python/unicode 'title': SGLT2抑制劑與腎功能之間的關聯
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/SGLT2抑制劑與腎功能關聯.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/gut-microbiome-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1278,6 +1363,7 @@
   - 糖尿病
   - 生活習慣
   !!python/unicode 'title': 腸胃道微生物與糖尿病的關聯
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/腸胃道微生物與糖尿病的關聯.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2i-recent-report-summary/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1288,6 +1374,7 @@
   - 抑制劑
   - 藥物
   !!python/unicode 'title': SGLT2抑制劑的近期資訊整理
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/SGLT2抑制劑與腎功能關聯.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/metabolic-surgery-for-dm-in-overweight/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1299,6 +1386,7 @@
   - 糖尿病
   - !!python/unicode 'BMI'
   !!python/unicode 'title': 亞洲糖尿病患者在較輕的體重下實施減重手術可改善長期預後
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/亞洲糖尿病患者在較輕的體重下實施減重手術可改善長期預後.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/empagliflozin-prevent-nephropathy/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1311,6 +1399,7 @@
   - 心血管
   - 腎病變
   !!python/unicode 'title': Empagliflozin可延緩糖尿病腎病變
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/06/Empagliflozin可延緩糖尿病腎病變.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/hope-3-outcome/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1325,6 +1414,7 @@
   - 發生率
   - 生活習慣
   !!python/unicode 'title': HOPE-3研究告訴我們的關於血壓血脂治療觀念的改變
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/HOPE-3-title.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/metformin-adjust-in-ckd/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1334,6 +1424,7 @@
   - 腎功能
   - !!python/unicode 'Metformin'
   !!python/unicode 'title': 美國FDA修改Metformin在腎功能不佳的劑量調整
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/Metfromin-in-CKD.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/melatonin-and-insulin-secretion/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1345,6 +1436,7 @@
   - 糖尿病
   - 褪黑激素
   !!python/unicode 'title': 褪黑激素與胰島素分泌的關聯
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/melatonin-and-insulin-secretion.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/legacy-effect-of-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1357,6 +1449,7 @@
   - 控制血糖
   - 糖尿病
   !!python/unicode 'title': 積極血糖控制，越早做越好
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/image-1-e1486111110235.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/new-glp1-semaglutide-for-cv-outcome/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1368,6 +1461,7 @@
   - 百靈
   - !!python/unicode 'Empagliflozi'
   !!python/unicode 'title': 又有新的血糖藥可以降心血管風險！
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/Semaglutide可以降心血管風險.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/more-stand-more-health/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1377,6 +1471,7 @@
   - 辦公室
   - 久坐
   !!python/unicode 'title': 辦公室工作者多走少坐對身體有益
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/辦公室工作者多走少坐對身體有益.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/beer-not-reduction-cholesterol/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1387,6 +1482,7 @@
   - 減肥
   - 啤酒
   !!python/unicode 'title': 偽新聞-啤酒可減肥降膽固醇是錯的
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/05/偽新聞-啤酒可減肥降膽固醇是錯的-e1486111506593.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/islet-transplantation-in-t1dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1402,6 +1498,7 @@
   - 移植
   - 體質
   !!python/unicode 'title': 第一型糖尿病治療新曙光-胰島細胞移植
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/image-e1486111615139.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dmq02-is-insulin-means-hd/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1412,6 +1509,7 @@
   - 胰島素
   - 洗腎
   !!python/unicode 'title': 糖尿病大哉問02-打胰島素表示糖尿病很嚴重，而且打了會洗腎？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/糖尿病大哉問.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dmq01-can-dm-be-cured/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1421,6 +1519,7 @@
   - 糖尿病
   - 治好
   !!python/unicode 'title': 糖尿病大哉問01-糖尿病可以治好嗎？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/糖尿病大哉問.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/medical-information-about-995/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1430,6 +1529,7 @@
   - !!python/unicode '995'
   - 葡眾
   !!python/unicode 'title': 關於葡眾995的醫學資訊
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/葡眾995的醫學資訊.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/long-term-outcome-of-metabolic-surgery-for-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1442,6 +1542,7 @@
   - 不佳
   - 糖尿病
   !!python/unicode 'title': 控制不佳的肥胖糖尿病患者，開刀治療會是好選項
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/開刀治療糖尿病-e1486113162648.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/diet-could-not-complete-treat-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1455,6 +1556,7 @@
   - 安素
   - 代餐
   !!python/unicode 'title': 那些代言葡勝納可治療糖尿病的真該下地獄！
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/那些代言葡勝納可治療糖尿病的真該下地獄-e1486118344161.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/no-eat-which-can-treat-everything/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1465,6 +1567,7 @@
   - 營養食品
   - 葡勝納
   !!python/unicode 'title': 如果直銷的營養食品告訴你可以治百病，就別吃了
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/別吃可治百病的直銷食品-e1486118709264.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/very-low-calorie-to-cure-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1475,6 +1578,7 @@
   - 低熱量
   - 糖尿病
   !!python/unicode 'title': 非常低熱量的飲食可以治好糖尿病，但是….
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/非常低熱量飲食可治好糖尿病-e1486119019563.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/fresh-fruit-prevent-cvd/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1485,6 +1589,7 @@
   - 心血管
   - 水果
   !!python/unicode 'title': 新鮮水果可以預防心血管疾病
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/04/新鮮水果可預防心血管疾病-e1486120181243.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/verapamil-lower-glucose/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1502,6 +1607,7 @@
   - 降血壓
   - 心律不整
   !!python/unicode 'title': 血壓藥Verapamil可降血糖
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/03/血壓藥Verapamil可降血糖.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/liraglutide-lower-cv-risk/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1515,6 +1621,7 @@
   - 血管
   - 中風
   !!python/unicode 'title': Liraglutide能降低心血管疾病的風險！
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/03/Liraglutide能降低心血管疾病的風險.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-with-common-cold-early-2016/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1532,6 +1639,7 @@
   - 喉嚨痛
   - !!python/unicode '2015'
   !!python/unicode 'title': 糖尿病患者的感冒預防，治療及日常生活注意事項-2016年版
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/03/糖尿病患者的感冒預防，治療及日常生活注意事項-2016年版.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/pioglitazone-secondary-prevention-2/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1542,6 +1650,7 @@
   - 中風
   - 心肌梗塞
   !!python/unicode 'title': Pioglitazone可預防再次發生心肌梗塞或是中風的風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2016/02/Pioglitazone可預防再次發生心肌梗塞或是中風.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/diet-high-sugar-insulin-htn/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1553,6 +1662,7 @@
   - 高糖
   - 中風
   !!python/unicode 'title': 高糖高脂飲食 對身體不利！！
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/11/高糖高脂飲食對身體不利.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/triple-therapy-for-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1566,6 +1676,7 @@
   - 藥物
   - 治療
   !!python/unicode 'title': 血糖藥怎麼開比較好
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/11/血糖藥怎麼開比較好.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/diabetes-screen/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1575,6 +1686,7 @@
   - 篩選
   - 糖尿病
   !!python/unicode 'title': 何時該做糖尿病篩選？美國這麼說….
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/10/E89EA2E5B995E5BFABE785A72015-10-2820.18.20.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/gdm-diagnosis/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1584,6 +1696,7 @@
   - 妊娠
   - 糖尿病
   !!python/unicode 'title': 為什麼錯誤的資訊總是可以寫成暢銷書呢？兼談妊娠糖尿病的診斷
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/09/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/empa-reg-cv-outcome/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1593,6 +1706,7 @@
   - !!python/unicode 'Empagliflozin'
   - 心血管
   !!python/unicode 'title': Empagliflozin降低心血管疾病風險！
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/09/image-3.jpeg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/about-obesity-reduction/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1602,6 +1716,7 @@
   - 減肥
   - 減重
   !!python/unicode 'title': 關於減重的資訊
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/09/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001-1.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt-2-adverse-effect/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1616,6 +1731,7 @@
   - 骨折
   - !!python/unicode 'SGLT'
   !!python/unicode 'title': SGLT2抑制劑與糖尿病酮酸中毒進一步資料以及骨折的風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/09/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001-2.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/glucose-variability/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1626,6 +1742,7 @@
   - 血糖
   - 震盪
   !!python/unicode 'title': 正常健康者的血糖波動
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/09/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001-3.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/what-you-should-know-about-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1635,6 +1752,7 @@
   - 血糖
   - 震盪
   !!python/unicode 'title': 沒有血糖震盪，別追求糖尿病痊癒….
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/08/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/actos-no-bladder-cancer-tzd-hx/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1647,6 +1765,7 @@
   - 膀胱癌
   - !!python/unicode 'JAMA'
   !!python/unicode 'title': Pioglitazone與膀胱癌無關-兼談TZD類藥物的血淚心酸史
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/07/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/liraglutide-obesity/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1659,6 +1778,7 @@
   - 減肥
   - 節食
   !!python/unicode 'title': 減重，荷爾蒙的變化，以及藥物的新契機
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/07/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001-3.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/choice-of-glucse-meter/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1668,6 +1788,7 @@
   - 血糖機
   - 血糖
   !!python/unicode 'title': 血糖機這麼多種，怎麼買？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/07/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001-4.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/sglt2-not-so-safe/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1681,6 +1802,7 @@
   - 酸中毒
   - 糖尿病
   !!python/unicode 'title': 小心！SGLT-2抑制劑沒有我們想像中的安全
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/06/E983A8E890BDE6A0BCE69687E7ABA0E59C96E78987.001-1.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/paired-test-in-dm-pt/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1693,6 +1815,7 @@
   - 糖尿病
   - 監控
   !!python/unicode 'title': 糖尿病患者的血糖如何測量與紀錄?小黃醫師來教你
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/05/10660320_1060395273984821_6287655473718944009_n.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/drug-for-dm-and-dyslipidemia/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1703,6 +1826,7 @@
   - 高血脂
   - !!python/unicode 'Cadila'
   !!python/unicode 'title': 治療高血脂又可以降血糖？真的有這種藥
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/05/E7B396E5B0BFE79785E682A3E79A84E9818BE58B95E6B3A8E6848FE9A085E79BAE.001.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-pt-in-rain-season/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1711,6 +1835,7 @@
   tag:
   - 梅雨季
   !!python/unicode 'title': 梅雨季到了，以下三點，糖尿病患者該注意！
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/05/E7B396E5B0BFE79785E682A3E79A84E9818BE58B95E6B3A8E6848FE9A085E79BAE.001-1.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/exercise-prevent-dm-htn-dyslipidemia/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1719,6 +1844,7 @@
   tag:
   - 運動
   !!python/unicode 'title': 運動可預防和治療三高
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/05/運動可預防和治療三高.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/how-to-smbg/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1728,6 +1854,7 @@
   - 監控
   - 血糖
   !!python/unicode 'title': 自我血糖監控
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/05/自我血糖監控.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/possible-for-t1dm-vaccine/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1739,6 +1866,7 @@
   - 第一型
   - 第1型
   !!python/unicode 'title': 第一型糖尿病疫苗的新曙光
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/05/2015-04-2816.22.37.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/dm-pt-when-common-cold/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1747,6 +1875,7 @@
   tag:
   - 感冒
   !!python/unicode 'title': 糖尿病患者有感冒時該怎麼辦？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/04/糖尿病患者有感冒時該怎麼辦-e1486121973261.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/glyburide-in-gdm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1757,6 +1886,7 @@
   - 妊娠
   - 懷孕
   !!python/unicode 'title': Glyburide使用在妊辰糖尿病的安全性？
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/04/Glyburide使用在妊辰糖尿病的安全性-e1486174902294.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/close-tv-for-dm-prevention/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1765,6 +1895,7 @@
   tag:
   - 電視
   !!python/unicode 'title': 關掉電視吧，那會減少你的糖尿病風險
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2015/04/關掉電視吧，那會減少你的糖尿病風險-e1486175909430.png
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/koala-stress-syndrome/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1775,6 +1906,7 @@
   - 腎上腺
   - 無尾熊
   !!python/unicode 'title': 無尾熊壓力症候群，兼談重症的腎上腺不足
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2013/06/1335333557-211010333.jpg
 - !!python/unicode 'post_date': []
   !!python/unicode 'read_more_link': !!python/unicode 'http://www.huangrh.com.tw/triple-therapy-in-dm/'
   !!python/unicode 'source': !!python/unicode 'huangrh'
@@ -1784,6 +1916,7 @@
   - 治療
   - 三合一
   !!python/unicode 'title': 糖尿病的新治療典範？談三合一治療法
+  url_og_image: http://www.huangrh.com.tw/wp-content/uploads/2013/06/談三合一治療法.png
 - source: !!python/str '衛生福利部國民健康署<糖尿病與我>'
   summary: !!python/str '糖尿病友貼心小叮嚀
 
