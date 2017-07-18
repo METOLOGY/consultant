@@ -181,7 +181,7 @@ class Consultant:
 
         articles_with_tags = []
         articles_with_tags = self.read_articles_with_tags()
-        #self.build_tag_to_article_ids(articles_with_tags)
+        self.build_tag_to_article_ids(articles_with_tags)
         tag_to_article_ids = self.read_tag_to_article_ids()
 
         #split sentence of question into words with weight
@@ -225,8 +225,8 @@ class Consultant:
                 break
 
             id = id_and_score[0]
-            print id,":" ,str(int(id))
-            print articles_with_tags[int(id)]
+            print "adopted", id,":" ,str(int(id))," -",articles_with_tags[int(id)]['source'],"-",count
+            #print articles_with_tags[int(id)]
             result.append(articles_with_tags[int(id)])
             count += 1
         #print "finish getting result:"+str(datetime.now())
